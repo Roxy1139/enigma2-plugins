@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-12-03 15:01+0000\n"
 "PO-Revision-Date: \n"
-"Last-Translator: jerry00 <jerry00@quick.cz>\n"
+"Last-Translator: jerry00 (Roxy1139) <jerry00@quick.cz>\n"
 "Language-Team: jerry00\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -18,25 +18,27 @@ msgstr ""
 "X-Poedit-SearchPath-0: ../src\n"
 
 msgid "Autoresolution"
-msgstr "Auto-rozlišení"
+msgstr "Aut.rozlišení"
 
 #, python-format
 msgid ""
 "Autoresolution Plugin Testmode:\n"
 "Is %s OK?"
 msgstr ""
+"Test.mód modulu Autoresolution:\n"
+"Je %s OK ?"
 
 msgid "Autoresolution Switch"
-msgstr ""
+msgstr "Přepnout aut.rozlišení"
 
 msgid "Autoresolution is not working in Scart/DVI-PC Mode"
-msgstr ""
+msgstr "Aut.rozlišení nepracuje ve Scart/DVI-PC módu"
 
 msgid "Autoresolution settings"
-msgstr ""
+msgstr "Nastavení aut.rozlišení"
 
 msgid "Autoresolution videomode setup"
-msgstr ""
+msgstr "Nastavení módu aut.rozlišení"
 
 msgid "Cancel"
 msgstr "Zrušit"
@@ -63,7 +65,7 @@ msgid "Enable 720p24 Mode"
 msgstr "Zapnout režim 720p24"
 
 msgid "Enable Autoresolution"
-msgstr "Zapnout Auto-rozlišení"
+msgstr "Zapnout aut.rozlišení"
 
 msgid "HD Interlace Mode"
 msgstr "HD prokládaný režim"
@@ -72,22 +74,22 @@ msgid "HD Progressive Mode"
 msgstr "HD progresivní režim"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Refresh Rate"
-msgstr ""
+msgstr "Obnovovací kmitočet"
 
 msgid "Running in testmode"
 msgstr "Spustit v testovacím režimu"
 
 msgid "SD 24HZ Progressive mode"
-msgstr "SD 24HZ prograsivní režim"
+msgstr "SD 24HZ progresivní režim"
 
 msgid "SD 25/50HZ Interlace Mode"
 msgstr "SD 25/50HZ prokládaný režim"
 
 msgid "SD 25/50HZ Progressive Mode"
-msgstr ""
+msgstr "SD 25/50HZ progresivní režim"
 
 msgid "SD 30/60HZ Interlace Mode"
 msgstr "SD 30/60HZ prokládaný režim"
@@ -99,25 +101,25 @@ msgid "Show info screen"
 msgstr "Zobrazit panel informací"
 
 msgid "auto"
-msgstr ""
+msgstr "aut."
 
 msgid "bob"
-msgstr ""
+msgstr "bob"
 
 msgid "default"
 msgstr "výchozí"
 
 msgid "off"
-msgstr ""
+msgstr "vyp."
 
 msgid "on"
-msgstr ""
+msgstr "zap."
 
 msgid "second"
-msgstr ""
+msgstr "sekunda"
 
 msgid "seconds"
-msgstr ""
+msgstr "sekund"
 
 #~ msgid "Automatic Timerlist Cleanup Setup"
 #~ msgstr "Automatické nastavení Vyčištění časovače"
