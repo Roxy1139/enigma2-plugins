@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdvancedMovieSelection(POT)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-01 18:46+0100\n"
+"PO-Revision-Date: 2013-10-01 18:46+0100\n"
+"Last-Translator: cmikula\n"
+"Language-Team: IhaD <JackDaniel@i-have-a-dreambox.com>\n"
+"Language: de_AT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _(;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../SearchTVDb.py:124
+msgid "Sorry, no description found at www.thetvdb.com!"
+msgstr ""
+
+#: ../SearchTVDb.py:126
+#: ../SearchTVDb.py:148
+#, python-format
+msgid "ID: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:149
+#, python-format
+msgid "Season: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:150
+#, python-format
+msgid "Episode: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:159
+msgid "Show serie detail"
+msgstr ""
+
+#: ../SearchTVDb.py:160
+msgid "Show episode detail"
+msgstr ""
+
+#: ../SearchTVDb.py:161
+msgid "Show episodes overview"
+msgstr ""
+
+#: ../SearchTVDb.py:162
+msgid "Show search result"
+msgstr ""
+
+#: ../SearchTVDb.py:163
+#: ../DownloadMovies.py:66
+msgid "Manual search"
+msgstr ""
+
+#: ../SearchTVDb.py:164
+msgid "Info/Cover save"
+msgstr ""
+
+#: ../SearchTVDb.py:165
+#: ../AdvancedMovieSelectionSetup.py:677
+msgid "Trailer search"
+msgstr ""
+
+#: ../SearchTVDb.py:261
+#: ../AdvancedMovieSelectionSetup.py:669
+#: ../MovieSelection.py:183
+msgid "TheTVDB Info & D/L"
+msgstr ""
+
+#: ../SearchTVDb.py:262
+#, python-format
+msgid "Searching for ' %s ' on TheTVDB.com, please wait ..."
+msgstr ""
+
+#: ../SearchTVDb.py:313
+msgid "Sorry, no data found at TheTVDB.com!"
+msgstr ""
+
+#: ../SearchTVDb.py:326
+#: ../SearchTVDb.py:328
+#: ../SearchTVDb.py:370
+#: ../SearchTVDb.py:372
+#, python-format
+msgid "Total %s"
+msgstr ""
+
+#: ../SearchTVDb.py:326
+msgid "show found"
+msgstr ""
+
+#: ../SearchTVDb.py:328
+msgid "shows found"
+msgstr ""
+
+#: ../SearchTVDb.py:333
+#, python-format
+msgid "Episodes for: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:358
+#: ../SearchTVDb.py:389
+msgid "Sorry, no description for this episode at TheTVDB.com available!"
+msgstr ""
+
+#: ../SearchTVDb.py:370
+msgid "episode found"
+msgstr ""
+
+#: ../SearchTVDb.py:372
+msgid "episodes found"
+msgstr ""
+
+#: ../SearchTVDb.py:381
+#, python-format
+msgid "Episode details for: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:383
+msgid "Sorry, no episode titel available!"
+msgstr ""
+
+#: ../SearchTVDb.py:395
+#, python-format
+msgid "Regie: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:400
+#, python-format
+msgid "Writer: %s\n"
+msgstr ""
+
+#: ../SearchTVDb.py:408
+#, python-format
+msgid "Guest Stars: %s\n"
+msgstr ""
+
+#: ../SearchTVDb.py:412
+#: ../SearchTVDb.py:453
+#, python-format
+msgid "First Aired: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:430
+msgid "Enter new movie name for search:"
+msgstr ""
+
+#: ../SearchTVDb.py:445
+#, python-format
+msgid "Sorry, no description for ' %s ' at TheTVDB.com found!"
+msgstr ""
+
+#: ../SearchTVDb.py:457
+#, python-format
+msgid "Air Day: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:463
+#, python-format
+msgid "Air Time: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:467
+#, python-format
+msgid "Runtime: %s minutes\n"
+msgstr ""
+
+#: ../SearchTVDb.py:471
+#, python-format
+msgid "Broadcast TV network: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:477
+#, python-format
+msgid "Genre: %s\n"
+msgstr ""
+
+#: ../SearchTVDb.py:481
+#, python-format
+msgid "Certification: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:490
+#, python-format
+msgid "Rating: %s\n"
+msgstr ""
