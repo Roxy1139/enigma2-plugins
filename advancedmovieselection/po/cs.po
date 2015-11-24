@@ -16,68 +16,68 @@ msgstr ""
 
 #: ../SearchTVDb.py:124
 msgid "Sorry, no description found at www.thetvdb.com!"
-msgstr ""
+msgstr "Nebyl nalezený popis v www.thetvdb.com !"
 
 #: ../SearchTVDb.py:126
 #: ../SearchTVDb.py:148
 #, python-format
 msgid "ID: %s"
-msgstr ""
+msgstr "ID: %s"
 
 #: ../SearchTVDb.py:149
 #, python-format
 msgid "Season: %s"
-msgstr ""
+msgstr "Sezóna : %s"
 
 #: ../SearchTVDb.py:150
 #, python-format
 msgid "Episode: %s"
-msgstr ""
+msgstr "Epizoda :  %s"
 
 #: ../SearchTVDb.py:159
 msgid "Show serie detail"
-msgstr ""
+msgstr "Zobrazit info o sérii"
 
 #: ../SearchTVDb.py:160
 msgid "Show episode detail"
-msgstr ""
+msgstr "Zobrazit detaily z epizody"
 
 #: ../SearchTVDb.py:161
 msgid "Show episodes overview"
-msgstr ""
+msgstr "Zobrazit přehled epizod"
 
 #: ../SearchTVDb.py:162
 msgid "Show search result"
-msgstr ""
+msgstr "Vyhledané možnosti"
 
 #: ../SearchTVDb.py:163
 #: ../DownloadMovies.py:66
 msgid "Manual search"
-msgstr ""
+msgstr "Manuálně vyhledat"
 
 #: ../SearchTVDb.py:164
 msgid "Info/Cover save"
-msgstr ""
+msgstr "Hledat info / potisk "
 
 #: ../SearchTVDb.py:165
 #: ../AdvancedMovieSelectionSetup.py:677
 msgid "Trailer search"
-msgstr ""
+msgstr "Hledat upoutávku"
 
 #: ../SearchTVDb.py:261
 #: ../AdvancedMovieSelectionSetup.py:669
 #: ../MovieSelection.py:183
 msgid "TheTVDB Info & D/L"
-msgstr ""
+msgstr "TVDB info & D/L"
 
 #: ../SearchTVDb.py:262
 #, python-format
 msgid "Searching for ' %s ' on TheTVDB.com, please wait ..."
-msgstr ""
+msgstr "Hledám ' %s ' v TheTVDB.com, čekejte ..."
 
 #: ../SearchTVDb.py:313
 msgid "Sorry, no data found at TheTVDB.com!"
-msgstr ""
+msgstr "Data v TheTVDB.com nebyla nalezena !"
 
 #: ../SearchTVDb.py:326
 #: ../SearchTVDb.py:328
@@ -85,113 +85,112 @@ msgstr ""
 #: ../SearchTVDb.py:372
 #, python-format
 msgid "Total %s"
-msgstr ""
+msgstr "Celkem :  %s"
 
 #: ../SearchTVDb.py:326
 msgid "show found"
-msgstr ""
+msgstr "Zobrazit nalezený "
 
 #: ../SearchTVDb.py:328
 msgid "shows found"
-msgstr ""
+msgstr "Zobrazit nalezené "
 
 #: ../SearchTVDb.py:333
 #, python-format
 msgid "Episodes for: %s"
-msgstr ""
+msgstr "epizoda pro :  %s"
 
 #: ../SearchTVDb.py:358
 #: ../SearchTVDb.py:389
 msgid "Sorry, no description for this episode at TheTVDB.com available!"
-msgstr ""
+msgstr "Nebyl nalezený popis pro epizodu z TheTVDB.com !"
 
 #: ../SearchTVDb.py:370
 msgid "episode found"
-msgstr ""
+msgstr "Epizoda byla nalezena"
 
 #: ../SearchTVDb.py:372
 msgid "episodes found"
-msgstr ""
+msgstr "Epizody byly nalezeny"
 
 #: ../SearchTVDb.py:381
 #, python-format
 msgid "Episode details for: %s"
-msgstr ""
+msgstr "Detaily epizody pro :  %s"
 
 #: ../SearchTVDb.py:383
 msgid "Sorry, no episode titel available!"
-msgstr ""
+msgstr "Nebyl nalezený titulek epozody !"
 
 #: ../SearchTVDb.py:395
 #, python-format
 msgid "Regie: %s"
-msgstr ""
+msgstr "Režie :  %s"
 
 #: ../SearchTVDb.py:400
 #, python-format
 msgid "Writer: %s\n"
-msgstr ""
+msgstr "Autor :  %s"
 
 #: ../SearchTVDb.py:408
 #, python-format
 msgid "Guest Stars: %s\n"
-msgstr ""
+msgstr "Hostující hvězdy :  %s"
 
 #: ../SearchTVDb.py:412
 #: ../SearchTVDb.py:453
 #, python-format
 msgid "First Aired: %s"
-msgstr ""
+msgstr "Premiéra :  %s"
 
 #: ../SearchTVDb.py:430
 msgid "Enter new movie name for search:"
-msgstr ""
+msgstr "Zadejte nový název videa pro hledání : "
 
 #: ../SearchTVDb.py:445
 #, python-format
 msgid "Sorry, no description for ' %s ' at TheTVDB.com found!"
-msgstr ""
+msgstr "Sorry, popis pro ' %s ' v TheTVDB.com chybí !"
 
 #: ../SearchTVDb.py:457
 #, python-format
 msgid "Air Day: %s"
-msgstr ""
+msgstr "Volný den :  %s"
 
 #: ../SearchTVDb.py:463
 #, python-format
 msgid "Air Time: %s"
-msgstr ""
+msgstr "Volný čas :  %s"
 
 #: ../SearchTVDb.py:467
 #, python-format
 msgid "Runtime: %s minutes\n"
-msgstr ""
+msgstr "Délka filmu :  %s minut"
 
 #: ../SearchTVDb.py:471
 #, python-format
 msgid "Broadcast TV network: %s"
-msgstr ""
+msgstr "Vysílání TV po síti :  %s"
 
 #: ../SearchTVDb.py:477
 #, python-format
 msgid "Genre: %s\n"
-msgstr ""
+msgstr "Žánr :  %s"
 
 #: ../SearchTVDb.py:481
 #, python-format
 msgid "Certification: %s"
-msgstr ""
+msgstr "Certifikát : %s"
 
 #: ../SearchTVDb.py:490
 #, python-format
 msgid "Rating: %s\n"
-msgstr ""
-
+msgstr "Hodnocení :  %s"
 
 #: ../SearchTVDb.py:494
 #, python-format
 msgid "Actors: %s\n"
-msgstr ""
+msgstr "Herec :  %s"
 
 #: ../SearchTVDb.py:499
 #, python-format
@@ -199,229 +198,231 @@ msgid ""
 "\n"
 "Last modified at TheTVDB.com: %s"
 msgstr ""
+"\n"
+"Poslední změna TheTVDB.com : %s"
 
 #: ../SearchTVDb.py:506
 #, python-format
 msgid "Voted: %s"
-msgstr ""
+msgstr "Zvoleno : %s"
 
 #: ../SearchTVDb.py:506
 msgid "times"
-msgstr ""
+msgstr "časy"
 
 #: ../SearchTVDb.py:508
 msgid "No user voted!"
-msgstr ""
+msgstr "Žádný uživatel nehlasoval !"
 
 #: ../SearchTVDb.py:592
 #: ../MovieSelection.py:353
 msgid "No internet connection available!"
-msgstr ""
+msgstr "Internetové připojení není dostupné !"
 
 #: ../SearchTVDb.py:617
 #: ../SearchTVDb.py:721
 #, python-format
 msgid "Details for: %s"
-msgstr ""
+msgstr "Detaily pro :  %s"
 
 #: ../SearchTVDb.py:632
 #, python-format
 msgid "Search result for: %s"
-msgstr ""
+msgstr "Vyhledat :  %s"
 
 #: ../SearchTVDb.py:742
 #, python-format
 msgid "Save Info/Cover for ' %s ', please wait ..."
-msgstr ""
+msgstr "Ukládám info / potisk pro : '%s' , čekejte..."
 
 #: ../SearchTVDb.py:764
 #, python-format
 msgid "Getting show details for ' %s ', please wait ..."
-msgstr ""
+msgstr "Načítán detaily k sérii '%s', čekejte..."
 
 #: ../SearchTVDb.py:766
 #, python-format
 msgid "Search trailer for ' %s ', please wait ..."
-msgstr ""
+msgstr "Hledám ukázku pro : '%s', čekejte..."
 
 #: ../SearchTVDb.py:768
 #, python-format
 msgid "Getting search result for ' %s ', please wit ..."
-msgstr ""
+msgstr "Načítán hodnocení pro '%s', čekejte..."
 
 #: ../SearchTVDb.py:778
 #, python-format
 msgid "Getting episodes list for ' %s ', please wait ..."
-msgstr ""
+msgstr "Načítán seznam epizod '%s', čekejte..."
 
 #: ../SearchTVDb.py:782
 #, python-format
 msgid "Getting episodes details for ' %s ', please wait ..."
-msgstr ""
+msgstr "Načítán detaily k epizodě '%s', čekejte..."
 
 #: ../RecordPaths.py:34
 msgid "Record Paths Settings"
-msgstr ""
+msgstr "Nastavení složky pro záznam"
 
 #: ../RecordPaths.py:47
 msgid "Move/copy location:"
-msgstr ""
+msgstr "Přesun / kopírování složky : "
 
 #: ../RecordPaths.py:57
 msgid "Please select the default move/copy location which is used for move/copy movies."
-msgstr ""
+msgstr "Zadejte složku pro přesun nebo kopírování !"
 
 #: ../RecordPaths.py:67
 msgid "Location for move/copy files"
-msgstr ""
+msgstr "Předvolená složka pro kopírování a přesun souborů : "
 
 #: ../AdvancedKeyboard.py:98
 msgid "Advanced Movie Selection - Input help"
-msgstr ""
+msgstr "Advanced Movie Selection -nápověda"
 
 #: ../Wastebasket.py:85
 msgid "Record date:"
-msgstr ""
+msgstr "Datum záznamu : "
 
 #: ../Wastebasket.py:86
 msgid "Record time:"
-msgstr ""
+msgstr "Čas záznamu : "
 
 #: ../Wastebasket.py:193
 msgid "Delete selected movie"
-msgstr ""
+msgstr "Odstranit vybrané video"
 
 #: ../Wastebasket.py:194
 #: ../Wastebasket.py:199
 msgid "Restore movie"
-msgstr ""
+msgstr "Obnovit video (jedno)"
 
 #: ../Wastebasket.py:195
 msgid "Empty wastbasket"
-msgstr ""
+msgstr "Koš je prázdný"
 
 #: ../Wastebasket.py:196
 #: ../Wastebasket.py:201
 msgid "Restore all movies"
-msgstr ""
+msgstr "Obnovit všechna videa"
 
 #: ../Wastebasket.py:198
 msgid "Delete movie"
-msgstr ""
+msgstr "Odstranit video"
 
 #: ../Wastebasket.py:200
 msgid "Empty Trash"
-msgstr ""
+msgstr "Vysypat koš"
 
 #: ../Wastebasket.py:202
 msgid "Please wait... Loading trash list..."
-msgstr ""
+msgstr "Čekejte, načítám seznam z koše..."
 
 #: ../Wastebasket.py:215
 msgid "Exit wastebasket"
-msgstr ""
+msgstr "Zavřít koš"
 
 #: ../Wastebasket.py:219
 #: ../MovieSelection.py:286
 msgid "Clientbox setup"
-msgstr ""
+msgstr "Nastavit přijímač klienta"
 
 #: ../Wastebasket.py:225
 msgid "Advanced Movie Selection - Wastebasket"
-msgstr ""
+msgstr "Advanced Movie Selection -koš "
 
 #: ../Wastebasket.py:227
 #: ../MovieSelection.py:730
 msgid "ATTENTION: Ask before delete is disabled!"
-msgstr ""
+msgstr "Upozornění : dotaz před odstraněním nebo deaktivací !"
 
 #: ../Wastebasket.py:234
 msgid "Last automated wastebasket empty:"
-msgstr ""
+msgstr "Poslední aut. vysypání koše : %s"
 
 #: ../Wastebasket.py:234
 msgid "Never!"
-msgstr ""
+msgstr "Ještě nikdy !"
 
 #: ../Wastebasket.py:237
 #: ../Wastebasket.py:240
 #: ../Wastebasket.py:249
 #: ../Wastebasket.py:253
 msgid "at"
-msgstr ""
+msgstr "v "
 
 #: ../Wastebasket.py:237
 #: ../Wastebasket.py:240
 #: ../Wastebasket.py:249
 #: ../Wastebasket.py:253
 msgid "Clock"
-msgstr ""
+msgstr "Hodiny"
 
 #: ../Wastebasket.py:238
 #, python-format
 msgid "Last automated wastebasket empty at %s"
-msgstr ""
+msgstr "Poslední aut. vysypání koše : %s"
 
 #: ../Wastebasket.py:241
 #, python-format
 msgid "Next automated wastebasket empty at %s"
-msgstr ""
+msgstr "Další aut.vyprázdnění koše bude v :  %s"
 
 #: ../Wastebasket.py:249
 #, python-format
 msgid "Last remote wastebasket empty at %s"
-msgstr ""
+msgstr "Poslední dálkové vysypání koše : %s"
 
 #: ../Wastebasket.py:253
 #, python-format
 msgid "Next remote wastebasket empty at %s"
-msgstr ""
+msgstr "Další aut. vzdálené vyprázdnění koše bude v :  %s"
 
 #: ../Wastebasket.py:255
 msgid "No last empty status available!"
-msgstr ""
+msgstr "Poslední stav není dostupný !"
 
 #: ../Wastebasket.py:256
 msgid "No next empty status available!"
-msgstr ""
+msgstr "Následující stav není dostupný !"
 
 #: ../Wastebasket.py:258
 msgid "Auto empty wastebasket is disabled"
-msgstr ""
+msgstr "Aut.vysypávání koše je deaktivováno"
 
 #: ../Wastebasket.py:275
 #: ../Wastebasket.py:277
 #, python-format
 msgid "Wastebasket: %s"
-msgstr ""
+msgstr "Koš :  %s"
 
 #: ../Wastebasket.py:286
 #, python-format
 msgid "Trash count: %d"
-msgstr ""
+msgstr "Celkem filmů :  %d"
 
 #: ../Wastebasket.py:286
 #, python-format
 msgid "Trash size: %d MB"
-msgstr ""
+msgstr "Celková velikost :  %d MB"
 
 #: ../Wastebasket.py:288
 msgid "Trash size:"
-msgstr ""
+msgstr "Celková velikost : "
 
 #: ../Wastebasket.py:289
 msgid "Trash count:"
-msgstr ""
+msgstr "Celkem filmů : "
 
 #: ../Wastebasket.py:291
 msgid "Wastebasket is empty!"
-msgstr ""
+msgstr "Koš je prázdný !"
 
 #: ../Wastebasket.py:309
 #: ../MovieSelection.py:813
 #, python-format
 msgid "Do you really want to delete %s?"
-msgstr ""
+msgstr "Chcete odstranit  %s ?"
 
 #: ../Wastebasket.py:321
 msgid ""
@@ -429,15 +430,18 @@ msgid ""
 "Now movie delete can damage the recording(s)!\n"
 "Realy delete movie?"
 msgstr ""
+"Běží záznam nebo se připravuje !\n"
+"Pokud nyní vysypete koš, může to záznam poškodit !\n"
+"Vypat koš nyní ?"
 
 #: ../Wastebasket.py:330
 msgid "Do you really want to delete all movies?"
-msgstr ""
+msgstr "Chcete odstranit všechna videa ?"
 
 #: ../Wastebasket.py:342
 #: ../MovieSelection.py:880
 msgid "Delete failed!"
-msgstr ""
+msgstr "Odstranění selhalo !"
 
 #: ../Wastebasket.py:354
 msgid ""
@@ -445,42 +449,45 @@ msgid ""
 "Now empty the Wastebasket can damage the recording(s)!\n"
 "Realy empty the Wastbasket?"
 msgstr ""
+"Běží záznam nebo se připravuje !\n"
+"Pokud nyní vysypete koš, může to záznam poškodit !\n"
+"Vysypat koš nyní ?"
 
 #: ../Wastebasket.py:378
 #: ../Wastebasket.py:391
 msgid "Restore failed!"
-msgstr ""
+msgstr "Obnovení selhalo !"
 
 #: ../plugin.py:79
 #: ../plugin.py:128
 msgid "Setup Advanced Movie Selection"
-msgstr ""
+msgstr "Advanced Movie Selection - nastavení"
 
 #: ../plugin.py:125
 #: ../plugin.py:126
 #: ../MovieSelection.py:932
 msgid "Advanced Movie Selection"
-msgstr ""
+msgstr "Advanced Movie Selection"
 
 #: ../plugin.py:125
 #: ../plugin.py:126
 #: ../plugin.py:128
 #: ../plugin.py:129
 msgid "Alternate Movie Selection"
-msgstr ""
+msgstr "-- alternativní přehrávání videa"
 
 #: ../plugin.py:127
 msgid "Move Copy Progress"
-msgstr ""
+msgstr "Průběh kopírování / přesunu"
 
 #: ../plugin.py:127
 msgid "Show progress of move or copy job"
-msgstr ""
+msgstr "Zobrazit průběh kopírování nebo přesunu"
 
 #: ../Rename.py:67
 #: ../AdvancedMovieSelectionSetup.py:216
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 #: ../Rename.py:68
 #: ../MoveCopy.py:249
@@ -491,97 +498,97 @@ msgstr ""
 #: ../SelectionListScreen.py:55
 #: ../SelectionListScreen.py:59
 msgid "Cancel"
-msgstr ""
+msgstr "Storno"
 
 #: ../Rename.py:78
 msgid "Location:"
-msgstr ""
+msgstr "Umístění : "
 
 #: ../Rename.py:85
 msgid "Displayed bookmark name:"
-msgstr ""
+msgstr "Zobrazit označení záložky : "
 
 #: ../Rename.py:87
 msgid "Foldername:"
-msgstr ""
+msgstr "Složka : "
 
 #: ../Rename.py:89
 msgid "Filename:"
-msgstr ""
+msgstr "Soubor : "
 
 #: ../Rename.py:90
 msgid "Movietitle:"
-msgstr ""
+msgstr "Video :"
 
 #: ../Rename.py:91
 msgid "Description:"
-msgstr ""
+msgstr "Popis : "
 
 #: ../Rename.py:105
 msgid "Change Bookmarkname"
-msgstr ""
+msgstr "Změnit označení záložky"
 
 #: ../Rename.py:107
 msgid "Change Foldername"
-msgstr ""
+msgstr "Změnit název složky"
 
 #: ../Rename.py:109
 msgid "Change File/Moviename and/or Description"
-msgstr ""
+msgstr "Změnit název souboru videa a popis"
 
 #: ../MoveCopy.py:48
 msgid "Job failed"
-msgstr ""
+msgstr "Akce selhala !"
 
 #: ../MoveCopy.py:49
 #: ../MoveCopy.py:125
 #: ../MoveCopy.py:280
 #: ../MovieSelection.py:1117
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 #: ../MoveCopy.py:113
 #: ../MoveCopy.py:282
 #: ../MoveCopy.py:380
 msgid "Move"
-msgstr ""
+msgstr "Přesunout"
 
 #: ../MoveCopy.py:113
 #: ../MoveCopy.py:282
 #: ../MoveCopy.py:380
 msgid "Copy"
-msgstr ""
+msgstr "Kopírovat"
 
 #: ../MoveCopy.py:114
 msgid "Name:"
-msgstr ""
+msgstr "Název : "
 
 #: ../MoveCopy.py:116
 msgid "Cancelled"
-msgstr ""
+msgstr "Stornováno"
 
 #: ../MoveCopy.py:118
 #: ../MoveCopy.py:278
 msgid "Finished"
-msgstr ""
+msgstr "Dokončeno"
 
 #: ../MoveCopy.py:127
 msgid "Error:"
-msgstr ""
+msgstr "v"
 
 #: ../MoveCopy.py:143
 msgid "Calculating..."
-msgstr ""
+msgstr "Výpočet ..."
 
 #: ../MoveCopy.py:147
 #, python-format
 msgid "Around %d minutes"
-msgstr ""
+msgstr "Asi %d  minut"
 
 #: ../MoveCopy.py:149
 #, python-format
 msgid "Around %d minute"
-msgstr ""
+msgstr "Asi %d  minutu"
 
 #: ../MoveCopy.py:151
 msgid "Seconds"
@@ -589,19 +596,19 @@ msgstr ""
 
 #: ../MoveCopy.py:152
 msgid "Second"
-msgstr ""
+msgstr "Sekundy"
 
 #: ../MoveCopy.py:157
 msgid "Status:"
-msgstr ""
+msgstr "Sekundy:"
 
 #: ../MoveCopy.py:159
 #: ../MoveCopy.py:269
 msgid "From:"
-msgstr ""
+msgstr "Od :"
 
 #: ../MoveCopy.py:160
 #: ../MoveCopy.py:270
 msgid "To:"
-msgstr ""
+msgstr "Do : "
 
