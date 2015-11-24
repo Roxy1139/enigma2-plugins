@@ -2997,3 +2997,464 @@ msgstr ""
 #: ../Seekbar.py:65
 msgid "Go manual to position (OK for seek):"
 msgstr ""
+
+#: ../Seekbar.py:86
+msgid "Advanced Movie Selection Seek"
+msgstr ""
+
+#: ../Seekbar.py:106
+msgid "Manual jump to:"
+msgstr ""
+
+#: ../SearchTMDb.py:94
+msgid "Only those, which are not available!"
+msgstr ""
+
+#: ../SearchTMDb.py:96
+msgid "Overwrite both (description & cover)"
+msgstr ""
+
+#: ../SearchTMDb.py:98
+msgid "Overwrite movie description"
+msgstr ""
+
+#: ../SearchTMDb.py:100
+msgid "Overwrite movie cover"
+msgstr ""
+
+#: ../SearchTMDb.py:103
+msgid "Data already exists! Should anything be updated?"
+msgstr ""
+
+#: ../SearchTMDb.py:198
+msgid "Show movie detail"
+msgstr ""
+
+#: ../SearchTMDb.py:220
+#: ../SearchTMDb.py:227
+msgid "Toggle detail and list view"
+msgstr ""
+
+#: ../SearchTMDb.py:221
+msgid "Save info/cover"
+msgstr ""
+
+#: ../SearchTMDb.py:231
+msgid "Move up"
+msgstr ""
+
+#: ../SearchTMDb.py:232
+msgid "Move down"
+msgstr ""
+
+#: ../SearchTMDb.py:236
+#: ../SearchTMDb.py:242
+msgid "Show previous cover"
+msgstr ""
+
+#: ../SearchTMDb.py:237
+#: ../SearchTMDb.py:241
+msgid "Show next cover"
+msgstr ""
+
+#: ../SearchTMDb.py:298
+#, python-format
+msgid "Searching for ' %s ' on TMDb, please wait ..."
+msgstr ""
+
+#: ../SearchTMDb.py:327
+#, python-format
+msgid "No data found for ' %s ' at themoviedb.org!"
+msgstr ""
+
+#: ../SearchTMDb.py:328
+#, python-format
+msgid ""
+"No data found for ' %s ' at themoviedb.org!\n"
+"Do you want to edit the search name?"
+msgstr ""
+
+#: ../SearchTMDb.py:339
+#: ../SearchTMDb.py:449
+#, python-format
+msgid ""
+"Error!\n"
+"%s"
+msgstr ""
+
+#: ../SearchTMDb.py:346
+msgid "movie found"
+msgstr ""
+
+#: ../SearchTMDb.py:353
+msgid "movies found"
+msgstr ""
+
+#: ../SearchTMDb.py:398
+#, python-format
+msgid "No description for ' %s ' at themoviedb.org found!"
+msgstr ""
+
+#: ../SearchTMDb.py:401
+#, python-format
+msgid "Appeared: %s"
+msgstr ""
+
+#: ../SearchTMDb.py:403
+#, python-format
+msgid "Runtime: %s minutes"
+msgstr ""
+
+#: ../SearchTMDb.py:421
+#, python-format
+msgid "Studio: %s"
+msgstr ""
+
+#: ../SearchTMDb.py:425
+#, python-format
+msgid "Director: %s"
+msgstr ""
+
+#: ../SearchTMDb.py:429
+#, python-format
+msgid "Production: %s\n"
+msgstr ""
+
+#: ../SearchTMDb.py:443
+msgid "Unknown error!!"
+msgstr ""
+
+#: ../SearchTMDb.py:549
+#, python-format
+msgid "Sorry, no info/cover found for title: %s"
+msgstr ""
+
+#: ../AdvancedMovieSelectionEventView.py:68
+msgid "TheTVDB search"
+msgstr ""
+
+#: ../AdvancedMovieSelectionEventView.py:69
+msgid "TMDb search"
+msgstr ""
+
+#: ../AdvancedMovieSelectionEventView.py:71
+msgid "IMDB search"
+msgstr ""
+
+#: ../AdvancedMovieSelectionEventView.py:76
+msgid "OFDb search"
+msgstr ""
+
+#: ../AdvancedMovieSelectionEventView.py:100
+msgid "Unknown service"
+msgstr ""
+
+#: ../AdvancedMovieSelectionEventView.py:110
+#, python-format
+msgid "Infos for: %s"
+msgstr ""
+
+#: ../AdvancedMovieSelectionEventView.py:112
+#, python-format
+msgid "Movie location: %s"
+msgstr ""
+
+#: ../Source/Config.py:30
+#: ../Source/Config.py:31
+#: ../Source/Config.py:32
+msgid "Ask user"
+msgstr ""
+
+#: ../Source/Config.py:30
+msgid "Resume from last position"
+msgstr ""
+
+#: ../Source/Config.py:30
+msgid "Start from the beginning"
+msgstr ""
+
+#: ../Source/Config.py:31
+#: ../Source/Config.py:32
+msgid "Return to movie list"
+msgstr ""
+
+#: ../Source/Config.py:31
+#: ../Source/Config.py:32
+msgid "Return to previous service"
+msgstr ""
+
+#: ../Source/Config.py:32
+msgid "Pause movie at end"
+msgstr ""
+
+#: ../Source/Config.py:32
+msgid "Shutdown"
+msgstr ""
+
+#: ../Source/Config.py:36
+msgid "Only current location"
+msgstr ""
+
+#: ../Source/Config.py:36
+msgid "Current location and all subdirectories"
+msgstr ""
+
+#: ../Source/Config.py:36
+msgid "All directorys below '/media'"
+msgstr ""
+
+#: ../Source/Config.py:52
+msgid "German (without Year)"
+msgstr ""
+
+#: ../Source/Config.py:52
+msgid "German (with Year)"
+msgstr ""
+
+#: ../Source/Config.py:52
+msgid "German (with Starttime)"
+msgstr ""
+
+#: ../Source/Config.py:52
+msgid "Enigma 2 default"
+msgstr ""
+
+#: ../Source/Config.py:52
+msgid "English (without Year)"
+msgstr ""
+
+#: ../Source/Config.py:52
+msgid "English (with Year)"
+msgstr ""
+
+#: ../Source/Config.py:52
+msgid "English (with Starttime)"
+msgstr ""
+
+#: ../Source/Config.py:53
+#: ../Source/Config.py:54
+#: ../Source/Config.py:55
+#: ../Source/Config.py:56
+msgid "Yellow"
+msgstr ""
+
+#: ../Source/Config.py:53
+#: ../Source/Config.py:54
+#: ../Source/Config.py:55
+#: ../Source/Config.py:56
+msgid "Blue"
+msgstr ""
+
+#: ../Source/Config.py:53
+#: ../Source/Config.py:54
+#: ../Source/Config.py:55
+#: ../Source/Config.py:56
+msgid "Red"
+msgstr ""
+
+#: ../Source/Config.py:53
+#: ../Source/Config.py:54
+#: ../Source/Config.py:55
+#: ../Source/Config.py:56
+msgid "Black"
+msgstr ""
+
+#: ../Source/Config.py:53
+#: ../Source/Config.py:54
+#: ../Source/Config.py:55
+#: ../Source/Config.py:56
+msgid "Green"
+msgstr ""
+
+#: ../Source/Config.py:56
+msgid "Grey"
+msgstr ""
+
+#: ../Source/Config.py:56
+msgid "Orange"
+msgstr ""
+
+#: ../Source/Config.py:87
+msgid "Homebutton"
+msgstr ""
+
+#: ../Source/Config.py:88
+msgid "Own text 1"
+msgstr ""
+
+#: ../Source/Config.py:89
+msgid "Own text 2"
+msgstr ""
+
+#: ../Source/Config.py:90
+msgid "Own text 3"
+msgstr ""
+
+#: ../Source/Config.py:91
+msgid "Own text 4"
+msgstr ""
+
+#: ../Source/Config.py:92
+msgid "Own text 5"
+msgstr ""
+
+#: ../Source/Config.py:93
+msgid "Own text 6"
+msgstr ""
+
+#: ../Source/Config.py:94
+msgid "Own text 7"
+msgstr ""
+
+#: ../Source/Config.py:95
+msgid "No override"
+msgstr ""
+
+#: ../Source/Config.py:96
+msgid "Video-button"
+msgstr ""
+
+#: ../Source/Config.py:97
+msgid "TV-button"
+msgstr ""
+
+#: ../Source/Config.py:98
+msgid "Radio-button"
+msgstr ""
+
+#: ../Source/Config.py:99
+msgid "Timeshift-button"
+msgstr ""
+
+#: ../Source/Config.py:104
+#: ../Source/Config.py:105
+#: ../Source/Config.py:106
+#: ../Source/Config.py:107
+#: ../Source/Config.py:108
+#: ../Source/Config.py:109
+#: ../Source/Config.py:110
+msgid "Advanced Movie Selection info"
+msgstr ""
+
+#: ../Source/Config.py:104
+#: ../Source/Config.py:107
+#: ../Source/Config.py:108
+#: ../Source/Config.py:109
+msgid "TMDb info"
+msgstr ""
+
+#: ../Source/Config.py:104
+#: ../Source/Config.py:105
+#: ../Source/Config.py:108
+#: ../Source/Config.py:110
+msgid "IMDb info"
+msgstr ""
+
+#: ../Source/Config.py:104
+#: ../Source/Config.py:106
+#: ../Source/Config.py:109
+#: ../Source/Config.py:110
+msgid "OFDb info"
+msgstr ""
+
+#: ../Source/Config.py:129
+msgid "Thumb (92x138)"
+msgstr ""
+
+#: ../Source/Config.py:130
+msgid "Cover (185x278)"
+msgstr ""
+
+#: ../Source/Config.py:131
+msgid "Mid (500x750)"
+msgstr ""
+
+#: ../Source/Config.py:132
+msgid "Original (1400x2100)"
+msgstr ""
+
+#: ../Source/Config.py:152
+msgid "Disabled"
+msgstr ""
+
+#: ../Source/Config.py:152
+msgid "Daily"
+msgstr ""
+
+#: ../Source/Config.py:152
+msgid "Every second day"
+msgstr ""
+
+#: ../Source/Config.py:152
+msgid "Weekly"
+msgstr ""
+
+#: ../Source/Config.py:152
+msgid "Every two weeks"
+msgstr ""
+
+#: ../Source/Config.py:152
+msgid "Monthly"
+msgstr ""
+
+#: ../Source/Config.py:170
+#: ../Source/Config.py:172
+msgid "0"
+msgstr ""
+
+#: ../Source/Config.py:170
+#: ../Source/Config.py:172
+msgid "1"
+msgstr ""
+
+#: ../Source/Config.py:170
+#: ../Source/Config.py:172
+msgid "2"
+msgstr ""
+
+#: ../Source/Config.py:170
+#: ../Source/Config.py:172
+msgid "3"
+msgstr ""
+
+#: ../Source/Config.py:182
+msgid "Virtual and Numerical"
+msgstr ""
+
+#: ../Source/Config.py:182
+msgid "Virtual"
+msgstr ""
+
+#: ../Source/Config.py:182
+msgid "Numerical"
+msgstr ""
+
+#: ../Source/ServiceDescriptor.py:216
+#: ../Source/ServiceDescriptor.py:232
+msgid "Directories"
+msgstr ""
+
+#: ../Source/ServiceDescriptor.py:218
+#: ../Source/ServiceDescriptor.py:234
+msgid "Movies"
+msgstr ""
+
+#: ../Source/ServiceDescriptor.py:222
+msgid "Last update:"
+msgstr ""
+
+#: ../Source/ServiceDescriptor.py:245
+msgid "Total:"
+msgstr ""
+
+#: ../Source/ServiceDescriptor.py:246
+msgid "Used:"
+msgstr ""
+
+#: ../Source/ServiceDescriptor.py:247
+msgid "Free:"
+msgstr ""
+
+#: ../Source/ServiceDescriptor.py:250
+msgid "Symlink:"
+msgstr ""
