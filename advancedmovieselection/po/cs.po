@@ -614,19 +614,19 @@ msgstr "Do : "
 
 #: ../MoveCopy.py:162
 msgid "Remaining time:"
-msgstr ""
+msgstr "Zbývající čas : "
 
 #: ../MoveCopy.py:163
 msgid "Remaining elements:"
-msgstr ""
+msgstr "Zbývající prvky : "
 
 #: ../MoveCopy.py:164
 msgid "Speed:"
-msgstr ""
+msgstr "Rychlost : "
 
 #: ../MoveCopy.py:246
 msgid "Abort selected job"
-msgstr ""
+msgstr "Přerušit aktuální akci"
 
 #: ../MoveCopy.py:247
 #: ../MoveCopy.py:250
@@ -637,800 +637,802 @@ msgstr ""
 #: ../AdvancedMovieSelectionSetup.py:136
 #: ../AdvancedMovieSelectionSetup.py:215
 msgid "Close"
-msgstr ""
+msgstr "Zavřít"
 
 #: ../MoveCopy.py:256
 msgid "Show detail of selected job"
-msgstr ""
+msgstr "Zobrazit detaily pro aktuální akci"
 
 #: ../MoveCopy.py:274
 msgid "Aborted"
-msgstr ""
+msgstr "Přerušeno"
 
 #: ../MoveCopy.py:276
 msgid "Waiting"
-msgstr ""
+msgstr "Čekejte..."
 
 #: ../MoveCopy.py:291
 msgid "Job already cancelled!"
-msgstr ""
+msgstr "Akce byla zrušena !"
 
 #: ../MoveCopy.py:293
 msgid "Please wait until current movie is moved to the end!"
-msgstr ""
+msgstr "Čekejte, než se aktuální video přesune !"
 
 #: ../MoveCopy.py:295
 msgid "Please wait until current movie is copied to the end!"
-msgstr ""
+msgstr "Čekejte, než se aktuální video dokopíruje !"
 
 #: ../MoveCopy.py:298
 msgid "Would you really abort current job?"
-msgstr ""
+msgstr "Chcete přerušit aktuálně spuštěnou akci ?"
 
 #: ../MoveCopy.py:300
 msgid "Movies began to be moved until they are finished!"
-msgstr ""
+msgstr "Videa se přesunují, ukončení je odloženo !"
 
 #: ../MoveCopy.py:302
 msgid "Movies began to be copied until they are finished!"
-msgstr ""
+msgstr "Filmy budou zkopírovány až po dokončení !"
 
 #: ../MoveCopy.py:318
 msgid "Move of"
-msgstr ""
+msgstr "přesun od "
 
 #: ../MoveCopy.py:318
 msgid "Copy of"
-msgstr ""
+msgstr "Kopírovat z "
 
 #: ../MoveCopy.py:320
 msgid "movie"
-msgstr ""
+msgstr "video"
 
 #: ../MoveCopy.py:320
 msgid "movies"
-msgstr ""
+msgstr "videa"
 
 #: ../MoveCopy.py:324
 msgid "Move/Copy progress"
-msgstr ""
+msgstr "Zobrazovat průběh kopírování / přesunu"
 
 #: ../MoveCopy.py:336
 msgid "Selected movies"
-msgstr ""
+msgstr "Vybrat videa"
 
 #: ../MoveCopy.py:346
 msgid "To adjusted move/copy location"
-msgstr ""
+msgstr "Standardní umístění pro přesun / kopírování"
 
 #: ../MoveCopy.py:348
 msgid "Directory Selection"
-msgstr ""
+msgstr "Vybrat složku"
 
 #: ../MoveCopy.py:350
 msgid "Show active move/copy processes"
-msgstr ""
+msgstr "Zobrazit aktivní proces přesunu / kopírování"
 
 #: ../MoveCopy.py:359
 #, python-format
 msgid "Move/Copy from: %s"
-msgstr ""
+msgstr "Přesun / kopírování z :  %s"
 
 #: ../MoveCopy.py:365
 #, python-format
 msgid "Move/Copy %s"
-msgstr ""
+msgstr "Přesun / kopírování  %s"
 
 #: ../MoveCopy.py:365
 msgid "to:"
-msgstr ""
+msgstr "do : "
 
 #: ../MoveCopy.py:372
 msgid "Source and destination path must be different."
-msgstr ""
+msgstr "Zdrojová a cílová cesta se musí lišit ! Nelze kopírovat sám do sebe."
 
 #: ../MoveCopy.py:380
 msgid "Abort"
-msgstr ""
+msgstr "Přerušit"
 
 #: ../MoveCopy.py:381
 #, python-format
 msgid "How to proceed '%s'"
-msgstr ""
+msgstr "Jak je daleko ' %s '"
 
 #: ../MoveCopy.py:381
 #, python-format
 msgid "from %s"
-msgstr ""
+msgstr "od %s"
 
 #: ../MoveCopy.py:381
 #, python-format
 msgid "to %s"
-msgstr ""
+msgstr "do %s"
 
 #: ../MoveCopy.py:381
 msgid "be moved/copied?"
-msgstr ""
+msgstr "přesunout / kopírovat ?"
 
 #: ../MoveCopy.py:395
 msgid "On destination data carrier is not enough space available."
-msgstr ""
+msgstr "Na cílovém nosiči není dostatek místa !"
 
 #: ../MoveCopy.py:397
 #, python-format
 msgid "Another %s are required to move the data."
-msgstr ""
+msgstr "Jsou požadovaná další %s pro přesun dat"
 
 #: ../MoveCopy.py:399
 #, python-format
 msgid "Another %s are required to copy the data."
-msgstr ""
+msgstr "Jsou požadovaná další %s pro kopírování dat"
 
 #: ../MoveCopy.py:400
 msgid "Destination carrier"
-msgstr ""
+msgstr "Cílový datový nosič"
 
 #: ../MoveCopy.py:401
 msgid "Free space:"
-msgstr ""
+msgstr "Volný prostor : "
 
 #: ../MoveCopy.py:402
 msgid "Total size:"
-msgstr ""
+msgstr "Celková velikost : "
 
 #: ../MoveCopy.py:411
 msgid "Movie(s) are already in the destination directory. Operation cancelled!"
-msgstr ""
+msgstr "Video již v cílové složce existuje ! Operace byla zrušena."
 
 #: ../About.py:95
 msgid "Version:"
-msgstr ""
+msgstr "Verze : "
 
 #: ../About.py:96
 msgid "Branch:"
-msgstr ""
+msgstr "Obor : "
 
 #: ../About.py:99
 msgid ""
 "Developer:\n"
 "  JackDaniel, cmikula"
 msgstr ""
+"Vývojář:\n"
+"  JackDaniel, cmikula"
 
 #: ../About.py:100
 msgid "Thanks for translation to:\n"
-msgstr ""
+msgstr "Díky za překlad do : "
 
 #: ../About.py:101
 msgid "This plugin may only executed on hardware which is licensed by Dream Multimedia GmbH."
-msgstr ""
+msgstr "Tento modul pracuje pouze na hardware, který ji licencovaný od Dream Multimedia GmbH"
 
 #: ../About.py:102
 msgid "Thanks to all other for help and so many very good code."
-msgstr ""
+msgstr "Díky za pomoc a výborná makra  :)"
 
 #: ../About.py:104
 msgid "Show changes"
-msgstr ""
+msgstr "Zobrazit změny"
 
 #: ../About.py:110
 msgid "About Advanced Movie Selection"
-msgstr ""
+msgstr "O prg. Advanced Movie Selection"
 
 #: ../About.py:142
 msgid "Advanced Movie Selection - History"
-msgstr ""
+msgstr "Advanced Movie Selection -historie"
 
 #: ../MovieSearch.py:39
 msgid "Search:"
-msgstr ""
+msgstr "Hledat : "
 
 #: ../QuickButton.py:57
 #, python-format
 msgid "Show up to VSR-%d"
-msgstr ""
+msgstr "Zobrazit až po VSR-%d"
 
 #: ../QuickButton.py:59
 #: ../QuickButton.py:220
 #: ../QuickButton.py:355
 #: ../AdvancedMovieSelectionSetup.py:671
 msgid "Mark as seen"
-msgstr ""
+msgstr "Označit jako shlédnuté"
 
 #: ../QuickButton.py:62
 msgid "Show folders"
-msgstr ""
+msgstr "Zobrazit složky"
 
 #: ../QuickButton.py:64
 msgid "Hide folders"
-msgstr ""
+msgstr "Skrýt složky"
 
 #: ../QuickButton.py:67
 msgid "Show bookmarks"
-msgstr ""
+msgstr "Zobrazit záložky"
 
 #: ../QuickButton.py:69
 msgid "Hide bookmarks"
-msgstr ""
+msgstr "Skrýt záložky"
 
 #: ../QuickButton.py:72
 msgid "Show library"
-msgstr ""
+msgstr "Zobrazit knihovnu "
 
 #: ../QuickButton.py:74
 msgid "Hide library"
-msgstr ""
+msgstr "Skrýt knihovnu"
 
 #: ../QuickButton.py:77
 msgid "Show marker"
-msgstr ""
+msgstr "Zobrazit značky"
 
 #: ../QuickButton.py:79
 msgid "Hide marker"
-msgstr ""
+msgstr "Skrýt značky"
 
 #: ../QuickButton.py:82
 msgid "To movielist"
-msgstr ""
+msgstr "Do seznamu videa"
 
 #: ../QuickButton.py:84
 msgid "To library"
-msgstr ""
+msgstr "Do knihovny "
 
 #: ../QuickButton.py:93
 #: ../AdvancedMovieSelectionSetup.py:646
 #: ../AdvancedMovieSelectionSetup.py:679
 msgid "Nothing"
-msgstr ""
+msgstr "nic přiděleno"
 
 #: ../QuickButton.py:166
 msgid "Sort alphabetically"
-msgstr ""
+msgstr "Seřadit podle abecedy"
 
 #: ../QuickButton.py:168
 msgid "Sort by Description"
-msgstr ""
+msgstr "Seřadit  podle popisu"
 
 #: ../QuickButton.py:170
 msgid "Sort by Date (9->1)"
-msgstr ""
+msgstr "Seřadit dle data (9->1)"
 
 #: ../QuickButton.py:172
 msgid "Sort by Date (1->9)"
-msgstr ""
+msgstr "Seřadit dle data (1->9)"
 
 #: ../QuickButton.py:173
 #: ../MovieSelection.py:139
 msgid "Unknown"
-msgstr ""
+msgstr "Neznámé"
 
 #: ../QuickButton.py:218
 #: ../QuickButton.py:358
 #: ../AdvancedMovieSelectionSetup.py:672
 msgid "Mark as unseen"
-msgstr ""
+msgstr "Označeno jako neshlédnuté"
 
 #: ../QuickButton.py:309
 msgid "Set tag here not possible, please select a movie for!"
-msgstr ""
+msgstr "Zde nelze značku zadat, nejprve vyberte video !"
 
 #: ../QuickButton.py:315
 msgid "Trailer search here not possible, please select a movie!"
-msgstr ""
+msgstr "Hledání upoutávky není možné, vyberte film !"
 
 #: ../QuickButton.py:321
 msgid "Move/Copy from complete directory/symlink not possible, please select a single movie!"
-msgstr ""
+msgstr "Přesun / kopírování kompletní složky / symlinku není povolený, vyberte jen jedno video !"
 
 #: ../QuickButton.py:327
 msgid "Rename here not possible, please select a movie!"
-msgstr ""
+msgstr "Přejmenování zde není povoleno, vyberte soubor videa !"
 
 #: ../QuickButton.py:349
 msgid "TMDb search here not possible, please select a movie!"
-msgstr ""
+msgstr "Odtud hledat v TMDb není možné, vyberte si video !"
 
 #: ../QuickButton.py:371
 msgid "Show up to"
-msgstr ""
+msgstr "Zobrazit až po "
 
 #: ../QuickButton.py:371
 #: ../MovieSelection.py:1186
 #: ../MovieSelection.py:1288
 msgid "VSR"
-msgstr ""
+msgstr "VSR - omezení mladším divákům"
 
 #: ../QuickButton.py:377
 msgid "This may not be marked as seen!"
-msgstr ""
+msgstr "Toto nelze označit jako shlédnuté !"
 
 #: ../QuickButton.py:383
 msgid "This may not be marked as unseen!"
-msgstr ""
+msgstr "Toto nelze označit jako neshlédnuté !"
 
 #: ../QuickButton.py:393
 msgid "Unknown error!"
-msgstr ""
+msgstr "Neznámá chyba !"
 
 #: ../QuickButton.py:395
 msgid "Plugin not found!"
-msgstr ""
+msgstr "Modul není dostupný !"
 
 #: ../QuickButton.py:397
 msgid "No plugin assigned!"
-msgstr ""
+msgstr "Chybí přiřazený modul !"
 
 #: ../QuickButton.py:403
 msgid "Clear"
-msgstr ""
+msgstr "Vyčistit"
 
 #: ../QuickButton.py:404
 msgid "VSR-0 (General Audience)"
-msgstr ""
+msgstr "VSR-0 (bez omezení)"
 
 #: ../QuickButton.py:405
 msgid "VSR-6 (Parental Guidance Suggested)"
-msgstr ""
+msgstr "VSR-6 (povoleno od 6 let)"
 
 #: ../QuickButton.py:406
 msgid "VSR-12 (Parents Strongly Cautioned)"
-msgstr ""
+msgstr "VSR-12 (povoleno od 12 let)"
 
 #: ../QuickButton.py:407
 msgid "VSR-16 (Restricted)"
-msgstr ""
+msgstr "VSR-16 (povoleno od 16 let)"
 
 #: ../QuickButton.py:408
 msgid "VSR-18 (No One 17 And Under Admitted)"
-msgstr ""
+msgstr "VSR-18 (mládeži nepřístupno do 18 let)"
 
 #: ../QuickButton.py:409
 msgid "Please select the VSR here:"
-msgstr ""
+msgstr "Zadejte přístupnost diváků : "
 
 #: ../QuickButton.py:470
 msgid "Select movie by description:"
-msgstr ""
+msgstr "Vybraný film a popis :"
 
 #: ../AdvancedMovieSelectionSetup.py:134
 msgid "Backup directory path:"
-msgstr ""
+msgstr "Složka pro umístění konfigurace : "
 
 #: ../AdvancedMovieSelectionSetup.py:137
 msgid "Restore settings"
-msgstr ""
+msgstr "Obnovit"
 
 #: ../AdvancedMovieSelectionSetup.py:138
 msgid "Backup settings"
-msgstr ""
+msgstr "Zálohovat konfiguraci"
 
 #: ../AdvancedMovieSelectionSetup.py:142
 msgid "Backup/Restore Advanced Movie Selection settings"
-msgstr ""
+msgstr "Záloha / obnovení  konfigurace pro  Advanced Movie Selection"
 
 #: ../AdvancedMovieSelectionSetup.py:152
 #, python-format
 msgid "Settings backup successfully created in %s."
-msgstr ""
+msgstr "Konfigurace byla úspěšně uložena do : %s "
 
 #: ../AdvancedMovieSelectionSetup.py:155
 msgid "Error creating settings backup!"
-msgstr ""
+msgstr "Chyba při zálohován"
 
 #: ../AdvancedMovieSelectionSetup.py:167
 #: ../AdvancedMovieSelectionSetup.py:566
 #: ../MovieSelection.py:945
 msgid "Some settings changes require close/reopen the movielist to take effect."
-msgstr ""
+msgstr "Některé změny vyžadují zavření a nové otevření seznamu videa !"
 
 #: ../AdvancedMovieSelectionSetup.py:175
 msgid "Please select backup path here:"
-msgstr ""
+msgstr "Zadejte umístění pro zálohu : "
 
 #: ../AdvancedMovieSelectionSetup.py:217
 #: ../MovieSelection.py:264
 msgid "Color key settings"
-msgstr ""
+msgstr "Barevná tlačítka -->"
 
 #: ../AdvancedMovieSelectionSetup.py:218
 msgid "Default paths"
-msgstr ""
+msgstr "Předvolené umístění"
 
 #: ../AdvancedMovieSelectionSetup.py:260
 msgid "Advanced Movie Selection Setup"
-msgstr ""
+msgstr "Advanced Movie Selection - nastavení"
 
 #: ../AdvancedMovieSelectionSetup.py:361
 msgid "Disable Advanced Movie Selection:"
-msgstr ""
+msgstr "Deaktivovat modul Advanced Movie Selection : "
 
 #: ../AdvancedMovieSelectionSetup.py:361
 msgid "Switch on/off the Advanced Movie Selection."
-msgstr ""
+msgstr "Zapnout / vypnout modul  Advanced Movie Selection"
 
 #: ../AdvancedMovieSelectionSetup.py:362
 msgid "Start Advanced Movie Selection with:"
-msgstr ""
+msgstr "Start modulu Advanced Movie Selection přes : "
 
 #: ../AdvancedMovieSelectionSetup.py:362
 msgid "Select Start button for the Advanced Movie Selection."
-msgstr ""
+msgstr "Výběr tlačítka pro spouštění přehrávače videa"
 
 #: ../AdvancedMovieSelectionSetup.py:363
 msgid "Start on last movie location:"
-msgstr ""
+msgstr "Start od poslední pozice v seznamu : "
 
 #: ../AdvancedMovieSelectionSetup.py:363
 msgid "Opens the film list on the last used location."
-msgstr ""
+msgstr "Otevřít seznam videa na pozici posledního použitého přehrávání"
 
 #: ../AdvancedMovieSelectionSetup.py:364
 msgid "Start on first position in movielist:"
-msgstr ""
+msgstr "Start od první pozice v seznamu : "
 
 #: ../AdvancedMovieSelectionSetup.py:364
 msgid "Always show selection in the first position in the movie list."
-msgstr ""
+msgstr "Otevřít seznam videa na první použité pozici "
 
 #: ../AdvancedMovieSelectionSetup.py:365
 msgid "Show bookmarks in movielist:"
-msgstr ""
+msgstr "Zobrazit v seznamu linky na záložky : "
 
 #: ../AdvancedMovieSelectionSetup.py:365
 msgid "When enabled all created bookmarks appear in the movie list."
-msgstr ""
+msgstr "Zobrazit všechny vytvořené záložky v seznamu videa"
 
 #: ../AdvancedMovieSelectionSetup.py:366
 msgid "Show hotplug devices:"
-msgstr ""
+msgstr "Zobrazit v seznamu USB zařízení  : "
 
 #: ../AdvancedMovieSelectionSetup.py:366
 msgid "Enable this option to use USB-Devices."
-msgstr ""
+msgstr "Zobrazit v seznamu USB disky "
 
 #: ../AdvancedMovieSelectionSetup.py:367
 msgid "Show plugin config in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu konfiguraci modulu  : "
 
 #: ../AdvancedMovieSelectionSetup.py:367
 msgid "Displays the Settings option in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu volby pro funkce "
 
 #: ../AdvancedMovieSelectionSetup.py:368
 msgid "Show path selection for movie library in extensions menu:"
-msgstr ""
+msgstr "Zobrazit v interním menu výběr umístění pro video :  "
 
 #: ../AdvancedMovieSelectionSetup.py:368
 msgid "Here you can select which folders to include in the movie library creation."
-msgstr ""
+msgstr "Můžete zadat, které složky budou přidány do knihovny videa"
 
 #: ../AdvancedMovieSelectionSetup.py:369
 msgid "Show movie library symbol in movielist:"
-msgstr ""
+msgstr "Zobrazit v seznamu symbol knihovny : "
 
 #: ../AdvancedMovieSelectionSetup.py:370
 msgid "If enabled all movies in movie library will be shown with path marker and will be sorted below them."
-msgstr ""
+msgstr "Videa v seznamu budou zobrazena s označenou složkou a budou seřazena sestupně"
 
 #: ../AdvancedMovieSelectionSetup.py:371
 msgid "Use movie library path selection as marker within movies in library:"
-msgstr ""
+msgstr "Použít složku videa jako záložku v seznamu : "
 
 #: ../AdvancedMovieSelectionSetup.py:371
 msgid "If enabled only the movie library path selections will be used as marker otherwise each sub directory will be shown as path marker in movie library view."
-msgstr ""
+msgstr "Složka bude použita pouze jako značka, jinak bude každá pod-složka zobrazena v náhledu jako další umístění"
 
 #: ../AdvancedMovieSelectionSetup.py:372
 msgid "Minimum movie count to show path marker in movie library view:"
-msgstr ""
+msgstr "Zobrazený minimální počet souborů videa v knihovně : "
 
 #: ../AdvancedMovieSelectionSetup.py:372
 msgid "The minimum selected number of movies must be in one directory to show the path marker in movie library view."
-msgstr ""
+msgstr "Minimální počet filmů, které musí být v jedné složce pro zobrazení v knihovně "
 
 #: ../AdvancedMovieSelectionSetup.py:373
 msgid "Show disk usage in description:"
-msgstr ""
+msgstr "Zobrazit v popisu využití disku : "
 
 #: ../AdvancedMovieSelectionSetup.py:373
 msgid "Displays the disk usage in the description. (Leave it disabled if you have performance problems at the start of the movie list)"
-msgstr ""
+msgstr "Zobrazit v popisu využití disku, může to zpomalit otevírání seznamu"
 
 #: ../AdvancedMovieSelectionSetup.py:374
 msgid "Show directory size in movie list:"
-msgstr ""
+msgstr "Zobrazit v seznamu velikost složky  : "
 
 #: ../AdvancedMovieSelectionSetup.py:374
 msgid "Displays the size from directories in movie list."
-msgstr ""
+msgstr "Zobrazit v seznamu velikost složky "
 
 #: ../AdvancedMovieSelectionSetup.py:376
 #: ../AdvancedMovieSelectionSetup.py:459
 msgid "Show decimal points:"
-msgstr ""
+msgstr "Zobrazit počet desetinných míst : "
 
 #: ../AdvancedMovieSelectionSetup.py:376
 msgid "Here you can choose how many decimal points for the directory size in the movie list will be displayed."
-msgstr ""
+msgstr "Počet desetinných míst při zobrazení velikosti složky pro pro video"
 
 #: ../AdvancedMovieSelectionSetup.py:379
 msgid "Load Length of Movies in Movielist:"
-msgstr ""
+msgstr "Načíst do seznamu délku videa : "
 
 #: ../AdvancedMovieSelectionSetup.py:379
 msgid "This option is for many of the functions from the Advanced Movie Selection necessary. If this option is disabled are many functions not available."
-msgstr ""
+msgstr "Tato volba je pro více funkcí z Advanced Movie Selection. Pokud ji nezapnete, nebudou některé funkce dostupné."
 
 #: ../AdvancedMovieSelectionSetup.py:381
 msgid "Show list options in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu seznam voleb stylu : "
 
 #: ../AdvancedMovieSelectionSetup.py:381
 msgid "Displays the various list view options in the menu at the movie list (Progressbar,View folders...)."
-msgstr ""
+msgstr "Zobrazit v menu různé typy seznamu "
 
 #: ../AdvancedMovieSelectionSetup.py:382
 msgid "Show mark movie in extensions menu from movielist:"
-msgstr ""
+msgstr "Označit v interním menu video jako shlédnuté  : "
 
 #: ../AdvancedMovieSelectionSetup.py:382
 msgid "Displays mark movie as seen/unseen in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu označení videa jako shlédnuté / neshlédnuté "
 
 #: ../AdvancedMovieSelectionSetup.py:383
 msgid "Mark movie as seen at position (in percent):"
-msgstr ""
+msgstr "Označit video jako shlédnuté od pozice (v proc.) : "
 
 #: ../AdvancedMovieSelectionSetup.py:383
 msgid "With this option you can assign as when a film is marked as seen."
-msgstr ""
+msgstr "Označení videa jako již shlédnuté"
 
 #: ../AdvancedMovieSelectionSetup.py:384
 msgid "Show movie plugins in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu další moduly  : "
 
 #: ../AdvancedMovieSelectionSetup.py:384
 msgid "Displays E2 movie list extensions in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit další moduly Enigma2 v menu seznamu videa (střihový editor, DVD vypalování atd.)"
 
 #: ../AdvancedMovieSelectionSetup.py:385
 msgid "Show color key setup in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu nastavení barevných tlačítek  : "
 
 #: ../AdvancedMovieSelectionSetup.py:385
 msgid "Displays color key setup option in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu nastavení barevných tlačítek "
 
 #: ../AdvancedMovieSelectionSetup.py:386
 msgid "Show sort options in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu volbu seřazení  : "
 
 #: ../AdvancedMovieSelectionSetup.py:386
 msgid "Displays sorting function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro seřazení "
 
 #: ../AdvancedMovieSelectionSetup.py:387
 msgid "Show list styles in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu typy seznamu  : "
 
 #: ../AdvancedMovieSelectionSetup.py:387
 msgid "Displays various lists typs in the menu at the movie list (Minimal,Compact...)."
-msgstr ""
+msgstr "Zobrazit různé typy seznamu videa (minimální, kompaktní atd.)"
 
 #: ../AdvancedMovieSelectionSetup.py:388
 msgid "Show delete option in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu volby pro odstranění  : "
 
 #: ../AdvancedMovieSelectionSetup.py:388
 msgid "Displays the movie delete function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro odstranění videa"
 
 #: ../AdvancedMovieSelectionSetup.py:389
 msgid "Show move/copy option in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu volby pro přesun / kopírování  :"
 
 #: ../AdvancedMovieSelectionSetup.py:389
 msgid "Displays the movie move/copy function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro přesun / kopírování videa"
 
 #: ../AdvancedMovieSelectionSetup.py:390
 msgid "Show move/copy progress on begin/end:"
-msgstr ""
+msgstr "Zobrazit průběh kopírování/přesunu od začátku do konce : "
 
 #: ../AdvancedMovieSelectionSetup.py:390
 msgid "Show the movie move/copy progress on begin and show notification on end of move/copy action."
-msgstr ""
+msgstr "Zobrazit průběh kopírování/přesunu, nahlásit začátek a konec"
 
 #: ../AdvancedMovieSelectionSetup.py:391
 msgid "Show movie search in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu hledání videa  : "
 
 #: ../AdvancedMovieSelectionSetup.py:391
 msgid "Displays the movie search function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro hledání videa "
 
 #: ../AdvancedMovieSelectionSetup.py:392
 msgid "Show covers in movielist:"
-msgstr ""
+msgstr "Zobrazit v seznamu potisk videa  : "
 
 #: ../AdvancedMovieSelectionSetup.py:392
 msgid "Displays the cover in the movie list."
-msgstr ""
+msgstr "Zobrazit v seznamu potisk videa "
 
 #: ../AdvancedMovieSelectionSetup.py:394
 msgid "Set coversize:"
-msgstr ""
+msgstr "Nastavená velikost potisku :"
 
 #: ../AdvancedMovieSelectionSetup.py:394
 msgid "Here you can determine the coverfile size for the download/save."
-msgstr ""
+msgstr "Nastavení velikosti potisku pro stahování a uložení"
 
 #: ../AdvancedMovieSelectionSetup.py:395
 msgid "Download cover from TMDB after timer is finished:"
-msgstr ""
+msgstr "Stáhnout potisk z TMDB po dokončení časovače :"
 
 #: ../AdvancedMovieSelectionSetup.py:395
 msgid "If this function is enabled the cover is automatically downloaded from TMDB after timer is finished."
-msgstr ""
+msgstr "Potisk videa bude po dokončení časovače automaticky stažený z TMDB"
 
 #: ../AdvancedMovieSelectionSetup.py:396
 msgid "Show D/L and store info/cover in movielist extensions menu:"
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu D/L a uložení info/potisku"
 
 #: ../AdvancedMovieSelectionSetup.py:396
 msgid "Displays movie info/cover options in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu volby pro info/potisk "
 
 #: ../AdvancedMovieSelectionSetup.py:397
 msgid "Show D/L and store ALL info/cover in movielist extensions menu:"
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu D/L a uložení všeho infa/potisku"
 
 #: ../AdvancedMovieSelectionSetup.py:397
 msgid "Displays download and save movie info/cover for all movies options in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu stahování a uložit info/potisk pro všechny volby videa  "
 
 #: ../AdvancedMovieSelectionSetup.py:398
 msgid "Show delete info and cover in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu info o odebrání a potisku"
 
 #: ../AdvancedMovieSelectionSetup.py:398
 msgid "Displays delete movie info and cover function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu info o odebrání a funkce potisku"
 
 #: ../AdvancedMovieSelectionSetup.py:399
 msgid "Show delete cover in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu odebrání potisku :"
 
 #: ../AdvancedMovieSelectionSetup.py:399
 msgid "Displays delete cover function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu funkce pro odebrání potisku"
 
 #: ../AdvancedMovieSelectionSetup.py:400
 msgid "Show delete movie info in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu info videa :"
 
 #: ../AdvancedMovieSelectionSetup.py:400
 msgid "Displays delete movie info function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v rozšířeném menu seznamu info funkce odebrání videa"
 
 #: ../AdvancedMovieSelectionSetup.py:401
 msgid "Show Provider Logo:"
-msgstr ""
+msgstr "Zobrazit logo kanálu v orig.velikosti : "
 
 #: ../AdvancedMovieSelectionSetup.py:401
 msgid "Displays the Provider Logo when no Cover available."
-msgstr ""
+msgstr "Pokud nebude dostupný potisk videa, vložit na jeho místo logo kanálu"
 
 #: ../AdvancedMovieSelectionSetup.py:402
 msgid "Show update genre in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu aktualizované žánry ze seznamu : "
 
 #: ../AdvancedMovieSelectionSetup.py:402
 msgid "Displays Update all genre in meta from eit options in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu aktualizaci všech meta-žánrů "
 
 #: ../AdvancedMovieSelectionSetup.py:404
 msgid "Show Provider Logo in original size:"
-msgstr ""
+msgstr "Zobrazit logo kanálu v orig.velikosti : "
 
 #: ../AdvancedMovieSelectionSetup.py:404
 msgid "Displays the Provider Logo in original size. Otherwise, the provider logo be displayed zoomed up to cover size."
-msgstr ""
+msgstr "Zobrazit logo kanálu v orig.velikosti. Jinak bude logo zvětšené na velikost potisku."
 
 #: ../AdvancedMovieSelectionSetup.py:405
 msgid "Provider Logo path:"
-msgstr ""
+msgstr "Složka loga kanálu : "
 
 #: ../AdvancedMovieSelectionSetup.py:405
 msgid "Where to look for the provider logos? (Default is /usr/share/enigma2/picon)"
-msgstr ""
+msgstr "Kde hledat logo operátora ? Předvoleno :  /usr/share/enigma2/picon."
 
 #: ../AdvancedMovieSelectionSetup.py:406
 msgid "Show rename in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu přejmenování  : "
 
 #: ../AdvancedMovieSelectionSetup.py:406
 msgid "Displays rename function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro přejmenování "
 
 #: ../AdvancedMovieSelectionSetup.py:407
 msgid "Show TMDb Info & D/L in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu TMDb Info & D/L  : "
 
 #: ../AdvancedMovieSelectionSetup.py:407
 msgid "Displays TMDb Info & D/L in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu TMDb Info & D/L "
 
 #: ../AdvancedMovieSelectionSetup.py:408
 msgid "Show TheTVDB Info & D/L in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu TVDB Info & D/L  : "
 
 #: ../AdvancedMovieSelectionSetup.py:408
 msgid "Displays TheTVDB Info & D/L in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu TVDB Info & D/L "
 
 #: ../AdvancedMovieSelectionSetup.py:409
 msgid "Jump to first mark when starts playing movie:"
-msgstr ""
+msgstr "Přejít na první značku při startu přehrávání videa : "
 
 #: ../AdvancedMovieSelectionSetup.py:409
 msgid "If this option is activated automatically when a movie does not start from the last position, the movie starts at the first marker."
-msgstr ""
+msgstr "Video se bude spouštět ne od poslední značky, ale od první"
 
 #: ../AdvancedMovieSelectionSetup.py:410
 msgid "Show movie tags in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu záložky videa  : "
 
 #: ../AdvancedMovieSelectionSetup.py:410
 msgid "Displays movie tags function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro záložky videa "
 
 #: ../AdvancedMovieSelectionSetup.py:411
 msgid "Show filter by tags in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu filtr pro záložky  : "
 
 #: ../AdvancedMovieSelectionSetup.py:411
 msgid "Displays filter by tags function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu filtr funkcí záložek "
 
 #: ../AdvancedMovieSelectionSetup.py:412
 msgid "Show search trailer on web in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu vyhledání upoutávek z webu  :"
 
 #: ../AdvancedMovieSelectionSetup.py:412
 msgid "Displays search trailer on web function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro "Vyhledání ukázky na webu" "
 
 #: ../AdvancedMovieSelectionSetup.py:413
 msgid "Show Set VSR in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu přístupnost diváků  : "
 
 #: ../AdvancedMovieSelectionSetup.py:413
 msgid "Displays set VSR function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu věk přístupnosti malých diváků k videu"
 
 #: ../AdvancedMovieSelectionSetup.py:414
 msgid "Show Filter by description in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu filtr pro popis  : "
 
 #: ../AdvancedMovieSelectionSetup.py:414
 msgid "Displays the Filter by description function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro filtr popisů "
 
 #: ../AdvancedMovieSelectionSetup.py:415
 msgid "Show backup/restore in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu "Záloha / Obnovení" ze seznamu : "
 
 #: ../AdvancedMovieSelectionSetup.py:415
 msgid "Displays the backup/restore function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro zálohu a obnovení "
 
 #: ../AdvancedMovieSelectionSetup.py:416
 msgid "Ask before delete:"
-msgstr ""
+msgstr "Dotaz před odstraněním : "
 
 #: ../AdvancedMovieSelectionSetup.py:416
 msgid "With this option you can turn on/off the security question before delete a movie."
-msgstr ""
+msgstr "Zapnout bezpečnostní dotaz před odstraněním videa"
 
 #: ../AdvancedMovieSelectionSetup.py:418
 #: ../AdvancedMovieSelectionSetup.py:420
@@ -1440,7 +1442,7 @@ msgstr ""
 #: ../AdvancedMovieSelectionSetup.py:428
 #: ../AdvancedMovieSelectionSetup.py:430
 msgid "INFO button function:"
-msgstr ""
+msgstr "INFO-funkce tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:418
 #: ../AdvancedMovieSelectionSetup.py:420
@@ -1450,372 +1452,372 @@ msgstr ""
 #: ../AdvancedMovieSelectionSetup.py:428
 #: ../AdvancedMovieSelectionSetup.py:430
 msgid "With this option you can assign what function should have the info button. The selection depends on the installed plugins."
-msgstr ""
+msgstr "Přiřadit funkci pod tlačítko "Info". Výběr závisí na nainstalovaném modulu."
 
 #: ../AdvancedMovieSelectionSetup.py:431
 msgid "Behavior when a movie is started:"
-msgstr ""
+msgstr "Akce, pokud je video spuštěno : "
 
 #: ../AdvancedMovieSelectionSetup.py:431
 msgid "With this option you can assign what should happen when a movie start."
-msgstr ""
+msgstr "Funkce, co se bude dít při spuštění přehrávání videa"
 
 #: ../AdvancedMovieSelectionSetup.py:432
 msgid "Behavior when a movie is stopped:"
-msgstr ""
+msgstr "Akce, pokud je video zastaveno : "
 
 #: ../AdvancedMovieSelectionSetup.py:432
 msgid "With this option you can assign what should happen when a movie stop."
-msgstr ""
+msgstr "Funkce, co se bude dít při spuštění přehrávání videa"
 
 #: ../AdvancedMovieSelectionSetup.py:433
 msgid "Behavior when a movie reaches the end:"
-msgstr ""
+msgstr "Akce, pokud je video na konci : "
 
 #: ../AdvancedMovieSelectionSetup.py:433
 msgid "With this option you can assign what should happen when the end of the films was achieved."
-msgstr ""
+msgstr "Funkce, co se bude dít při dokončení přehrávání videa"
 
 #: ../AdvancedMovieSelectionSetup.py:434
 msgid "Show Moviebar position setup in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit v interním menu nastavení pozice info-panelu  : "
 
 #: ../AdvancedMovieSelectionSetup.py:434
 msgid "Displays the moviebar position setup function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu funkci pro pozici info-panelu "
 
 #: ../AdvancedMovieSelectionSetup.py:436
 msgid "Color for not ready seen movies:"
-msgstr ""
+msgstr "Barva pro neshlédnuté video :  "
 
 #: ../AdvancedMovieSelectionSetup.py:436
 msgid "With this option you can assign what color should displayed for not ready seen movies in movie list."
-msgstr ""
+msgstr "Funkce, co která barva bude v seznamu znamenat při výběru"
 
 #: ../AdvancedMovieSelectionSetup.py:437
 msgid "Color for ready seen movies:"
-msgstr ""
+msgstr "Barva pro shlédnuté video : "
 
 #: ../AdvancedMovieSelectionSetup.py:437
 msgid "With this option you can assign what color should displayed for ready seen movies in movie list."
-msgstr ""
+msgstr "Funkce, co která barva bude v seznamu znamenat při přehrávání, kdy ještě nedosáhlo video 100 %"
 
 #: ../AdvancedMovieSelectionSetup.py:438
 msgid "Color for recording movies:"
-msgstr ""
+msgstr "Barva pro nahrávané video : "
 
 #: ../AdvancedMovieSelectionSetup.py:438
 msgid "With this option you can assign what color should displayed for recording movies in movie list."
-msgstr ""
+msgstr "Funkce, co která barva bude v seznamu znamenat při výběru"
 
 #: ../AdvancedMovieSelectionSetup.py:439
 msgid "Color for multiple selection:"
-msgstr ""
+msgstr "Barva pro vícenásobný výběr  : "
 
 #: ../AdvancedMovieSelectionSetup.py:439
 msgid "With this option you can assign what color should displayed for multiple selection in movie list."
-msgstr ""
+msgstr "Funkce, co která barva bude v seznamu znamenat při výběru"
 
 #: ../AdvancedMovieSelectionSetup.py:440
 msgid "Assign the date format for movielist:"
-msgstr ""
+msgstr "Formát data do seznamu videa : "
 
 #: ../AdvancedMovieSelectionSetup.py:440
 msgid "With this option you can assign the date format in movie list (7 different sizes are available)."
-msgstr ""
+msgstr "Přiřadit formát datumu do seznamu (dostupných 7 velikostí)"
 
 #: ../AdvancedMovieSelectionSetup.py:442
 msgid "Show new recordings icon:"
-msgstr ""
+msgstr "Zobrazit ikony nových záznamů : "
 
 #: ../AdvancedMovieSelectionSetup.py:442
 msgid "With this option you can display a icon for new recordings."
-msgstr ""
+msgstr "Nastavení ikony v seznamu pro nové záznamy"
 
 #: ../AdvancedMovieSelectionSetup.py:443
 msgid "Show Mini TV:"
-msgstr ""
+msgstr "Zobrazit mini TV : "
 
 #: ../AdvancedMovieSelectionSetup.py:443
 msgid "With this option you can switch on/off the Mini TV in the movie list."
-msgstr ""
+msgstr "Můžete zapnout okno "mini TV" v seznamu videa"
 
 #: ../AdvancedMovieSelectionSetup.py:444
 msgid "Use folder name for display covers:"
-msgstr ""
+msgstr "Použít název složky při zobrazení potisku : "
 
 #: ../AdvancedMovieSelectionSetup.py:444
 msgid "With this option you can use the foldername instead of folder.jpg to display covers in folders."
-msgstr ""
+msgstr "Název složky jako názevu.jpg pro zobrazení potisku ve složce "
 
 #: ../AdvancedMovieSelectionSetup.py:445
 msgid "Close with EXIT key:"
-msgstr ""
+msgstr "Zavřít přes tlačítko "Exit" : "
 
 #: ../AdvancedMovieSelectionSetup.py:445
 msgid "If this option is enabled you can stop play a movie with the EXIT button, and the Advanced Movie Selection plugin will also be closed immediately (if the next option is disabled)."
-msgstr ""
+msgstr "Zastavit přehrávání videa tlačítkem "Exit" a modul také ihned ukončit"
 
 #: ../AdvancedMovieSelectionSetup.py:447
 msgid "Use behavior when a movie is stopped:"
-msgstr ""
+msgstr "Použitá funkce při zastavení videa : "
 
 #: ../AdvancedMovieSelectionSetup.py:447
 msgid "If this option is activated the behavior when stop a film also will used when you use the EXIT button."
-msgstr ""
+msgstr "Tlačítko "Exit" se bude využíváno také k zastavení videa"
 
 #: ../AdvancedMovieSelectionSetup.py:448
 msgid "Show info messages:"
-msgstr ""
+msgstr "Zobrazit hlášení : "
 
 #: ../AdvancedMovieSelectionSetup.py:448
 msgid "If this option is activated will be displayed different info message. This should help with the operation of the extension."
-msgstr ""
+msgstr "Budou zobrazeny různé informace , hlášení - pomůže to u rozšířených operací"
 
 #: ../AdvancedMovieSelectionSetup.py:449
 msgid "Use alternative jump function:"
-msgstr ""
+msgstr "Aktivovat alternativní funkci skoku :"
 
 #: ../AdvancedMovieSelectionSetup.py:449
 msgid "If this option is activated more jump functions ar available. ATTENTION: Enigma 2 restart is necessary!"
-msgstr ""
+msgstr "Jsou k dispozici další funkce pro přeskoky. Restart Enigmy2 je nutný !"
 
 #: ../AdvancedMovieSelectionSetup.py:452
 msgid "Change function from left/right buttons:"
-msgstr ""
+msgstr "Změnit funkci tlačítek vlevo / vpravo : "
 
 #: ../AdvancedMovieSelectionSetup.py:452
 msgid "If this option is activated the function of the left/right arrow buttons will changed. Normal you can use the buttons also for winding, if is changed you have quick access to the new jump function. ATTENTION: Enigma 2 restart is necessary!"
-msgstr ""
+msgstr "Funkce tlačítek vlevo/vpravo bude změněná. Normálně můžete použít tlačítka pro otáčení, pokud máte přístup k rychlému přeskoku. Po této změně musí být Enigma2 restartována !"
 
 #: ../AdvancedMovieSelectionSetup.py:453
 msgid "Manual jump sensibility:"
-msgstr ""
+msgstr "Čas při manuálním přeskoku (v %) : "
 
 #: ../AdvancedMovieSelectionSetup.py:453
 msgid "Here you can adjust the manually jump length relative to the film length in percent."
-msgstr ""
+msgstr "Nastavení délky skoku v procentech, vztaženou k délce videa"
 
 #: ../AdvancedMovieSelectionSetup.py:454
 msgid "Use wastebasket:"
-msgstr ""
+msgstr "Používat koš : "
 
 #: ../AdvancedMovieSelectionSetup.py:454
 msgid "If this option is activated the movie will not be deleted but moved into the wastebasket."
-msgstr ""
+msgstr "Video nebude přímo odstraněno, ale bude přesunuto do koše"
 
 #: ../AdvancedMovieSelectionSetup.py:456
 msgid "Show Wastebasket in extensions menu from movielist:"
-msgstr ""
+msgstr "Zobrazit koš v interním menu pro seznam videa : "
 
 #: ../AdvancedMovieSelectionSetup.py:456
 msgid "Displays wastebasket function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu volby pro koš "
 
 #: ../AdvancedMovieSelectionSetup.py:457
 msgid "Show Clientbox setup in movielist:"
-msgstr ""
+msgstr "Zobrazit v seznamu nastavení klienta : "
 
 #: ../AdvancedMovieSelectionSetup.py:457
 msgid "Displays Clientbox setup function in the menu at the movie list."
-msgstr ""
+msgstr "Zobrazit v menu nastavení klienta "
 
 #: ../AdvancedMovieSelectionSetup.py:458
 msgid "Wastebasket file(s):"
-msgstr ""
+msgstr "Soubory v koši : "
 
 #: ../AdvancedMovieSelectionSetup.py:458
 msgid "Here you can select which files to Wastebasket are displayed. ATTENTION: All directorys below '/media' will take very long until the list is displayed!"
-msgstr ""
+msgstr "Volba, které soubory se budou zobrazovat v koši. Upozornění : všechny složky pod ' /media' se budou otevírat hodně dlouho (1->3 min)."
 
 #: ../AdvancedMovieSelectionSetup.py:459
 msgid "Here you can choose how many decimal points for the file size in the wastebasket will be displayed."
-msgstr ""
+msgstr "Počet desetinných míst při zobrazení velikosti složky pro odpadkový koš"
 
 #: ../AdvancedMovieSelectionSetup.py:460
 msgid "Server enabled:"
-msgstr ""
+msgstr "Aktivovaný server : "
 
 #: ../AdvancedMovieSelectionSetup.py:460
 msgid "If you enable this feature, all remote functions are enabled."
-msgstr ""
+msgstr "Mohou být povoleny všechny vzdálené funkce"
 
 #: ../AdvancedMovieSelectionSetup.py:461
 msgid "Auto empty wastebasket:"
-msgstr ""
+msgstr "Aut.vysypávání koše je deaktivováno"
 
 #: ../AdvancedMovieSelectionSetup.py:461
 msgid "If you enable this function the wastebasket will be emptied automatically at the set time."
-msgstr ""
+msgstr "Koš bude  vysypaný automaticky ve stanovený čas"
 
 #: ../AdvancedMovieSelectionSetup.py:463
 msgid "Auto empty wastebasket time:"
-msgstr ""
+msgstr "Aut.vysypat koš po době :"
 
 #: ../AdvancedMovieSelectionSetup.py:463
 msgid "Here you can define when to empty the wastebasket."
-msgstr ""
+msgstr "Zde můžete nastavit, kdy se bude koš vysypávat"
 
 #: ../AdvancedMovieSelectionSetup.py:464
 msgid "Check again in x minutes:"
-msgstr ""
+msgstr "Znovu zkusit za x minut : "
 
 #: ../AdvancedMovieSelectionSetup.py:464
 msgid "If recordings are active again after the set time is trying to empty the wastebasket."
-msgstr ""
+msgstr "I když je záznam aktivní, pokusit se znovu ve stanoveném čase vysypat koš. Limit můžete nastavit od 15 do 60 minut."
 
 #: ../AdvancedMovieSelectionSetup.py:465
 msgid "Wastebasket retention period (days):"
-msgstr ""
+msgstr "Uchovávat v koši po dobu (dnů) : "
 
 #: ../AdvancedMovieSelectionSetup.py:465
 msgid "Defines how long files need to dwell in the wastebasket before auto empty will consider to remove them (0 means no retention)."
-msgstr ""
+msgstr "Definujte, jak dlouho mohou být soubory v koši, než budou aut.odstraněny. "0" bez omezení."
 
 #: ../AdvancedMovieSelectionSetup.py:466
 msgid "Start at the beginning depends on end (in Minutes):"
-msgstr ""
+msgstr "Start od nastaveného začátku (v min.) : "
 
 #: ../AdvancedMovieSelectionSetup.py:466
 msgid "Here you can set off when a movie to play automatically from the beginning when you start again (On settings=0, functions is disabled)."
-msgstr ""
+msgstr "Spouštění videa při novém přehrávání aut. od zadané pozice (0 funkci vyřadí)"
 
 #: ../AdvancedMovieSelectionSetup.py:467
 msgid "Use activ Skin LCD/OLED representation:"
-msgstr ""
+msgstr "Použít přezentaci aktivní skin LCD/OLED :"
 
 #: ../AdvancedMovieSelectionSetup.py:467
 msgid "If you enable this function, the display summary from aktiv skin will be used."
-msgstr ""
+msgstr "Při přehrávání bude zpráva na displeji LCD/OLED"
 
 #: ../AdvancedMovieSelectionSetup.py:469
 msgid "Show date:"
-msgstr ""
+msgstr "Zobrazit datum : "
 
 #: ../AdvancedMovieSelectionSetup.py:469
 msgid "If this option is activated the date will be displayed on the lcd/oled when no short description is available."
-msgstr ""
+msgstr "Na displeji LCD/OLED se bude zobrazovat datum  - pokud není stručný popis"
 
 #: ../AdvancedMovieSelectionSetup.py:471
 msgid "Use date from timestamp:"
-msgstr ""
+msgstr "Použít datum z časového razítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:471
 msgid "If this option is activated the date from the file create instead today's date will be displayed on the lcd/oled when no short description is available."
-msgstr ""
+msgstr "Na displeji LCD/OLED se bude zobrazovat datum souboru místo dnešního data - pokud není stručný popis"
 
 #: ../AdvancedMovieSelectionSetup.py:473
 msgid "Use video preview:"
-msgstr ""
+msgstr "Aktivovat náhled videa : "
 
 #: ../AdvancedMovieSelectionSetup.py:473
 msgid "If you enable this function, selected movie in movielist will bring you a preview."
-msgstr ""
+msgstr "Vybrané video se bude v seznamu zobrazovat v náhledovém okně"
 
 #: ../AdvancedMovieSelectionSetup.py:477
 msgid "Show video preview in fullscreen:"
-msgstr ""
+msgstr "Zobrazit náhled videa na celé obrazovce : "
 
 #: ../AdvancedMovieSelectionSetup.py:477
 msgid "If you enable this function, the video preview function will display as full screen in skin."
-msgstr ""
+msgstr "Náhled videa zobrazit přes celou obrazovku"
 
 #: ../AdvancedMovieSelectionSetup.py:478
 msgid "Video preview autostart:"
-msgstr ""
+msgstr "Aut.start náhledu videa : "
 
 #: ../AdvancedMovieSelectionSetup.py:478
 msgid "If you enable this feature, the movie preview starts automatically after the delay with a change in the movie list."
-msgstr ""
+msgstr "Náhled videa spouštět automaticky <po určeném zpoždění> se změnou v seznamu"
 
 #: ../AdvancedMovieSelectionSetup.py:480
 msgid "Video preview delay:"
-msgstr ""
+msgstr "Zpoždění náhledu videa : "
 
 #: ../AdvancedMovieSelectionSetup.py:480
 msgid "Setup the delay in seconds to start the video preview."
-msgstr ""
+msgstr "Nastavit zpoždění pro spuštění náhledu videa"
 
 #: ../AdvancedMovieSelectionSetup.py:481
 msgid "Use last stop mark:"
-msgstr ""
+msgstr "Použít poslední Stop značku : "
 
 #: ../AdvancedMovieSelectionSetup.py:481
 msgid "Preview will start on last stop marker."
-msgstr ""
+msgstr "Náhled spustit od značky posledního zastavení"
 
 #: ../AdvancedMovieSelectionSetup.py:482
 msgid "Video preview jump time (in minutes):"
-msgstr ""
+msgstr "Délka náhledu videa (čas v min.) : "
 
 #: ../AdvancedMovieSelectionSetup.py:482
 msgid "Here you can set the jump time for the movie preview (< > buttons or bouquet +/- buttons)."
-msgstr ""
+msgstr "Časový skok pro letmé prohlížení videa (tlačítka < > nebo kanály +/-)"
 
 #: ../AdvancedMovieSelectionSetup.py:483
 msgid "Select keyboard:"
-msgstr ""
+msgstr "Výběr klávesnice : "
 
 #: ../AdvancedMovieSelectionSetup.py:483
 msgid "You can select yout prefered keyboard (Virtual, Numerical or both)."
-msgstr ""
+msgstr "Preferovaná klávesnice (virtuální, numerická nebo obě)"
 
 #: ../AdvancedMovieSelectionSetup.py:484
 msgid "Show recorded movies in epg:"
-msgstr ""
+msgstr "Zvýraznit nahrávané video v EPG : "
 
 #: ../AdvancedMovieSelectionSetup.py:484
 msgid "If you enable this function, your recorded movies will be marked in epg list."
-msgstr ""
+msgstr "Nahrávané video v EPG seznamu zvýraznit "
 
 #: ../AdvancedMovieSelectionSetup.py:485
 msgid "Enable Enigma2 debug:"
-msgstr ""
+msgstr "Aktivovat sledování funkcí Enigma 2 : "
 
 #: ../AdvancedMovieSelectionSetup.py:485
 msgid "If you enable this function, all standard output from enigma will be stored to /tmp folder."
-msgstr ""
+msgstr "Všechna hlášení Enigma2 budou směrována do složky " /tmp ""
 
 #: ../AdvancedMovieSelectionSetup.py:493
 msgid "No Helptext available!"
-msgstr ""
+msgstr "Nápověda není dostupná !"
 
 #: ../AdvancedMovieSelectionSetup.py:497
 msgid "IMDb plugin installed. Assign function to info button is possible."
-msgstr ""
+msgstr "Modul IMDb je nainstalovaný. Přiřaďte funkci pod tlačítko "Info""
 
 #: ../AdvancedMovieSelectionSetup.py:499
 msgid "IMDb plugin NOT installed. Assign function to info button is NOT possible."
-msgstr ""
+msgstr "Modul IMDb je nainstalovaný. Přiřazení funkce pod tlačítkem "Info" není povoleno !"
 
 #: ../AdvancedMovieSelectionSetup.py:501
 msgid "OFDb plugin installed. Assign function to info button is possible."
-msgstr ""
+msgstr "Modul IMDb je nainstalovaný. Přiřaďte funkci pod tlačítko "Info""
 
 #: ../AdvancedMovieSelectionSetup.py:503
 msgid "OFDb plugin NOT installed. Assign function to info button is NOT possible."
-msgstr ""
+msgstr "Modul IMDb je nainstalovaný. Přiřazení funkce pod tlačítkem "Info" není povoleno !"
 
 #: ../AdvancedMovieSelectionSetup.py:505
 msgid "TMDb plugin installed. Assign function to info button is possible."
-msgstr ""
+msgstr "Modul IMDb je nainstalovaný. Přiřaďte funkci pod tlačítko "Info""
 
 #: ../AdvancedMovieSelectionSetup.py:507
 msgid "TMDb plugin NOT installed. Assign function to info button is NOT possible."
-msgstr ""
+msgstr "Modul IMDb je nainstalovaný. Přiřazení funkce pod tlačítkem "Info" není povoleno !"
 
 #: ../AdvancedMovieSelectionSetup.py:509
 msgid "YTTrailer plugin installed. Search for trailers on the Web is possible."
-msgstr ""
+msgstr "YTTrailer je nainstalovaný. Vyhledávání upoutávek na webu je povoleno."
 
 #: ../AdvancedMovieSelectionSetup.py:511
 msgid "YTTrailer plugin NOT installed. Search for trailers on the Web is NOT possible."
-msgstr ""
+msgstr "YTTrailer není nainstalovaný. Vyhledávání upoutávek na webu není povoleno."
 
 #: ../AdvancedMovieSelectionSetup.py:522
 #: ../AdvancedMovieSelectionSetup.py:1215
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Chcete to ukončit bez uložení ?"
 
 #: ../AdvancedMovieSelectionSetup.py:561
 msgid ""
@@ -1823,6 +1825,10 @@ msgid ""
 "If you  use a skin without PiG (Picture in Graphic) you have to restart the box (not only Enigma 2)!\n"
 "With YES only Enigma 2 starts new, with NO the box make a restart."
 msgstr ""
+"Některá nastavení byla změněna. Je nutný restart Enigma2 !"
+"Pokud použijete skin bez PiG (obraz v grafice/MiniTV), musíte restartovat celý systém (ne jen Enigma2) !\n"
+"ano -> restart "pouze" Enigma2\n"  
+"ne   -> kompletní restart systému"
 
 #: ../AdvancedMovieSelectionSetup.py:563
 msgid ""
@@ -1830,6 +1836,9 @@ msgid ""
 "\n"
 "Would you restart Enigma2 now?"
 msgstr ""
+"Některá nastavení byla změněna. Je nutný restart Enigma2 !\n"
+"\n"
+"Restartovat Enigma2 nyní ?"
 
 #: ../AdvancedMovieSelectionSetup.py:572
 #: ../AdvancedMovieSelectionSetup.py:582
@@ -1838,7 +1847,7 @@ msgstr ""
 #: ../TagEditor.py:251
 #: ../TagEditor.py:269
 msgid "Aborted by user!!"
-msgstr ""
+msgstr "Přerušeno uživatelem !"
 
 #: ../AdvancedMovieSelectionSetup.py:609
 #: ../AdvancedMovieSelectionSetup.py:1046
@@ -1846,285 +1855,285 @@ msgstr ""
 #: ../SelectionListScreen.py:42
 #: ../SelectionListScreen.py:60
 msgid "Save/Close"
-msgstr ""
+msgstr "Uložit / Zavřít"
 
 #: ../AdvancedMovieSelectionSetup.py:610
 msgid "Own button description"
-msgstr ""
+msgstr "uživ.popis tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:635
 msgid "Movie Quick Button Setup"
-msgstr ""
+msgstr "Nastavení rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:647
 #: ../MovieSelection.py:185
 msgid "Delete"
-msgstr ""
+msgstr "Odstranit"
 
 #: ../AdvancedMovieSelectionSetup.py:648
 msgid "Move-Copy"
-msgstr ""
+msgstr "Přesun - kopírování"
 
 #: ../AdvancedMovieSelectionSetup.py:649
 #: ../MovieSelection.py:189
 msgid "Rename"
-msgstr ""
+msgstr "Přejmenovat"
 
 #: ../AdvancedMovieSelectionSetup.py:650
 #: ../MovieSelection.py:173
 msgid "Wastebasket"
-msgstr ""
+msgstr "Koš"
 
 #: ../AdvancedMovieSelectionSetup.py:651
 msgid "Sort"
-msgstr ""
+msgstr "Seřadit "
 
 #: ../AdvancedMovieSelectionSetup.py:652
 msgid "Switch library/movielist"
-msgstr ""
+msgstr "Vyměnit knihovnu / seznam videa"
 
 #: ../AdvancedMovieSelectionSetup.py:653
 msgid "Show/Hide library"
-msgstr ""
+msgstr "Zobrazit / skrýt knihovnu"
 
 #: ../AdvancedMovieSelectionSetup.py:654
 msgid "Show/Hide folders"
-msgstr ""
+msgstr "Zobrazit / skrýt složky"
 
 #: ../AdvancedMovieSelectionSetup.py:655
 msgid "Bookmark(s) on/off"
-msgstr ""
+msgstr "Záložky zap/vyp."
 
 #: ../AdvancedMovieSelectionSetup.py:656
 msgid "Library marker on/off"
-msgstr ""
+msgstr "Značky v knihovně zap/vyp."
 
 #: ../AdvancedMovieSelectionSetup.py:657
 msgid "Update library"
-msgstr ""
+msgstr "Aktualizovat knihovnu"
 
 #: ../AdvancedMovieSelectionSetup.py:658
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: ../AdvancedMovieSelectionSetup.py:659
 msgid "Bookmark 1"
-msgstr ""
+msgstr "Výchozí složka"
 
 #: ../AdvancedMovieSelectionSetup.py:660
 msgid "Bookmark 2"
-msgstr ""
+msgstr "Záložka 2"
 
 #: ../AdvancedMovieSelectionSetup.py:661
 msgid "Bookmark 3"
-msgstr ""
+msgstr "Záložka 3"
 
 #: ../AdvancedMovieSelectionSetup.py:662
 msgid "Bookmark 4"
-msgstr ""
+msgstr "Záložka 4"
 
 #: ../AdvancedMovieSelectionSetup.py:663
 msgid "Bookmark 5"
-msgstr ""
+msgstr "Záložka 5"
 
 #: ../AdvancedMovieSelectionSetup.py:664
 msgid "Bookmark 6"
-msgstr ""
+msgstr "Záložka 6"
 
 #: ../AdvancedMovieSelectionSetup.py:665
 msgid "Bookmark 7"
-msgstr ""
+msgstr "Záložka 7"
 
 #: ../AdvancedMovieSelectionSetup.py:666
 #: ../MovieSelection.py:280
 msgid "Filter by Tags"
-msgstr ""
+msgstr "Filtr záložek"
 
 #: ../AdvancedMovieSelectionSetup.py:667
 msgid "Tag Editor"
-msgstr ""
+msgstr "Editor značek"
 
 #: ../AdvancedMovieSelectionSetup.py:668
 #: ../MovieSelection.py:181
 msgid "TMDb Info & D/L"
-msgstr ""
+msgstr "TMDb info & D/L"
 
 #: ../AdvancedMovieSelectionSetup.py:670
 msgid "Toggle seen"
-msgstr ""
+msgstr "Volba shlédnuto / neshlédnuto"
 
 #: ../AdvancedMovieSelectionSetup.py:673
 msgid "Show Timer"
-msgstr ""
+msgstr "Zobrazit časovače"
 
 #: ../AdvancedMovieSelectionSetup.py:674
 msgid "Show up to VSR-X"
-msgstr ""
+msgstr "Zobrazit až po VSR-%d"
 
 #: ../AdvancedMovieSelectionSetup.py:675
 #: ../MovieSelection.py:175
 msgid "Filter by description"
-msgstr ""
+msgstr "Filtr popisů"
 
 #: ../AdvancedMovieSelectionSetup.py:680
 msgid "DM-600PVR"
-msgstr ""
+msgstr "DM-820HD"
 
 #: ../AdvancedMovieSelectionSetup.py:681
 msgid "DM-7000"
-msgstr ""
+msgstr "DM-7000"
 
 #: ../AdvancedMovieSelectionSetup.py:682
 msgid "DM-7025"
-msgstr ""
+msgstr "DM-7025"
 
 #: ../AdvancedMovieSelectionSetup.py:683
 msgid "DM-8000HD"
-msgstr ""
+msgstr "DM-8000HD"
 
 #: ../AdvancedMovieSelectionSetup.py:684
 msgid "DM-500HD"
-msgstr ""
+msgstr "DM-7080HD"
 
 #: ../AdvancedMovieSelectionSetup.py:685
 msgid "DM-800HD"
-msgstr ""
+msgstr "DM-800HD"
 
 #: ../AdvancedMovieSelectionSetup.py:686
 msgid "DM-800HDse"
-msgstr ""
+msgstr "DM-800HDse"
 
 #: ../AdvancedMovieSelectionSetup.py:687
 msgid "DM-7020HD"
-msgstr ""
+msgstr "DM-7020HD"
 
 #: ../AdvancedMovieSelectionSetup.py:688
 msgid "internal HDD"
-msgstr ""
+msgstr "interní HDD"
 
 #: ../AdvancedMovieSelectionSetup.py:689
 msgid "NAS"
-msgstr ""
+msgstr "NAS"
 
 #: ../AdvancedMovieSelectionSetup.py:690
 msgid "NAS-Movies"
-msgstr ""
+msgstr "NAS-videa"
 
 #: ../AdvancedMovieSelectionSetup.py:692
 msgid "Display plugin name"
-msgstr ""
+msgstr "Zobrazit název modulu"
 
 #: ../AdvancedMovieSelectionSetup.py:693
 msgid "Display plugin description"
-msgstr ""
+msgstr "Zobrazit popis modulu"
 
 #: ../AdvancedMovieSelectionSetup.py:808
 msgid "(long)"
-msgstr ""
+msgstr "(dlouhé)"
 
 #: ../AdvancedMovieSelectionSetup.py:811
 msgid "Quickbutton:"
-msgstr ""
+msgstr "Rychlé tlačítko : "
 
 #: ../AdvancedMovieSelectionSetup.py:814
 msgid "Button caption"
-msgstr ""
+msgstr "Označení tlačítka :"
 
 #: ../AdvancedMovieSelectionSetup.py:816
 msgid "Home button text"
-msgstr ""
+msgstr "Text tlačítka Home : "
 
 #: ../AdvancedMovieSelectionSetup.py:818
 msgid "Bookmark 1 button text"
-msgstr ""
+msgstr "Záložka 1 - označení tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:820
 msgid "Bookmark 2 button text"
-msgstr ""
+msgstr "Záložka 2 - označení tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:822
 msgid "Bookmark 3 button text"
-msgstr ""
+msgstr "Záložka 3 - označení tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:824
 msgid "Bookmark 4 button text"
-msgstr ""
+msgstr "Záložka 4 - označení tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:826
 msgid "Bookmark 5 button text"
-msgstr ""
+msgstr "Záložka 5 - označení tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:828
 msgid "Bookmark 6 button text"
-msgstr ""
+msgstr "Záložka 6 - označení tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:830
 msgid "Bookmark 7 button text"
-msgstr ""
+msgstr "Záložka 7 - označení tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:832
 msgid "Home path"
-msgstr ""
+msgstr "Složka Home : "
 
 #: ../AdvancedMovieSelectionSetup.py:834
 msgid "Bookmark 1 path"
-msgstr ""
+msgstr "Záložka 1 - složka : "
 
 #: ../AdvancedMovieSelectionSetup.py:836
 msgid "Bookmark 2 path"
-msgstr ""
+msgstr "Záložka 2  - složka : "
 
 #: ../AdvancedMovieSelectionSetup.py:838
 msgid "Bookmark 3 path"
-msgstr ""
+msgstr "Záložka 3  - složka : "
 
 #: ../AdvancedMovieSelectionSetup.py:840
 msgid "Bookmark 4 path"
-msgstr ""
+msgstr "Záložka 4  - složka : "
 
 #: ../AdvancedMovieSelectionSetup.py:842
 msgid "Bookmark 5 path"
-msgstr ""
+msgstr "Záložka 5  - složka : "
 
 #: ../AdvancedMovieSelectionSetup.py:844
 msgid "Bookmark 6 path"
-msgstr ""
+msgstr "Záložka 6  - složka : "
 
 #: ../AdvancedMovieSelectionSetup.py:846
 msgid "Bookmark 7 path"
-msgstr ""
+msgstr "Záložka 7  - složka : "
 
 #: ../AdvancedMovieSelectionSetup.py:887
 #: ../MovieSelection.py:199
 msgid "Alphabetic sort"
-msgstr ""
+msgstr "Seřadit podle abecedy"
 
 #: ../AdvancedMovieSelectionSetup.py:888
 #: ../MovieSelection.py:205
 msgid "Sort by date (ascending)"
-msgstr ""
+msgstr "Seřadit dle data vzest."
 
 #: ../AdvancedMovieSelectionSetup.py:889
 #: ../MovieSelection.py:203
 msgid "Sort by date (descending)"
-msgstr ""
+msgstr "Seřadit dle data sest."
 
 #: ../AdvancedMovieSelectionSetup.py:890
 #: ../MovieSelection.py:201
 msgid "Sort by description"
-msgstr ""
+msgstr "Seřadit  podle popisu "
 
 #: ../AdvancedMovieSelectionSetup.py:897
 msgid "Select sort functions"
-msgstr ""
+msgstr "Vybrat seřazení "
 
 #: ../AdvancedMovieSelectionSetup.py:900
 msgid "Movie Quick Button Home path"
-msgstr ""
+msgstr "Home - volba rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:903
 msgid "Movie Quick Button Bookmark 1 path"
-msgstr ""
+msgstr "Záložka 1 - volba rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:906
 msgid "Movie Quick Button Bookmark 2 path"
@@ -2132,234 +2141,234 @@ msgstr ""
 
 #: ../AdvancedMovieSelectionSetup.py:909
 msgid "Movie Quick Button Bookmark 3 path"
-msgstr ""
+msgstr "Záložka 3 - volba rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:912
 msgid "Movie Quick Button Bookmark 4 path"
-msgstr ""
+msgstr "Záložka 4 - volba rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:915
 msgid "Movie Quick Button Bookmark 5 path"
-msgstr ""
+msgstr "Záložka 5 - volba rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:918
 msgid "Movie Quick Button Bookmark 6 path"
-msgstr ""
+msgstr "Záložka 6 - volba rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:921
 msgid "Movie Quick Button Bookmark 7 path"
-msgstr ""
+msgstr "Záložka 7 - volba rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:1055
 msgid "Movie Quick Button Name Setup"
-msgstr ""
+msgstr "Označení rychlého tlačítka"
 
 #: ../AdvancedMovieSelectionSetup.py:1067
 msgid "Enter Home button descrition:"
-msgstr ""
+msgstr "Vložte popis pro tlačítko Home : "
 
 #: ../AdvancedMovieSelectionSetup.py:1069
 msgid "Enter Bookmark 1 button descrition:"
-msgstr ""
+msgstr "Záložka 1  - zadání popisu tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1071
 msgid "Enter Bookmark 2 button descrition:"
-msgstr ""
+msgstr "Záložka 2  - zadání popisu tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1073
 msgid "Enter Bookmark 3 button descrition:"
-msgstr ""
+msgstr "Záložka 3  - zadání popisu tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1075
 msgid "Enter Bookmark 4 button descrition:"
-msgstr ""
+msgstr "Záložka 4  - zadání popisu tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1077
 msgid "Enter Bookmark 5 button descrition:"
-msgstr ""
+msgstr "Záložka 5  - zadání popisu tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1079
 msgid "Enter Bookmark 6 button descrition:"
-msgstr ""
+msgstr "Záložka 6  - zadání popisu tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1081
 msgid "Enter Bookmark 7 button descrition:"
-msgstr ""
+msgstr "Záložka 7  - zadání popisu tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1125
 msgid "Home button description:"
-msgstr ""
+msgstr "Popis tlačítka Home : "
 
 #: ../AdvancedMovieSelectionSetup.py:1126
 msgid "Bookmark 1 button description:"
-msgstr ""
+msgstr "Záložka 1 - popis tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1127
 msgid "Bookmark 2 button description:"
-msgstr ""
+msgstr "Záložka 2 - popis tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1128
 msgid "Bookmark 3 button description:"
-msgstr ""
+msgstr "Záložka 3 - popis tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1129
 msgid "Bookmark 4 button description:"
-msgstr ""
+msgstr "Záložka 4 - popis tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1130
 msgid "Bookmark 5 button description:"
-msgstr ""
+msgstr "Záložka 5 - popis tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1131
 msgid "Bookmark 6 button description:"
-msgstr ""
+msgstr "Záložka 6 - popis tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1132
 msgid "Bookmark 7 button description:"
-msgstr ""
+msgstr "Záložka 7 - popis tlačítka : "
 
 #: ../AdvancedMovieSelectionSetup.py:1149
 msgid "Here you can give the home button a special name."
-msgstr ""
+msgstr "Vlastní označení pro tlačítko Home "
 
 #: ../AdvancedMovieSelectionSetup.py:1153
 msgid "Here you can give the bookmark 1 button a special name."
-msgstr ""
+msgstr "Vlastní označení pro záložku 1"
 
 #: ../AdvancedMovieSelectionSetup.py:1157
 msgid "Here you can give the bookmark 2 button a special name."
-msgstr ""
+msgstr "Vlastní označení pro záložku 2"
 
 #: ../AdvancedMovieSelectionSetup.py:1161
 msgid "Here you can give the bookmark 3 button a special name."
-msgstr ""
+msgstr "Vlastní označení pro záložku 3"
 
 #: ../AdvancedMovieSelectionSetup.py:1165
 msgid "Here you can give the bookmark 4 button a special name."
-msgstr ""
+msgstr "Vlastní označení pro záložku 4"
 
 #: ../AdvancedMovieSelectionSetup.py:1169
 msgid "Here you can give the bookmark 5 button a special name."
-msgstr ""
+msgstr "Vlastní označení pro záložku 5"
 
 #: ../AdvancedMovieSelectionSetup.py:1173
 msgid "Here you can give the bookmark 6 button a special name."
-msgstr ""
+msgstr "Vlastní označení pro záložku 6"
 
 #: ../AdvancedMovieSelectionSetup.py:1177
 msgid "Here you can give the bookmark 7 button a special name."
-msgstr ""
+msgstr "Vlastní označení pro záložku 7"
 
 #: ../DownloadMovies.py:68
 #: ../DownloadMovies.py:175
 msgid "Save infos/cover"
-msgstr ""
+msgstr "Uložit info / potisk videa"
 
 #: ../DownloadMovies.py:70
 msgid "Background"
-msgstr ""
+msgstr "Stahovat na pozadí "
 
 #: ../DownloadMovies.py:114
 #: ../DownloadMovies.py:225
 #, python-format
 msgid "Search for %s, please wait..."
-msgstr ""
+msgstr "Hledám : %s, čekejte..."
 
 #: ../DownloadMovies.py:141
 msgid "Automatic search and save, please wait..."
-msgstr ""
+msgstr "Hledám a ukládám dokončené, čekejte ..."
 
 #: ../DownloadMovies.py:143
 #, python-format
 msgid "Processing: %s"
-msgstr ""
+msgstr "Zpracovávám : %s"
 
 #: ../DownloadMovies.py:143
 #, python-format
 msgid "/ %s"
-msgstr ""
+msgstr "/ %s"
 
 #: ../DownloadMovies.py:145
 #, python-format
 msgid "Current Movie: %s"
-msgstr ""
+msgstr "Aktuální video :  %s"
 
 #: ../DownloadMovies.py:147
 msgid "Automatic search and save"
-msgstr ""
+msgstr "Aut. vyhledat a uložit"
 
 #: ../DownloadMovies.py:148
 msgid "Automatic search and save finished."
-msgstr ""
+msgstr "Aut.vyhledání a uložení bylo dokončené..."
 
 #: ../DownloadMovies.py:149
 #: ../DownloadMovies.py:168
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../DownloadMovies.py:159
 #, python-format
 msgid "Searchtitle: %s"
-msgstr ""
+msgstr "Hledaný titulek :  %s"
 
 #: ../DownloadMovies.py:160
 #, python-format
 msgid "Filename: %s"
-msgstr ""
+msgstr "Soubor :  %s"
 
 #: ../DownloadMovies.py:161
 #, python-format
 msgid "Search result(s) for %s"
-msgstr ""
+msgstr "Vyhledat :  %s."
 
 #: ../DownloadMovies.py:167
 #, python-format
 msgid "Nothing found for: %s"
-msgstr ""
+msgstr "Nic nebylo nalezeno pro :  %s"
 
 #: ../DownloadMovies.py:220
 msgid "Enter new moviename to search for"
-msgstr ""
+msgstr "Zadejte nový název videa pro hledání v :  "
 
 #: ../DownloadMovies.py:271
 msgid "Download and save from movie infos and covers complete."
-msgstr ""
+msgstr "Stáhnout a uložit info / potisk videa "
 
 #: ../MovieSelection.py:103
 msgid "Show all movies"
-msgstr ""
+msgstr "Zobrazit všechna videa"
 
 #: ../MovieSelection.py:130
 msgid "Sorted:"
-msgstr ""
+msgstr "Seřadit : "
 
 #: ../MovieSelection.py:132
 msgid "Alphabetically"
-msgstr ""
+msgstr "Podle abecedy"
 
 #: ../MovieSelection.py:134
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #: ../MovieSelection.py:136
 msgid "Descending"
-msgstr ""
+msgstr "Sestupně"
 
 #: ../MovieSelection.py:138
 msgid "Ascending"
-msgstr ""
+msgstr "Vzestupně"
 
 #: ../MovieSelection.py:177
 msgid "Set VSR"
-msgstr ""
+msgstr "Nastavit přístupnost diváků"
 
 #: ../MovieSelection.py:179
 msgid "Unmount"
-msgstr ""
+msgstr "Odpojit"
 
 #: ../MovieSelection.py:187
 msgid "Move/Copy"
-msgstr ""
+msgstr "Přesun / kopírování"
 
 #: ../MovieSelection.py:191
 msgid "Movie search"
