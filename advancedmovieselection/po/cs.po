@@ -3,18 +3,16 @@ msgstr ""
 "Project-Id-Version: AdvancedMovieSelection(POT)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 18:46+0100\n"
-"PO-Revision-Date: 2013-10-01 18:46+0100\n"
-"Last-Translator: cmikula\n"
-"Language-Team: IhaD <JackDaniel@i-have-a-dreambox.com>\n"
-"Language: de_AT\n"
+"PO-Revision-Date: 2015-11-24 12:49+0100\n"
+"Last-Translator: Roxy <vro@wo.cz>\n"
+"Language-Team: Roxy1139 <vro@wo.cz>\n"
+"Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-KeywordsList: _(;gettext;gettext_noop\n"
-"X-Poedit-Basepath: .\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.5.4\n"
-"X-Poedit-SearchPath-0: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #: ../SearchTVDb.py:124
 msgid "Sorry, no description found at www.thetvdb.com!"
@@ -188,3 +186,422 @@ msgstr ""
 #, python-format
 msgid "Rating: %s\n"
 msgstr ""
+
+
+#: ../SearchTVDb.py:494
+#, python-format
+msgid "Actors: %s\n"
+msgstr ""
+
+#: ../SearchTVDb.py:499
+#, python-format
+msgid ""
+"\n"
+"Last modified at TheTVDB.com: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:506
+#, python-format
+msgid "Voted: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:506
+msgid "times"
+msgstr ""
+
+#: ../SearchTVDb.py:508
+msgid "No user voted!"
+msgstr ""
+
+#: ../SearchTVDb.py:592
+#: ../MovieSelection.py:353
+msgid "No internet connection available!"
+msgstr ""
+
+#: ../SearchTVDb.py:617
+#: ../SearchTVDb.py:721
+#, python-format
+msgid "Details for: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:632
+#, python-format
+msgid "Search result for: %s"
+msgstr ""
+
+#: ../SearchTVDb.py:742
+#, python-format
+msgid "Save Info/Cover for ' %s ', please wait ..."
+msgstr ""
+
+#: ../SearchTVDb.py:764
+#, python-format
+msgid "Getting show details for ' %s ', please wait ..."
+msgstr ""
+
+#: ../SearchTVDb.py:766
+#, python-format
+msgid "Search trailer for ' %s ', please wait ..."
+msgstr ""
+
+#: ../SearchTVDb.py:768
+#, python-format
+msgid "Getting search result for ' %s ', please wit ..."
+msgstr ""
+
+#: ../SearchTVDb.py:778
+#, python-format
+msgid "Getting episodes list for ' %s ', please wait ..."
+msgstr ""
+
+#: ../SearchTVDb.py:782
+#, python-format
+msgid "Getting episodes details for ' %s ', please wait ..."
+msgstr ""
+
+#: ../RecordPaths.py:34
+msgid "Record Paths Settings"
+msgstr ""
+
+#: ../RecordPaths.py:47
+msgid "Move/copy location:"
+msgstr ""
+
+#: ../RecordPaths.py:57
+msgid "Please select the default move/copy location which is used for move/copy movies."
+msgstr ""
+
+#: ../RecordPaths.py:67
+msgid "Location for move/copy files"
+msgstr ""
+
+#: ../AdvancedKeyboard.py:98
+msgid "Advanced Movie Selection - Input help"
+msgstr ""
+
+#: ../Wastebasket.py:85
+msgid "Record date:"
+msgstr ""
+
+#: ../Wastebasket.py:86
+msgid "Record time:"
+msgstr ""
+
+#: ../Wastebasket.py:193
+msgid "Delete selected movie"
+msgstr ""
+
+#: ../Wastebasket.py:194
+#: ../Wastebasket.py:199
+msgid "Restore movie"
+msgstr ""
+
+#: ../Wastebasket.py:195
+msgid "Empty wastbasket"
+msgstr ""
+
+#: ../Wastebasket.py:196
+#: ../Wastebasket.py:201
+msgid "Restore all movies"
+msgstr ""
+
+#: ../Wastebasket.py:198
+msgid "Delete movie"
+msgstr ""
+
+#: ../Wastebasket.py:200
+msgid "Empty Trash"
+msgstr ""
+
+#: ../Wastebasket.py:202
+msgid "Please wait... Loading trash list..."
+msgstr ""
+
+#: ../Wastebasket.py:215
+msgid "Exit wastebasket"
+msgstr ""
+
+#: ../Wastebasket.py:219
+#: ../MovieSelection.py:286
+msgid "Clientbox setup"
+msgstr ""
+
+#: ../Wastebasket.py:225
+msgid "Advanced Movie Selection - Wastebasket"
+msgstr ""
+
+#: ../Wastebasket.py:227
+#: ../MovieSelection.py:730
+msgid "ATTENTION: Ask before delete is disabled!"
+msgstr ""
+
+#: ../Wastebasket.py:234
+msgid "Last automated wastebasket empty:"
+msgstr ""
+
+#: ../Wastebasket.py:234
+msgid "Never!"
+msgstr ""
+
+#: ../Wastebasket.py:237
+#: ../Wastebasket.py:240
+#: ../Wastebasket.py:249
+#: ../Wastebasket.py:253
+msgid "at"
+msgstr ""
+
+#: ../Wastebasket.py:237
+#: ../Wastebasket.py:240
+#: ../Wastebasket.py:249
+#: ../Wastebasket.py:253
+msgid "Clock"
+msgstr ""
+
+#: ../Wastebasket.py:238
+#, python-format
+msgid "Last automated wastebasket empty at %s"
+msgstr ""
+
+#: ../Wastebasket.py:241
+#, python-format
+msgid "Next automated wastebasket empty at %s"
+msgstr ""
+
+#: ../Wastebasket.py:249
+#, python-format
+msgid "Last remote wastebasket empty at %s"
+msgstr ""
+
+#: ../Wastebasket.py:253
+#, python-format
+msgid "Next remote wastebasket empty at %s"
+msgstr ""
+
+#: ../Wastebasket.py:255
+msgid "No last empty status available!"
+msgstr ""
+
+#: ../Wastebasket.py:256
+msgid "No next empty status available!"
+msgstr ""
+
+#: ../Wastebasket.py:258
+msgid "Auto empty wastebasket is disabled"
+msgstr ""
+
+#: ../Wastebasket.py:275
+#: ../Wastebasket.py:277
+#, python-format
+msgid "Wastebasket: %s"
+msgstr ""
+
+#: ../Wastebasket.py:286
+#, python-format
+msgid "Trash count: %d"
+msgstr ""
+
+#: ../Wastebasket.py:286
+#, python-format
+msgid "Trash size: %d MB"
+msgstr ""
+
+#: ../Wastebasket.py:288
+msgid "Trash size:"
+msgstr ""
+
+#: ../Wastebasket.py:289
+msgid "Trash count:"
+msgstr ""
+
+#: ../Wastebasket.py:291
+msgid "Wastebasket is empty!"
+msgstr ""
+
+#: ../Wastebasket.py:309
+#: ../MovieSelection.py:813
+#, python-format
+msgid "Do you really want to delete %s?"
+msgstr ""
+
+#: ../Wastebasket.py:321
+msgid ""
+"Recording(s) are in progress or coming up in few seconds!\n"
+"Now movie delete can damage the recording(s)!\n"
+"Realy delete movie?"
+msgstr ""
+
+#: ../Wastebasket.py:330
+msgid "Do you really want to delete all movies?"
+msgstr ""
+
+#: ../Wastebasket.py:342
+#: ../MovieSelection.py:880
+msgid "Delete failed!"
+msgstr ""
+
+#: ../Wastebasket.py:354
+msgid ""
+"Recording(s) are in progress or coming up in few seconds!\n"
+"Now empty the Wastebasket can damage the recording(s)!\n"
+"Realy empty the Wastbasket?"
+msgstr ""
+
+#: ../Wastebasket.py:378
+#: ../Wastebasket.py:391
+msgid "Restore failed!"
+msgstr ""
+
+#: ../plugin.py:79
+#: ../plugin.py:128
+msgid "Setup Advanced Movie Selection"
+msgstr ""
+
+#: ../plugin.py:125
+#: ../plugin.py:126
+#: ../MovieSelection.py:932
+msgid "Advanced Movie Selection"
+msgstr ""
+
+#: ../plugin.py:125
+#: ../plugin.py:126
+#: ../plugin.py:128
+#: ../plugin.py:129
+msgid "Alternate Movie Selection"
+msgstr ""
+
+#: ../plugin.py:127
+msgid "Move Copy Progress"
+msgstr ""
+
+#: ../plugin.py:127
+msgid "Show progress of move or copy job"
+msgstr ""
+
+#: ../Rename.py:67
+#: ../AdvancedMovieSelectionSetup.py:216
+msgid "Save"
+msgstr ""
+
+#: ../Rename.py:68
+#: ../MoveCopy.py:249
+#: ../AdvancedMovieSelectionSetup.py:608
+#: ../DownloadMovies.py:63
+#: ../TagEditor.py:44
+#: ../SelectionListScreen.py:41
+#: ../SelectionListScreen.py:55
+#: ../SelectionListScreen.py:59
+msgid "Cancel"
+msgstr ""
+
+#: ../Rename.py:78
+msgid "Location:"
+msgstr ""
+
+#: ../Rename.py:85
+msgid "Displayed bookmark name:"
+msgstr ""
+
+#: ../Rename.py:87
+msgid "Foldername:"
+msgstr ""
+
+#: ../Rename.py:89
+msgid "Filename:"
+msgstr ""
+
+#: ../Rename.py:90
+msgid "Movietitle:"
+msgstr ""
+
+#: ../Rename.py:91
+msgid "Description:"
+msgstr ""
+
+#: ../Rename.py:105
+msgid "Change Bookmarkname"
+msgstr ""
+
+#: ../Rename.py:107
+msgid "Change Foldername"
+msgstr ""
+
+#: ../Rename.py:109
+msgid "Change File/Moviename and/or Description"
+msgstr ""
+
+#: ../MoveCopy.py:48
+msgid "Job failed"
+msgstr ""
+
+#: ../MoveCopy.py:49
+#: ../MoveCopy.py:125
+#: ../MoveCopy.py:280
+#: ../MovieSelection.py:1117
+msgid "Error"
+msgstr ""
+
+#: ../MoveCopy.py:113
+#: ../MoveCopy.py:282
+#: ../MoveCopy.py:380
+msgid "Move"
+msgstr ""
+
+#: ../MoveCopy.py:113
+#: ../MoveCopy.py:282
+#: ../MoveCopy.py:380
+msgid "Copy"
+msgstr ""
+
+#: ../MoveCopy.py:114
+msgid "Name:"
+msgstr ""
+
+#: ../MoveCopy.py:116
+msgid "Cancelled"
+msgstr ""
+
+#: ../MoveCopy.py:118
+#: ../MoveCopy.py:278
+msgid "Finished"
+msgstr ""
+
+#: ../MoveCopy.py:127
+msgid "Error:"
+msgstr ""
+
+#: ../MoveCopy.py:143
+msgid "Calculating..."
+msgstr ""
+
+#: ../MoveCopy.py:147
+#, python-format
+msgid "Around %d minutes"
+msgstr ""
+
+#: ../MoveCopy.py:149
+#, python-format
+msgid "Around %d minute"
+msgstr ""
+
+#: ../MoveCopy.py:151
+msgid "Seconds"
+msgstr ""
+
+#: ../MoveCopy.py:152
+msgid "Second"
+msgstr ""
+
+#: ../MoveCopy.py:157
+msgid "Status:"
+msgstr ""
+
+#: ../MoveCopy.py:159
+#: ../MoveCopy.py:269
+msgid "From:"
+msgstr ""
+
+#: ../MoveCopy.py:160
+#: ../MoveCopy.py:270
+msgid "To:"
+msgstr ""
+
