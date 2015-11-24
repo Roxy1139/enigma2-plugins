@@ -90,7 +90,7 @@ msgstr "Střih (začátek-konec ... sekvence v hod:min:sek)"
 #, python-format
 msgid "Cutting failed for movie \"%s\""
 msgstr "Selhal střih filmu :\n" 
- " \"%s\" !"
+" \"%s\"\n" 
 
 #, python-format
 msgid "Cutting was aborted for movie \"%s\""
@@ -140,7 +140,7 @@ msgstr "Nahradit originál :"
 #, python-format
 msgid "The movie \"%s\" is cut in the background."
 msgstr "Střih filmu :\n"
- " \"%s\"\n" 
+" \"%s\"\n"  
 "...se nyní provede na pozadí..."
 
 #, python-format
