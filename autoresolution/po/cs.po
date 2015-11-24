@@ -25,6 +25,8 @@ msgid ""
 "Autoresolution Plugin Testmode:\n"
 "Is %s OK?"
 msgstr ""
+"Automatické rozlišení - plugin, test.mód : "
+"Je %s OK ?"
 
 msgid "Autoresolution Switch"
 msgstr "Automatické rozlišení - podle zdroje"
