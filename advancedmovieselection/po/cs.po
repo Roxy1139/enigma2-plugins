@@ -612,3 +612,498 @@ msgstr "Od :"
 msgid "To:"
 msgstr "Do : "
 
+#: ../MoveCopy.py:162
+msgid "Remaining time:"
+msgstr ""
+
+#: ../MoveCopy.py:163
+msgid "Remaining elements:"
+msgstr ""
+
+#: ../MoveCopy.py:164
+msgid "Speed:"
+msgstr ""
+
+#: ../MoveCopy.py:246
+msgid "Abort selected job"
+msgstr ""
+
+#: ../MoveCopy.py:247
+#: ../MoveCopy.py:250
+#: ../MoveCopy.py:255
+#: ../MoveCopy.py:352
+#: ../About.py:103
+#: ../About.py:151
+#: ../AdvancedMovieSelectionSetup.py:136
+#: ../AdvancedMovieSelectionSetup.py:215
+msgid "Close"
+msgstr ""
+
+#: ../MoveCopy.py:256
+msgid "Show detail of selected job"
+msgstr ""
+
+#: ../MoveCopy.py:274
+msgid "Aborted"
+msgstr ""
+
+#: ../MoveCopy.py:276
+msgid "Waiting"
+msgstr ""
+
+#: ../MoveCopy.py:291
+msgid "Job already cancelled!"
+msgstr ""
+
+#: ../MoveCopy.py:293
+msgid "Please wait until current movie is moved to the end!"
+msgstr ""
+
+#: ../MoveCopy.py:295
+msgid "Please wait until current movie is copied to the end!"
+msgstr ""
+
+#: ../MoveCopy.py:298
+msgid "Would you really abort current job?"
+msgstr ""
+
+#: ../MoveCopy.py:300
+msgid "Movies began to be moved until they are finished!"
+msgstr ""
+
+#: ../MoveCopy.py:302
+msgid "Movies began to be copied until they are finished!"
+msgstr ""
+
+#: ../MoveCopy.py:318
+msgid "Move of"
+msgstr ""
+
+#: ../MoveCopy.py:318
+msgid "Copy of"
+msgstr ""
+
+#: ../MoveCopy.py:320
+msgid "movie"
+msgstr ""
+
+#: ../MoveCopy.py:320
+msgid "movies"
+msgstr ""
+
+#: ../MoveCopy.py:324
+msgid "Move/Copy progress"
+msgstr ""
+
+#: ../MoveCopy.py:336
+msgid "Selected movies"
+msgstr ""
+
+#: ../MoveCopy.py:346
+msgid "To adjusted move/copy location"
+msgstr ""
+
+#: ../MoveCopy.py:348
+msgid "Directory Selection"
+msgstr ""
+
+#: ../MoveCopy.py:350
+msgid "Show active move/copy processes"
+msgstr ""
+
+#: ../MoveCopy.py:359
+#, python-format
+msgid "Move/Copy from: %s"
+msgstr ""
+
+#: ../MoveCopy.py:365
+#, python-format
+msgid "Move/Copy %s"
+msgstr ""
+
+#: ../MoveCopy.py:365
+msgid "to:"
+msgstr ""
+
+#: ../MoveCopy.py:372
+msgid "Source and destination path must be different."
+msgstr ""
+
+#: ../MoveCopy.py:380
+msgid "Abort"
+msgstr ""
+
+#: ../MoveCopy.py:381
+#, python-format
+msgid "How to proceed '%s'"
+msgstr ""
+
+#: ../MoveCopy.py:381
+#, python-format
+msgid "from %s"
+msgstr ""
+
+#: ../MoveCopy.py:381
+#, python-format
+msgid "to %s"
+msgstr ""
+
+#: ../MoveCopy.py:381
+msgid "be moved/copied?"
+msgstr ""
+
+#: ../MoveCopy.py:395
+msgid "On destination data carrier is not enough space available."
+msgstr ""
+
+#: ../MoveCopy.py:397
+#, python-format
+msgid "Another %s are required to move the data."
+msgstr ""
+
+#: ../MoveCopy.py:399
+#, python-format
+msgid "Another %s are required to copy the data."
+msgstr ""
+
+#: ../MoveCopy.py:400
+msgid "Destination carrier"
+msgstr ""
+
+#: ../MoveCopy.py:401
+msgid "Free space:"
+msgstr ""
+
+#: ../MoveCopy.py:402
+msgid "Total size:"
+msgstr ""
+
+#: ../MoveCopy.py:411
+msgid "Movie(s) are already in the destination directory. Operation cancelled!"
+msgstr ""
+
+#: ../About.py:95
+msgid "Version:"
+msgstr ""
+
+#: ../About.py:96
+msgid "Branch:"
+msgstr ""
+
+#: ../About.py:99
+msgid ""
+"Developer:\n"
+"  JackDaniel, cmikula"
+msgstr ""
+
+#: ../About.py:100
+msgid "Thanks for translation to:\n"
+msgstr ""
+
+#: ../About.py:101
+msgid "This plugin may only executed on hardware which is licensed by Dream Multimedia GmbH."
+msgstr ""
+
+#: ../About.py:102
+msgid "Thanks to all other for help and so many very good code."
+msgstr ""
+
+#: ../About.py:104
+msgid "Show changes"
+msgstr ""
+
+#: ../About.py:110
+msgid "About Advanced Movie Selection"
+msgstr ""
+
+#: ../About.py:142
+msgid "Advanced Movie Selection - History"
+msgstr ""
+
+#: ../MovieSearch.py:39
+msgid "Search:"
+msgstr ""
+
+#: ../QuickButton.py:57
+#, python-format
+msgid "Show up to VSR-%d"
+msgstr ""
+
+#: ../QuickButton.py:59
+#: ../QuickButton.py:220
+#: ../QuickButton.py:355
+#: ../AdvancedMovieSelectionSetup.py:671
+msgid "Mark as seen"
+msgstr ""
+
+#: ../QuickButton.py:62
+msgid "Show folders"
+msgstr ""
+
+#: ../QuickButton.py:64
+msgid "Hide folders"
+msgstr ""
+
+#: ../QuickButton.py:67
+msgid "Show bookmarks"
+msgstr ""
+
+#: ../QuickButton.py:69
+msgid "Hide bookmarks"
+msgstr ""
+
+#: ../QuickButton.py:72
+msgid "Show library"
+msgstr ""
+
+#: ../QuickButton.py:74
+msgid "Hide library"
+msgstr ""
+
+#: ../QuickButton.py:77
+msgid "Show marker"
+msgstr ""
+
+#: ../QuickButton.py:79
+msgid "Hide marker"
+msgstr ""
+
+#: ../QuickButton.py:82
+msgid "To movielist"
+msgstr ""
+
+#: ../QuickButton.py:84
+msgid "To library"
+msgstr ""
+
+#: ../QuickButton.py:93
+#: ../AdvancedMovieSelectionSetup.py:646
+#: ../AdvancedMovieSelectionSetup.py:679
+msgid "Nothing"
+msgstr ""
+
+#: ../QuickButton.py:166
+msgid "Sort alphabetically"
+msgstr ""
+
+#: ../QuickButton.py:168
+msgid "Sort by Description"
+msgstr ""
+
+#: ../QuickButton.py:170
+msgid "Sort by Date (9->1)"
+msgstr ""
+
+#: ../QuickButton.py:172
+msgid "Sort by Date (1->9)"
+msgstr ""
+
+#: ../QuickButton.py:173
+#: ../MovieSelection.py:139
+msgid "Unknown"
+msgstr ""
+
+#: ../QuickButton.py:218
+#: ../QuickButton.py:358
+#: ../AdvancedMovieSelectionSetup.py:672
+msgid "Mark as unseen"
+msgstr ""
+
+#: ../QuickButton.py:309
+msgid "Set tag here not possible, please select a movie for!"
+msgstr ""
+
+#: ../QuickButton.py:315
+msgid "Trailer search here not possible, please select a movie!"
+msgstr ""
+
+#: ../QuickButton.py:321
+msgid "Move/Copy from complete directory/symlink not possible, please select a single movie!"
+msgstr ""
+
+#: ../QuickButton.py:327
+msgid "Rename here not possible, please select a movie!"
+msgstr ""
+
+#: ../QuickButton.py:349
+msgid "TMDb search here not possible, please select a movie!"
+msgstr ""
+
+#: ../QuickButton.py:371
+msgid "Show up to"
+msgstr ""
+
+#: ../QuickButton.py:371
+#: ../MovieSelection.py:1186
+#: ../MovieSelection.py:1288
+msgid "VSR"
+msgstr ""
+
+#: ../QuickButton.py:377
+msgid "This may not be marked as seen!"
+msgstr ""
+
+#: ../QuickButton.py:383
+msgid "This may not be marked as unseen!"
+msgstr ""
+
+#: ../QuickButton.py:393
+msgid "Unknown error!"
+msgstr ""
+
+#: ../QuickButton.py:395
+msgid "Plugin not found!"
+msgstr ""
+
+#: ../QuickButton.py:397
+msgid "No plugin assigned!"
+msgstr ""
+
+#: ../QuickButton.py:403
+msgid "Clear"
+msgstr ""
+
+#: ../QuickButton.py:404
+msgid "VSR-0 (General Audience)"
+msgstr ""
+
+#: ../QuickButton.py:405
+msgid "VSR-6 (Parental Guidance Suggested)"
+msgstr ""
+
+#: ../QuickButton.py:406
+msgid "VSR-12 (Parents Strongly Cautioned)"
+msgstr ""
+
+#: ../QuickButton.py:407
+msgid "VSR-16 (Restricted)"
+msgstr ""
+
+#: ../QuickButton.py:408
+msgid "VSR-18 (No One 17 And Under Admitted)"
+msgstr ""
+
+#: ../QuickButton.py:409
+msgid "Please select the VSR here:"
+msgstr ""
+
+#: ../QuickButton.py:470
+msgid "Select movie by description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:134
+msgid "Backup directory path:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:137
+msgid "Restore settings"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:138
+msgid "Backup settings"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:142
+msgid "Backup/Restore Advanced Movie Selection settings"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:152
+#, python-format
+msgid "Settings backup successfully created in %s."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:155
+msgid "Error creating settings backup!"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:167
+#: ../AdvancedMovieSelectionSetup.py:566
+#: ../MovieSelection.py:945
+msgid "Some settings changes require close/reopen the movielist to take effect."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:175
+msgid "Please select backup path here:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:217
+#: ../MovieSelection.py:264
+msgid "Color key settings"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:218
+msgid "Default paths"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:260
+msgid "Advanced Movie Selection Setup"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:361
+msgid "Disable Advanced Movie Selection:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:361
+msgid "Switch on/off the Advanced Movie Selection."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:362
+msgid "Start Advanced Movie Selection with:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:362
+msgid "Select Start button for the Advanced Movie Selection."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:363
+msgid "Start on last movie location:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:363
+msgid "Opens the film list on the last used location."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:364
+msgid "Start on first position in movielist:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:364
+msgid "Always show selection in the first position in the movie list."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:365
+msgid "Show bookmarks in movielist:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:365
+msgid "When enabled all created bookmarks appear in the movie list."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:366
+msgid "Show hotplug devices:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:366
+msgid "Enable this option to use USB-Devices."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:367
+msgid "Show plugin config in extensions menu from movielist:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:367
+msgid "Displays the Settings option in the menu at the movie list."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:368
+msgid "Show path selection for movie library in extensions menu:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:368
+msgid "Here you can select which folders to include in the movie library creation."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:369
+msgid "Show movie library symbol in movielist:"
+msgstr ""
+
