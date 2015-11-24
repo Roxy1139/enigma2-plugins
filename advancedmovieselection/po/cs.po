@@ -1899,3 +1899,601 @@ msgstr ""
 msgid "Library marker on/off"
 msgstr ""
 
+#: ../AdvancedMovieSelectionSetup.py:657
+msgid "Update library"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:658
+msgid "Home"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:659
+msgid "Bookmark 1"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:660
+msgid "Bookmark 2"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:661
+msgid "Bookmark 3"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:662
+msgid "Bookmark 4"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:663
+msgid "Bookmark 5"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:664
+msgid "Bookmark 6"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:665
+msgid "Bookmark 7"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:666
+#: ../MovieSelection.py:280
+msgid "Filter by Tags"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:667
+msgid "Tag Editor"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:668
+#: ../MovieSelection.py:181
+msgid "TMDb Info & D/L"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:670
+msgid "Toggle seen"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:673
+msgid "Show Timer"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:674
+msgid "Show up to VSR-X"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:675
+#: ../MovieSelection.py:175
+msgid "Filter by description"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:680
+msgid "DM-600PVR"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:681
+msgid "DM-7000"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:682
+msgid "DM-7025"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:683
+msgid "DM-8000HD"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:684
+msgid "DM-500HD"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:685
+msgid "DM-800HD"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:686
+msgid "DM-800HDse"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:687
+msgid "DM-7020HD"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:688
+msgid "internal HDD"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:689
+msgid "NAS"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:690
+msgid "NAS-Movies"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:692
+msgid "Display plugin name"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:693
+msgid "Display plugin description"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:808
+msgid "(long)"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:811
+msgid "Quickbutton:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:814
+msgid "Button caption"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:816
+msgid "Home button text"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:818
+msgid "Bookmark 1 button text"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:820
+msgid "Bookmark 2 button text"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:822
+msgid "Bookmark 3 button text"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:824
+msgid "Bookmark 4 button text"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:826
+msgid "Bookmark 5 button text"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:828
+msgid "Bookmark 6 button text"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:830
+msgid "Bookmark 7 button text"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:832
+msgid "Home path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:834
+msgid "Bookmark 1 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:836
+msgid "Bookmark 2 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:838
+msgid "Bookmark 3 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:840
+msgid "Bookmark 4 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:842
+msgid "Bookmark 5 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:844
+msgid "Bookmark 6 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:846
+msgid "Bookmark 7 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:887
+#: ../MovieSelection.py:199
+msgid "Alphabetic sort"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:888
+#: ../MovieSelection.py:205
+msgid "Sort by date (ascending)"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:889
+#: ../MovieSelection.py:203
+msgid "Sort by date (descending)"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:890
+#: ../MovieSelection.py:201
+msgid "Sort by description"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:897
+msgid "Select sort functions"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:900
+msgid "Movie Quick Button Home path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:903
+msgid "Movie Quick Button Bookmark 1 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:906
+msgid "Movie Quick Button Bookmark 2 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:909
+msgid "Movie Quick Button Bookmark 3 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:912
+msgid "Movie Quick Button Bookmark 4 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:915
+msgid "Movie Quick Button Bookmark 5 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:918
+msgid "Movie Quick Button Bookmark 6 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:921
+msgid "Movie Quick Button Bookmark 7 path"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1055
+msgid "Movie Quick Button Name Setup"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1067
+msgid "Enter Home button descrition:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1069
+msgid "Enter Bookmark 1 button descrition:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1071
+msgid "Enter Bookmark 2 button descrition:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1073
+msgid "Enter Bookmark 3 button descrition:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1075
+msgid "Enter Bookmark 4 button descrition:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1077
+msgid "Enter Bookmark 5 button descrition:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1079
+msgid "Enter Bookmark 6 button descrition:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1081
+msgid "Enter Bookmark 7 button descrition:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1125
+msgid "Home button description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1126
+msgid "Bookmark 1 button description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1127
+msgid "Bookmark 2 button description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1128
+msgid "Bookmark 3 button description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1129
+msgid "Bookmark 4 button description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1130
+msgid "Bookmark 5 button description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1131
+msgid "Bookmark 6 button description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1132
+msgid "Bookmark 7 button description:"
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1149
+msgid "Here you can give the home button a special name."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1153
+msgid "Here you can give the bookmark 1 button a special name."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1157
+msgid "Here you can give the bookmark 2 button a special name."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1161
+msgid "Here you can give the bookmark 3 button a special name."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1165
+msgid "Here you can give the bookmark 4 button a special name."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1169
+msgid "Here you can give the bookmark 5 button a special name."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1173
+msgid "Here you can give the bookmark 6 button a special name."
+msgstr ""
+
+#: ../AdvancedMovieSelectionSetup.py:1177
+msgid "Here you can give the bookmark 7 button a special name."
+msgstr ""
+
+#: ../DownloadMovies.py:68
+#: ../DownloadMovies.py:175
+msgid "Save infos/cover"
+msgstr ""
+
+#: ../DownloadMovies.py:70
+msgid "Background"
+msgstr ""
+
+#: ../DownloadMovies.py:114
+#: ../DownloadMovies.py:225
+#, python-format
+msgid "Search for %s, please wait..."
+msgstr ""
+
+#: ../DownloadMovies.py:141
+msgid "Automatic search and save, please wait..."
+msgstr ""
+
+#: ../DownloadMovies.py:143
+#, python-format
+msgid "Processing: %s"
+msgstr ""
+
+#: ../DownloadMovies.py:143
+#, python-format
+msgid "/ %s"
+msgstr ""
+
+#: ../DownloadMovies.py:145
+#, python-format
+msgid "Current Movie: %s"
+msgstr ""
+
+#: ../DownloadMovies.py:147
+msgid "Automatic search and save"
+msgstr ""
+
+#: ../DownloadMovies.py:148
+msgid "Automatic search and save finished."
+msgstr ""
+
+#: ../DownloadMovies.py:149
+#: ../DownloadMovies.py:168
+msgid "OK"
+msgstr ""
+
+#: ../DownloadMovies.py:159
+#, python-format
+msgid "Searchtitle: %s"
+msgstr ""
+
+#: ../DownloadMovies.py:160
+#, python-format
+msgid "Filename: %s"
+msgstr ""
+
+#: ../DownloadMovies.py:161
+#, python-format
+msgid "Search result(s) for %s"
+msgstr ""
+
+#: ../DownloadMovies.py:167
+#, python-format
+msgid "Nothing found for: %s"
+msgstr ""
+
+#: ../DownloadMovies.py:220
+msgid "Enter new moviename to search for"
+msgstr ""
+
+#: ../DownloadMovies.py:271
+msgid "Download and save from movie infos and covers complete."
+msgstr ""
+
+#: ../MovieSelection.py:103
+msgid "Show all movies"
+msgstr ""
+
+#: ../MovieSelection.py:130
+msgid "Sorted:"
+msgstr ""
+
+#: ../MovieSelection.py:132
+msgid "Alphabetically"
+msgstr ""
+
+#: ../MovieSelection.py:134
+msgid "Description"
+msgstr ""
+
+#: ../MovieSelection.py:136
+msgid "Descending"
+msgstr ""
+
+#: ../MovieSelection.py:138
+msgid "Ascending"
+msgstr ""
+
+#: ../MovieSelection.py:177
+msgid "Set VSR"
+msgstr ""
+
+#: ../MovieSelection.py:179
+msgid "Unmount"
+msgstr ""
+
+#: ../MovieSelection.py:187
+msgid "Move/Copy"
+msgstr ""
+
+#: ../MovieSelection.py:191
+msgid "Movie search"
+msgstr ""
+
+#: ../MovieSelection.py:193
+msgid "Mark movie as seen"
+msgstr ""
+
+#: ../MovieSelection.py:194
+msgid "Mark movie as unseen"
+msgstr ""
+
+#: ../MovieSelection.py:208
+msgid "List style default"
+msgstr ""
+
+#: ../MovieSelection.py:209
+msgid "List style extended"
+msgstr ""
+
+#: ../MovieSelection.py:210
+msgid "List style compact"
+msgstr ""
+
+#: ../MovieSelection.py:211
+msgid "List style compact with description"
+msgstr ""
+
+#: ../MovieSelection.py:212
+msgid "List style single line"
+msgstr ""
+
+#: ../MovieSelection.py:213
+msgid "List style Advanced Movie Selection single line"
+msgstr ""
+
+#: ../MovieSelection.py:217
+msgid "Hide broadcaster"
+msgstr ""
+
+#: ../MovieSelection.py:219
+msgid "Show broadcaster"
+msgstr ""
+
+#: ../MovieSelection.py:222
+msgid "Hide tags in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:224
+msgid "Show tags in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:227
+msgid "Hide extended description"
+msgstr ""
+
+#: ../MovieSelection.py:229
+msgid "Show extended description"
+msgstr ""
+
+#: ../MovieSelection.py:231
+msgid "Hide date entry in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:233
+msgid "Show date entry in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:235
+msgid "Hide runtime entry in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:237
+msgid "Show runtime entry in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:240
+msgid "Hide folders in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:242
+msgid "Show folders in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:247
+msgid "Hide progressbar in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:249
+msgid "Show progressbar in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:252
+msgid "Hide percent in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:254
+msgid "Show percent in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:256
+msgid "Hide movie status icon in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:258
+msgid "Show movie status icon in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:260
+msgid "Hide movie color status in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:262
+msgid "Show movie color status in movielist"
+msgstr ""
+
+#: ../MovieSelection.py:266
+msgid "Download and save movie info/cover for all movies"
+msgstr ""
+
+#: ../MovieSelection.py:268
+msgid "Download and save movie info/cover"
+msgstr ""
+
+#: ../MovieSelection.py:270
+msgid "Update all genre in meta from eit"
+msgstr ""
+
+#: ../MovieSelection.py:272
+msgid "Delete cover"
+msgstr ""
+
+#: ../MovieSelection.py:274
+msgid "Delete movie info"
+msgstr ""
+
