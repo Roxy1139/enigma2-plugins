@@ -2497,3 +2497,503 @@ msgstr ""
 msgid "Delete movie info"
 msgstr ""
 
+#: ../MovieSelection.py:276
+msgid "Delete movie info and cover"
+msgstr ""
+
+#: ../MovieSelection.py:278
+msgid "Movie tags"
+msgstr ""
+
+#: ../MovieSelection.py:282
+msgid "Setup Moviebar position"
+msgstr ""
+
+#: ../MovieSelection.py:284
+msgid "Search Trailer on web"
+msgstr ""
+
+#: ../MovieSelection.py:288
+msgid "Backup/Restore"
+msgstr ""
+
+#: ../MovieSelection.py:290
+msgid "Select scan locations for movie library"
+msgstr ""
+
+#: ../MovieSelection.py:292
+msgid "Setup"
+msgstr ""
+
+#: ../MovieSelection.py:297
+msgid "Advanced Movie Selection Menu"
+msgstr ""
+
+#: ../MovieSelection.py:324
+#, python-format
+msgid "The device '%s' can now removed!"
+msgstr ""
+
+#: ../MovieSelection.py:328
+msgid "Error occurred during unmounting device!"
+msgstr ""
+
+#: ../MovieSelection.py:400
+msgid "Move/Copy not possible here!"
+msgstr ""
+
+#: ../MovieSelection.py:412
+msgid "Enter text to search for"
+msgstr ""
+
+#: ../MovieSelection.py:550
+#, python-format
+msgid ""
+"Do you really want to delete info/cover from:\n"
+"%s?"
+msgstr ""
+
+#: ../MovieSelection.py:554
+#: ../MovieSelection.py:579
+#: ../MovieSelection.py:607
+msgid "You cannot delete this!"
+msgstr ""
+
+#: ../MovieSelection.py:575
+#, python-format
+msgid ""
+"Do you really want to delete cover from:\n"
+"%s?"
+msgstr ""
+
+#: ../MovieSelection.py:603
+#, python-format
+msgid ""
+"Do you really want to delete movie info from:\n"
+"%s?"
+msgstr ""
+
+#: ../MovieSelection.py:725
+msgid "Please wait... Loading list..."
+msgstr ""
+
+#: ../MovieSelection.py:755
+msgid "Select the movie path"
+msgstr ""
+
+#: ../MovieSelection.py:756
+msgid "Multiselection"
+msgstr ""
+
+#: ../MovieSelection.py:760
+msgid "Advanced movielist menu"
+msgstr ""
+
+#: ../MovieSelection.py:761
+msgid "Show event details"
+msgstr ""
+
+#: ../MovieSelection.py:765
+msgid "Exit movielist"
+msgstr ""
+
+#: ../MovieSelection.py:766
+msgid "Select movie"
+msgstr ""
+
+#: ../MovieSelection.py:770
+msgid "Video preview jump forward"
+msgstr ""
+
+#: ../MovieSelection.py:771
+msgid "Video preview jump backward"
+msgstr ""
+
+#: ../MovieSelection.py:776
+msgid "Jump to next marker"
+msgstr ""
+
+#: ../MovieSelection.py:777
+msgid "Jump to previous marker"
+msgstr ""
+
+#: ../MovieSelection.py:781
+msgid "Start/Stop video preview"
+msgstr ""
+
+#: ../MovieSelection.py:806
+#: ../MovieSelection.py:811
+#, python-format
+msgid "%s is currently recording!"
+msgstr ""
+
+#: ../MovieSelection.py:806
+#, python-format
+msgid ""
+"\n"
+"\n"
+"The timer for %s will be delete for stop the recording and after this the movie will be move to trashcan.\n"
+"\n"
+"Do you really want to continue?"
+msgstr ""
+
+#: ../MovieSelection.py:808
+#, python-format
+msgid "Do you really want to move %s to trashcan?"
+msgstr ""
+
+#: ../MovieSelection.py:811
+#, python-format
+msgid ""
+"\n"
+"\n"
+"The timer for %s will be delete for stop the recording and after this the movie will be deleted.\n"
+"\n"
+"Do you really want to continue?"
+msgstr ""
+
+#: ../MovieSelection.py:815
+msgid "Recordings are active, the timer(s) will also be deleted!\n"
+msgstr ""
+
+#: ../MovieSelection.py:817
+msgid "Do you really want to move selected movies to trashcan?"
+msgstr ""
+
+#: ../MovieSelection.py:819
+msgid "Do you really want to delete selected movies?"
+msgstr ""
+
+#: ../MovieSelection.py:824
+msgid "This cannot deleted, please select a movie for!"
+msgstr ""
+
+#: ../MovieSelection.py:834
+msgid "this recording"
+msgstr ""
+
+#: ../MovieSelection.py:1144
+msgid ""
+"Load Length of Movies in Movielist has been disabled.\n"
+"Close and reopen Movielist is required to apply the setting."
+msgstr ""
+
+#: ../MovieSelection.py:1206
+msgid "Tag 1"
+msgstr ""
+
+#: ../MovieSelection.py:1211
+msgid "Tag 2"
+msgstr ""
+
+#: ../MovieSelection.py:1291
+msgid "Movie location:"
+msgstr ""
+
+#: ../MovieSelection.py:1293
+msgid "Movie library"
+msgstr ""
+
+#: ../MovieSelection.py:1308
+msgid "[Library update in progress]"
+msgstr ""
+
+#: ../MovieSelection.py:1332
+msgid "Please select the movie path..."
+msgstr ""
+
+#: ../MovieSelection.py:1361
+#, python-format
+msgid "Directory %s nonexistent."
+msgstr ""
+
+#: ../MovieSelection.py:1410
+msgid "Please select tag to filter..."
+msgstr ""
+
+#: ../MovieSelection.py:1413
+msgid "No tags are set on these movies."
+msgstr ""
+
+#: ../MovieSelection.py:1420
+msgid "Please select the search path(s) for movies..."
+msgstr ""
+
+#: ../MovieSelection.py:1443
+msgid ""
+"Use direction keys to move the Moviebar.\n"
+"Press OK button for save or the EXIT button to cancel.\n"
+"Use the red button for reset to the original position."
+msgstr ""
+
+#: ../TagEditor.py:46
+msgid "Create new Tag"
+msgstr ""
+
+#: ../TagEditor.py:48
+msgid "Load Tag(s) from movies"
+msgstr ""
+
+#: ../TagEditor.py:49
+msgid "Use the OK Button for the selection."
+msgstr ""
+
+#: ../TagEditor.py:74
+msgid "Add Tag(s) for Recordings/Timer or AutoTimer"
+msgstr ""
+
+#: ../TagEditor.py:78
+#, python-format
+msgid "Edit Tag(s) for: %s"
+msgstr ""
+
+#: ../TagEditor.py:80
+msgid "Edit Tag(s)"
+msgstr ""
+
+#: ../TagEditor.py:91
+msgid "Please enter here the new tag:"
+msgstr ""
+
+#: ../TagEditor.py:206
+msgid ""
+"Do you really want to delete unused tags from default taglist?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
+
+#: ../TagEditor.py:231
+#, python-format
+msgid ""
+"Rename tag \"%s\" in movies and default taglist?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
+
+#: ../TagEditor.py:247
+#, python-format
+msgid ""
+"Do you really want to delete tag \"%s\" from movies and default taglist?\n"
+"(Caution can not be undone!)"
+msgstr ""
+
+#: ../TagEditor.py:265
+msgid ""
+"Do you really want to delete all tags from movies and default taglist?\n"
+"(Caution can not be undone!)"
+msgstr ""
+
+#: ../TagEditor.py:282
+msgid "Add new tag"
+msgstr ""
+
+#: ../TagEditor.py:283
+msgid "Rename this tag"
+msgstr ""
+
+#: ../TagEditor.py:284
+msgid "Delete this tag"
+msgstr ""
+
+#: ../TagEditor.py:285
+msgid "Delete unused tags from default taglist"
+msgstr ""
+
+#: ../TagEditor.py:286
+msgid "Delete all tags"
+msgstr ""
+
+#: ../SelectionListScreen.py:54
+msgid "Toggle selected"
+msgstr ""
+
+#: ../FileBrowser.py:60
+msgid "File Browser"
+msgstr ""
+
+#: ../ClientSetup.py:74
+#: ../AdvancedMovieSelectionEventView.py:94
+msgid "Recording"
+msgstr ""
+
+#: ../ClientSetup.py:76
+msgid "Standby"
+msgstr ""
+
+#: ../ClientSetup.py:78
+msgid "Switched on"
+msgstr ""
+
+#: ../ClientSetup.py:82
+#: ../ClientSetup.py:89
+#, python-format
+msgid "The %s is a client box"
+msgstr ""
+
+#: ../ClientSetup.py:93
+msgid "Hostname:"
+msgstr ""
+
+#: ../ClientSetup.py:95
+msgid "IP:"
+msgstr ""
+
+#: ../ClientSetup.py:97
+msgid "<Local device>"
+msgstr ""
+
+#: ../ClientSetup.py:98
+msgid "Port:"
+msgstr ""
+
+#: ../ClientSetup.py:190
+msgid "Advanced Movie Selection - Clientbox setup"
+msgstr ""
+
+#: ../ClientSetup.py:197
+#, python-format
+msgid "Local IP: %s"
+msgstr ""
+
+#: ../ClientSetup.py:199
+msgid "Available Server/Clients"
+msgstr ""
+
+#: ../ClientSetup.py:201
+msgid "Remoteserver disabled!"
+msgstr ""
+
+#: ../ClientSetup.py:203
+msgid "ATTENTION: DHCP in lan configuration is activ, no clientbox services available!"
+msgstr ""
+
+#: ../ClientSetup.py:207
+msgid "Port address:"
+msgstr ""
+
+#: ../ClientSetup.py:207
+msgid "Set the port address for client and server. Port address from connected clients will be automatically updated."
+msgstr ""
+
+#: ../ClientSetup.py:208
+msgid "Start search IP:"
+msgstr ""
+
+#: ../ClientSetup.py:208
+#: ../ClientSetup.py:209
+msgid "Only last three digits from the IP must be set."
+msgstr ""
+
+#: ../ClientSetup.py:209
+msgid "Stop search IP:"
+msgstr ""
+
+#: ../ClientSetup.py:242
+msgid "Searching for clients, please wait ..."
+msgstr ""
+
+#: ../ClientSetup.py:248
+msgid "Manual search finished"
+msgstr ""
+
+#: ../MovieList.py:556
+msgid "REC"
+msgstr ""
+
+#: ../MovieList.py:558
+msgid "Records"
+msgstr ""
+
+#: ../MoviePlayer.py:139
+msgid "Open servicelist"
+msgstr ""
+
+#: ../MoviePlayer.py:173
+#: ../MoviePlayer.py:178
+msgid "Leave movie player"
+msgstr ""
+
+#: ../MoviePlayer.py:283
+msgid ""
+"Not possible!\n"
+"MerlinEPG and CoolTVGuide or/and MerlinEPGCenter present or neither installed from this three plugins."
+msgstr ""
+
+#: ../MoviePlayer.py:317
+#: ../MoviePlayer.py:323
+#: ../MoviePlayer.py:469
+msgid "Yes"
+msgstr ""
+
+#: ../MoviePlayer.py:318
+#: ../MoviePlayer.py:327
+#: ../MoviePlayer.py:470
+msgid "No"
+msgstr ""
+
+#: ../MoviePlayer.py:321
+msgid "No, but stop endless loop"
+msgstr ""
+
+#: ../MoviePlayer.py:321
+msgid "No, but start endless loop"
+msgstr ""
+
+#: ../MoviePlayer.py:324
+msgid "Yes, returning to movie list"
+msgstr ""
+
+#: ../MoviePlayer.py:325
+msgid "Yes, and delete this movie"
+msgstr ""
+
+#: ../MoviePlayer.py:326
+msgid "Yes, and after deleting return to movie list"
+msgstr ""
+
+#: ../MoviePlayer.py:328
+msgid "No, but restart from begin"
+msgstr ""
+
+#: ../MoviePlayer.py:333
+#: ../MoviePlayer.py:473
+msgid "Stop playing this movie?"
+msgstr ""
+
+#: ../MoviePlayer.py:374
+msgid "End of the movie is reached, the box now go to standby. Do that now?"
+msgstr ""
+
+#: ../MoviePlayer.py:377
+msgid "End of the movie is reached, the box now go to shut down. Shutdown now?"
+msgstr ""
+
+#: ../MoviePlayer.py:523
+msgid "Error loading ISO image!"
+msgstr ""
+
+#: ../MoviePlayer.py:526
+msgid "Selected ISO image is not playable!"
+msgstr ""
+
+#: ../MoviePlayer.py:539
+msgid "No DVD-PlayerChoice found!"
+msgstr ""
+
+#: ../MoviePlayer.py:544
+msgid "No BludiscPlayer found!"
+msgstr ""
+
+#: ../Seekbar.py:60
+msgid "Use arrow left/right for position"
+msgstr ""
+
+#: ../Seekbar.py:62
+msgid "Jump x minutes forward (OK for seek):"
+msgstr ""
+
+#: ../Seekbar.py:64
+msgid "Jump x minutes back (OK for seek):"
+msgstr ""
+
+#: ../Seekbar.py:65
+msgid "Go manual to position (OK for seek):"
+msgstr ""
