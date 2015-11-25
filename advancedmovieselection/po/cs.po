@@ -2918,192 +2918,194 @@ msgstr "Start hledání podle IP : "
 #: ../ClientSetup.py:208
 #: ../ClientSetup.py:209
 msgid "Only last three digits from the IP must be set."
-msgstr ""
+msgstr "Pro IP adresu musí být nastaveny poslední tři čísla !"
 
 #: ../ClientSetup.py:209
 msgid "Stop search IP:"
-msgstr ""
+msgstr "Zastavit hledání IP : "
 
 #: ../ClientSetup.py:242
 msgid "Searching for clients, please wait ..."
-msgstr ""
+msgstr "Hledám v sat.přijímači, čekejte..."
 
 #: ../ClientSetup.py:248
 msgid "Manual search finished"
-msgstr ""
+msgstr "Manuální vyhledávání bylo dokončeno"
 
 #: ../MovieList.py:556
 msgid "REC"
-msgstr ""
+msgstr "REC"
 
 #: ../MovieList.py:558
 msgid "Records"
-msgstr ""
+msgstr "Nahrávání"
 
 #: ../MoviePlayer.py:139
 msgid "Open servicelist"
-msgstr ""
+msgstr "Otevřít seznam EPG"
 
 #: ../MoviePlayer.py:173
 #: ../MoviePlayer.py:178
 msgid "Leave movie player"
-msgstr ""
+msgstr "Přehrát a seznam zavřít"
 
 #: ../MoviePlayer.py:283
 msgid ""
 "Not possible!\n"
 "MerlinEPG and CoolTVGuide or/and MerlinEPGCenter present or neither installed from this three plugins."
 msgstr ""
+"Není povoleno !\n"
+"MerlinEPG, CoolTVGuide a MerlinEPGCenter nejsou spuštěné nebo ani nainstalované !"
 
 #: ../MoviePlayer.py:317
 #: ../MoviePlayer.py:323
 #: ../MoviePlayer.py:469
 msgid "Yes"
-msgstr ""
+msgstr "ano"
 
 #: ../MoviePlayer.py:318
 #: ../MoviePlayer.py:327
 #: ../MoviePlayer.py:470
 msgid "No"
-msgstr ""
+msgstr "ne"
 
 #: ../MoviePlayer.py:321
 msgid "No, but stop endless loop"
-msgstr ""
+msgstr "ne - ale zastavit smyčku"
 
 #: ../MoviePlayer.py:321
 msgid "No, but start endless loop"
-msgstr ""
+msgstr "ne - ale spustit smyčku"
 
 #: ../MoviePlayer.py:324
 msgid "Yes, returning to movie list"
-msgstr ""
+msgstr "ano - a vrátit se do seznamu videa"
 
 #: ../MoviePlayer.py:325
 msgid "Yes, and delete this movie"
-msgstr ""
+msgstr "ano - a odstranit toto video"
 
 #: ../MoviePlayer.py:326
 msgid "Yes, and after deleting return to movie list"
-msgstr ""
+msgstr "ano - odstranit toto video a vrátit se do seznamu"
 
 #: ../MoviePlayer.py:328
 msgid "No, but restart from begin"
-msgstr ""
+msgstr "ne - ale spustit od začátku"
 
 #: ../MoviePlayer.py:333
 #: ../MoviePlayer.py:473
 msgid "Stop playing this movie?"
-msgstr ""
+msgstr "Zastavit přehrávané video ? "
 
 #: ../MoviePlayer.py:374
 msgid "End of the movie is reached, the box now go to standby. Do that now?"
-msgstr ""
+msgstr "Přehrávání videa bylo dokončeno. Sat.přijímač by se měl nyní přepnout do režimu spánku. Přepnout ho nyní ?"
 
 #: ../MoviePlayer.py:377
 msgid "End of the movie is reached, the box now go to shut down. Shutdown now?"
-msgstr ""
+msgstr "Přehrávání videa bylo dokončeno. Sat.přijímač by se měl nyní vypnout. Vypnout ho nyní ?"
 
 #: ../MoviePlayer.py:523
 msgid "Error loading ISO image!"
-msgstr ""
+msgstr "Chyba při načítání ISO Image !"
 
 #: ../MoviePlayer.py:526
 msgid "Selected ISO image is not playable!"
-msgstr ""
+msgstr "Vybraný ISO-soubor nelze přehrát !"
 
 #: ../MoviePlayer.py:539
 msgid "No DVD-PlayerChoice found!"
-msgstr ""
+msgstr "DVD-Player není k dispozici !"
 
 #: ../MoviePlayer.py:544
 msgid "No BludiscPlayer found!"
-msgstr ""
+msgstr "BludiscPlayer nebyl nalezený !"
 
 #: ../Seekbar.py:60
 msgid "Use arrow left/right for position"
-msgstr ""
+msgstr "pomocí šipek vlevo / vpravo"
 
 #: ../Seekbar.py:62
 msgid "Jump x minutes forward (OK for seek):"
-msgstr ""
+msgstr "posunout o x minut dopředu -> OK"
 
 #: ../Seekbar.py:64
 msgid "Jump x minutes back (OK for seek):"
-msgstr ""
+msgstr "posunout o x minut zpět -> OK "
 
 #: ../Seekbar.py:65
 msgid "Go manual to position (OK for seek):"
-msgstr ""
+msgstr "posunout na pozici -> OK"
 
 #: ../Seekbar.py:86
 msgid "Advanced Movie Selection Seek"
-msgstr ""
+msgstr "Advanced Movie Selection -přeskočit video"
 
 #: ../Seekbar.py:106
 msgid "Manual jump to:"
-msgstr ""
+msgstr "manuální pozice  :  "
 
 #: ../SearchTMDb.py:94
 msgid "Only those, which are not available!"
-msgstr ""
+msgstr "Pouze data, která nejsou k dispozici !"
 
 #: ../SearchTMDb.py:96
 msgid "Overwrite both (description & cover)"
-msgstr ""
+msgstr "Uložit oba (popis a potisk)"
 
 #: ../SearchTMDb.py:98
 msgid "Overwrite movie description"
-msgstr ""
+msgstr "Uložit nový popis videa"
 
 #: ../SearchTMDb.py:100
 msgid "Overwrite movie cover"
-msgstr ""
+msgstr "Uložit nový potisk videa"
 
 #: ../SearchTMDb.py:103
 msgid "Data already exists! Should anything be updated?"
-msgstr ""
+msgstr "Data již existují ! Chcete něco aktualizovat ? "
 
 #: ../SearchTMDb.py:198
 msgid "Show movie detail"
-msgstr ""
+msgstr "Zobrazit detaily"
 
 #: ../SearchTMDb.py:220
 #: ../SearchTMDb.py:227
 msgid "Toggle detail and list view"
-msgstr ""
+msgstr "Volba seznam / detaily"
 
 #: ../SearchTMDb.py:221
 msgid "Save info/cover"
-msgstr ""
+msgstr "Uložit info / potisk videa"
 
 #: ../SearchTMDb.py:231
 msgid "Move up"
-msgstr ""
+msgstr "přesun nahoru"
 
 #: ../SearchTMDb.py:232
 msgid "Move down"
-msgstr ""
+msgstr "přesun dolů"
 
 #: ../SearchTMDb.py:236
 #: ../SearchTMDb.py:242
 msgid "Show previous cover"
-msgstr ""
+msgstr "Zobrazit předchozí potisk "
 
 #: ../SearchTMDb.py:237
 #: ../SearchTMDb.py:241
 msgid "Show next cover"
-msgstr ""
+msgstr "Zobrazit další potisk "
 
 #: ../SearchTMDb.py:298
 #, python-format
 msgid "Searching for ' %s ' on TMDb, please wait ..."
-msgstr ""
+msgstr "Hledám  '%s' v TMDb, čekejte..."
 
 #: ../SearchTMDb.py:327
 #, python-format
 msgid "No data found for ' %s ' at themoviedb.org!"
-msgstr ""
+msgstr "Data pro '%s' z themoviedb.org nejsou dostupná !"
 
 #: ../SearchTMDb.py:328
 #, python-format
@@ -3111,6 +3113,8 @@ msgid ""
 "No data found for ' %s ' at themoviedb.org!\n"
 "Do you want to edit the search name?"
 msgstr ""
+"Data pro '%s' z themoviedb.org nejsou dostupná !\n"
+"Chcete upravit název pro hledání ?"
 
 #: ../SearchTMDb.py:339
 #: ../SearchTMDb.py:449
@@ -3119,250 +3123,252 @@ msgid ""
 "Error!\n"
 "%s"
 msgstr ""
+"Chyba !\n"
+"%s"
 
 #: ../SearchTMDb.py:346
 msgid "movie found"
-msgstr ""
+msgstr "nalezený film"
 
 #: ../SearchTMDb.py:353
 msgid "movies found"
-msgstr ""
+msgstr "nelezených filmů"
 
 #: ../SearchTMDb.py:398
 #, python-format
 msgid "No description for ' %s ' at themoviedb.org found!"
-msgstr ""
+msgstr "Chybí popis k videu '%s' z themoviedb.org není dostupný !"
 
 #: ../SearchTMDb.py:401
 #, python-format
 msgid "Appeared: %s"
-msgstr ""
+msgstr "Rok vydání :  %s"
 
 #: ../SearchTMDb.py:403
 #, python-format
 msgid "Runtime: %s minutes"
-msgstr ""
+msgstr "Délka filmu :  %s minut"
 
 #: ../SearchTMDb.py:421
 #, python-format
 msgid "Studio: %s"
-msgstr ""
+msgstr "Studio :  %s"
 
 #: ../SearchTMDb.py:425
 #, python-format
 msgid "Director: %s"
-msgstr ""
+msgstr "Režie : %s"
 
 #: ../SearchTMDb.py:429
 #, python-format
 msgid "Production: %s\n"
-msgstr ""
+msgstr "Produkt : %s"
 
 #: ../SearchTMDb.py:443
 msgid "Unknown error!!"
-msgstr ""
+msgstr "Neznámá chyba !!"
 
 #: ../SearchTMDb.py:549
 #, python-format
 msgid "Sorry, no info/cover found for title: %s"
-msgstr ""
+msgstr "Nebyl nalezený popis filmu / potisk pro %s !"
 
 #: ../AdvancedMovieSelectionEventView.py:68
 msgid "TheTVDB search"
-msgstr ""
+msgstr "Hledat v TheTVDB-čer."
 
 #: ../AdvancedMovieSelectionEventView.py:69
 msgid "TMDb search"
-msgstr ""
+msgstr "Hledat v TMDb-zel."
 
 #: ../AdvancedMovieSelectionEventView.py:71
 msgid "IMDB search"
-msgstr ""
+msgstr "Hledat v CSFD-žlu."
 
 #: ../AdvancedMovieSelectionEventView.py:76
 msgid "OFDb search"
-msgstr ""
+msgstr "Hledat v OFDb"
 
 #: ../AdvancedMovieSelectionEventView.py:100
 msgid "Unknown service"
-msgstr ""
+msgstr "Neznámý kanál"
 
 #: ../AdvancedMovieSelectionEventView.py:110
 #, python-format
 msgid "Infos for: %s"
-msgstr ""
+msgstr "Info pro :  %s"
 
 #: ../AdvancedMovieSelectionEventView.py:112
 #, python-format
 msgid "Movie location: %s"
-msgstr ""
+msgstr "Složka videa :  %s"
 
 #: ../Source/Config.py:30
 #: ../Source/Config.py:31
 #: ../Source/Config.py:32
 msgid "Ask user"
-msgstr ""
+msgstr "Dotaz uživatele"
 
 #: ../Source/Config.py:30
 msgid "Resume from last position"
-msgstr ""
+msgstr "Pokračovat od poslední pozice "
 
 #: ../Source/Config.py:30
 msgid "Start from the beginning"
-msgstr ""
+msgstr "Spustit od začátku"
 
 #: ../Source/Config.py:31
 #: ../Source/Config.py:32
 msgid "Return to movie list"
-msgstr ""
+msgstr "Zpět do seznamu"
 
 #: ../Source/Config.py:31
 #: ../Source/Config.py:32
 msgid "Return to previous service"
-msgstr ""
+msgstr "Zpět na poslední TV kanál"
 
 #: ../Source/Config.py:32
 msgid "Pause movie at end"
-msgstr ""
+msgstr "Po ukončení videa pauza"
 
 #: ../Source/Config.py:32
 msgid "Shutdown"
-msgstr ""
+msgstr "Vypnout sat.přijímač"
 
 #: ../Source/Config.py:36
 msgid "Only current location"
-msgstr ""
+msgstr "Pouze aktuální umístění"
 
 #: ../Source/Config.py:36
 msgid "Current location and all subdirectories"
-msgstr ""
+msgstr "Aktuální umístění a všechny podsložky"
 
 #: ../Source/Config.py:36
 msgid "All directorys below '/media'"
-msgstr ""
+msgstr "Všechny složky pod '/media'"
 
 #: ../Source/Config.py:52
 msgid "German (without Year)"
-msgstr ""
+msgstr "německy (bez roku)"
 
 #: ../Source/Config.py:52
 msgid "German (with Year)"
-msgstr ""
+msgstr "německy (s rokem)"
 
 #: ../Source/Config.py:52
 msgid "German (with Starttime)"
-msgstr ""
+msgstr "německy (se start.časem)"
 
 #: ../Source/Config.py:52
 msgid "Enigma 2 default"
-msgstr ""
+msgstr "Enigma2 - předvolby"
 
 #: ../Source/Config.py:52
 msgid "English (without Year)"
-msgstr ""
+msgstr "anglicky (bez roku)"
 
 #: ../Source/Config.py:52
 msgid "English (with Year)"
-msgstr ""
+msgstr "anglicky (s rokem)"
 
 #: ../Source/Config.py:52
 msgid "English (with Starttime)"
-msgstr ""
+msgstr "anglicky (se start.časem)"
 
 #: ../Source/Config.py:53
 #: ../Source/Config.py:54
 #: ../Source/Config.py:55
 #: ../Source/Config.py:56
 msgid "Yellow"
-msgstr ""
+msgstr "žluté"
 
 #: ../Source/Config.py:53
 #: ../Source/Config.py:54
 #: ../Source/Config.py:55
 #: ../Source/Config.py:56
 msgid "Blue"
-msgstr ""
+msgstr "modré"
 
 #: ../Source/Config.py:53
 #: ../Source/Config.py:54
 #: ../Source/Config.py:55
 #: ../Source/Config.py:56
 msgid "Red"
-msgstr ""
+msgstr "červené"
 
 #: ../Source/Config.py:53
 #: ../Source/Config.py:54
 #: ../Source/Config.py:55
 #: ../Source/Config.py:56
 msgid "Black"
-msgstr ""
+msgstr "černá"
 
 #: ../Source/Config.py:53
 #: ../Source/Config.py:54
 #: ../Source/Config.py:55
 #: ../Source/Config.py:56
 msgid "Green"
-msgstr ""
+msgstr "zelené"
 
 #: ../Source/Config.py:56
 msgid "Grey"
-msgstr ""
+msgstr "šedá"
 
 #: ../Source/Config.py:56
 msgid "Orange"
-msgstr ""
+msgstr "oranžová"
 
 #: ../Source/Config.py:87
 msgid "Homebutton"
-msgstr ""
+msgstr "Tlačítko Home"
 
 #: ../Source/Config.py:88
 msgid "Own text 1"
-msgstr ""
+msgstr "uživatelský text 1"
 
 #: ../Source/Config.py:89
 msgid "Own text 2"
-msgstr ""
+msgstr "uživatelský text 2"
 
 #: ../Source/Config.py:90
 msgid "Own text 3"
-msgstr ""
+msgstr "uživatelský text 3"
 
 #: ../Source/Config.py:91
 msgid "Own text 4"
-msgstr ""
+msgstr "uživatelský text 4"
 
 #: ../Source/Config.py:92
 msgid "Own text 5"
-msgstr ""
+msgstr "uživatelský text 5"
 
 #: ../Source/Config.py:93
 msgid "Own text 6"
-msgstr ""
+msgstr "uživatelský text 6"
 
 #: ../Source/Config.py:94
 msgid "Own text 7"
-msgstr ""
+msgstr "uživatelský text 7"
 
 #: ../Source/Config.py:95
 msgid "No override"
-msgstr ""
+msgstr "Není přiděleno"
 
 #: ../Source/Config.py:96
 msgid "Video-button"
-msgstr ""
+msgstr "tlačítko Video"
 
 #: ../Source/Config.py:97
 msgid "TV-button"
-msgstr ""
+msgstr "tlačítko TV"
 
 #: ../Source/Config.py:98
 msgid "Radio-button"
-msgstr ""
+msgstr "tlačítko Radio"
 
 #: ../Source/Config.py:99
 msgid "Timeshift-button"
-msgstr ""
+msgstr "tlačítko Timeshift"
 
 #: ../Source/Config.py:104
 #: ../Source/Config.py:105
@@ -3372,127 +3378,127 @@ msgstr ""
 #: ../Source/Config.py:109
 #: ../Source/Config.py:110
 msgid "Advanced Movie Selection info"
-msgstr ""
+msgstr "Advanced Movie Selection - info"
 
 #: ../Source/Config.py:104
 #: ../Source/Config.py:107
 #: ../Source/Config.py:108
 #: ../Source/Config.py:109
 msgid "TMDb info"
-msgstr ""
+msgstr "TMDb info"
 
 #: ../Source/Config.py:104
 #: ../Source/Config.py:105
 #: ../Source/Config.py:108
 #: ../Source/Config.py:110
 msgid "IMDb info"
-msgstr ""
+msgstr "IMDb info"
 
 #: ../Source/Config.py:104
 #: ../Source/Config.py:106
 #: ../Source/Config.py:109
 #: ../Source/Config.py:110
 msgid "OFDb info"
-msgstr ""
+msgstr "OFDb info"
 
 #: ../Source/Config.py:129
 msgid "Thumb (92x138)"
-msgstr ""
+msgstr "Mini-obrázek (92x138)"
 
 #: ../Source/Config.py:130
 msgid "Cover (185x278)"
-msgstr ""
+msgstr "Potisk (185x278)"
 
 #: ../Source/Config.py:131
 msgid "Mid (500x750)"
-msgstr ""
+msgstr "Střední (500x750)"
 
 #: ../Source/Config.py:132
 msgid "Original (1400x2100)"
-msgstr ""
+msgstr "Originál (1400x2100)"
 
 #: ../Source/Config.py:152
 msgid "Disabled"
-msgstr ""
+msgstr "Deaktivovat "
 
 #: ../Source/Config.py:152
 msgid "Daily"
-msgstr ""
+msgstr "denně"
 
 #: ../Source/Config.py:152
 msgid "Every second day"
-msgstr ""
+msgstr "Každý druhý den"
 
 #: ../Source/Config.py:152
 msgid "Weekly"
-msgstr ""
+msgstr "týdně"
 
 #: ../Source/Config.py:152
 msgid "Every two weeks"
-msgstr ""
+msgstr "Každé dva týdny"
 
 #: ../Source/Config.py:152
 msgid "Monthly"
-msgstr ""
+msgstr "měsíčně"
 
 #: ../Source/Config.py:170
 #: ../Source/Config.py:172
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../Source/Config.py:170
 #: ../Source/Config.py:172
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../Source/Config.py:170
 #: ../Source/Config.py:172
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../Source/Config.py:170
 #: ../Source/Config.py:172
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../Source/Config.py:182
 msgid "Virtual and Numerical"
-msgstr ""
+msgstr "virtuální a numerická"
 
 #: ../Source/Config.py:182
 msgid "Virtual"
-msgstr ""
+msgstr "virtuální "
 
 #: ../Source/Config.py:182
 msgid "Numerical"
-msgstr ""
+msgstr "numerická"
 
 #: ../Source/ServiceDescriptor.py:216
 #: ../Source/ServiceDescriptor.py:232
 msgid "Directories"
-msgstr ""
+msgstr "Složky"
 
 #: ../Source/ServiceDescriptor.py:218
 #: ../Source/ServiceDescriptor.py:234
 msgid "Movies"
-msgstr ""
+msgstr "Videa"
 
 #: ../Source/ServiceDescriptor.py:222
 msgid "Last update:"
-msgstr ""
+msgstr "Poslední aktualizace : "
 
 #: ../Source/ServiceDescriptor.py:245
 msgid "Total:"
-msgstr ""
+msgstr "Celkem : "
 
 #: ../Source/ServiceDescriptor.py:246
 msgid "Used:"
-msgstr ""
+msgstr "Použito : "
 
 #: ../Source/ServiceDescriptor.py:247
 msgid "Free:"
-msgstr ""
+msgstr "Volné : "
 
 #: ../Source/ServiceDescriptor.py:250
 msgid "Symlink:"
-msgstr ""
+msgstr "Symlink : "
