@@ -19,7 +19,7 @@ msgid ""
 "%d conflict(s) encountered when trying to add new timers:\n"
 "%s"
 msgstr ""
-%d konflikt při pokusu přidat nový časovač :
+"%d konflikt při pokusu přidat nový časovač :
 "%s"
 
 #, python-format
@@ -210,7 +210,7 @@ msgstr "Popis"
 #, python-format
 msgid "Do you really want to delete %s?"
 msgstr "Zastavit a odstranit ze seznamu časovačů :\n"
- " %s ?"
+" %s ?"
 
 msgid "EPG encoding"
 msgstr "Kódování seznamu programů"
