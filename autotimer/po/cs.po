@@ -1056,45 +1056,45 @@ msgid ""
 "\n"
 "You can go back a step by pressing EXIT on your remote."
 msgstr ""
-"Úspěšně jste nakonfigurovali nový AutoČasovač. Chcete ho přidat do seznamu?\n"
-" \n"
-"Stisknutím EXIT na DO se můžete vrátit o krok zpět."
+"Nový aut.časovač byl úspěšně nakonfigurovaný. Chcete ho přidat do seznamu ?\n"
+"\n"
+"Tlačítkem \"EXIT\" se můžete vrátit zpět."
 
 #
 msgid ""
 "Your 'Match in title' Attribute ends with a Whitespace.\n"
 "Please confirm if this was intentional, if not they will be removed."
 msgstr ""
-"Váš výraz 'Hledat v názvu' končí mezerou.\n"
-"Podvrďte, zda to byl záměr, jinak bude mezera odstraněna."
+"Attribut pro příkaz \"Hledat v titulku\" končí mezerou.\n"
+"Potvrďte, zda je to úmysl. Pokud ne, bude mezera odstraněna."
 
 #, python-format
 msgid ""
 "Your config file is not well-formed:\n"
 "%s"
 msgstr ""
-"Váš konfigurační soubor nemá správný formát:\n"
-"%s"
+"Konfigurační soubor je vadný :\n "
+" %s"
 
 #. TRANSLATORS: AutoTimer title in MovieList (automatically opens importer, I consider this no further interaction)
 msgid "add AutoTimer"
-msgstr "Přidat AutoČasovač"
+msgstr "Přidat časovač"
 
 #. TRANSLATORS: AutoTimer title in EventInfo dialog (requires the user to select an event to base the AutoTimer on)
 msgid "add AutoTimer..."
-msgstr "Přidat AutoČasovač..."
+msgstr "Přidat časovač..."
 
 msgid "add filters"
 msgstr "Nový filtr"
 
 msgid "add services"
-msgstr "+ stanici"
+msgstr "Nový kanál"
 
 msgid "auto"
 msgstr "automaticky"
 
 msgid "autotimers need a match attribute"
-msgstr "AutoČasovače vyžadují zadat atribut"
+msgstr "AutoTimer potřebuje text pro hledání"
 
 msgid "case-insensitive search"
 msgstr "nerozlišovat malá/velká písmena"
@@ -1103,37 +1103,37 @@ msgid "case-sensitive search"
 msgstr "rozlišovat malá/velká písmena"
 
 msgid "config changed."
-msgstr "config byl změněn"
+msgstr "Konfigurace byla změněna"
 
 msgid "delete"
-msgstr "smazat"
+msgstr "Odstranit"
 
 msgid "description match"
-msgstr "shodný popis"
+msgstr "shoda popisu"
 
 msgid "disable"
-msgstr "vypnout"
+msgstr "deaktivovat"
 
 msgid "do nothing"
-msgstr "nic"
+msgstr "nedělat nic"
 
 msgid "edit filters"
-msgstr "upravit filty"
+msgstr "Upravit filtr"
 
 msgid "edit services"
-msgstr "upravit stanici"
+msgstr "Upravit kanál"
 
 msgid "enable"
-msgstr "povolit"
+msgstr "aktivovat"
 
 msgid "exact match"
-msgstr "přesná shoda"
+msgstr "přesná shoda titulku"
 
 msgid "go to deep standby"
-msgstr "vypnout"
+msgstr "hluboký spánek - vypnout"
 
 msgid "go to standby"
-msgstr "do Standby"
+msgstr "uspat"
 
 msgid "in Description"
 msgstr "v popisu"
@@ -1142,54 +1142,54 @@ msgid "in Shortdescription"
 msgstr "v krátkém popisu"
 
 msgid "in Title"
-msgstr "v názvu"
+msgstr "v titulku"
 
 msgid "mins"
-msgstr "min"
+msgstr "min."
 
 msgid "missing parameter \"id\""
-msgstr "ztracaný parametr: \"Id\""
+msgstr "Chybí parametr : \"Id\""
 
 msgid "on Weekday"
-msgstr "den v týdnu"
+msgstr "ve všední den"
 
 msgid "partial match"
-msgstr "dílčí shoda"
+msgstr "částečná shoda"
 
 msgid "record"
-msgstr "záznam"
+msgstr "náhrávání"
 
 msgid "standard"
 msgstr "standardní"
 
 msgid "title starts with"
-msgstr ""
+msgstr "titulek začíná s "
 
 #, python-format
 msgid "unable to find timer with id %i"
-msgstr "nelze nalézt časovač s id %i"
+msgstr "Nelze najít časovač podle ID %i "
 
 msgid "zap"
-msgstr "přepnout"
+msgstr "spouštění"
 
 #~ msgid "Ammount of recordings left"
 #~ msgstr "Počet zbývajících záznamů"
 
 #~ msgid "AutoTimer overview"
-#~ msgstr "Přehled AutoČasovačů"
+#~ msgstr "Přehled aut.časovačů"
 
 #~ msgid "Begin of 'after event' timespan"
-#~ msgstr "Začátek časového úseku 'po skončení'"
+#~ msgstr "Začátek časového intervalu po události"
 
 #
 #~ msgid "Close"
 #~ msgstr "Zavřít"
 
 #~ msgid "End of 'after event' timespan"
-#~ msgstr "Konec časového úseku 'po skončení'"
+#~ msgstr "Konec časového intervalu po události"
 
 #~ msgid "Execute 'after event' during timespan"
-#~ msgstr "Provést 'po události' v časovém úseku"
+#~ msgstr "Spustit "po události" v časovém úseku"
 
 #~ msgid ""
 #~ "Found a total of %d matching Events.\n"
