@@ -547,7 +547,12 @@ msgid ""
 "plugin only adds timers when leaving the configuration, not automatically. "
 "What can I do?/nA: From the Overview press MENU and enter the 'Setup'. In "
 "this screen enable 'Poll automatically' and you should be good to go."
-msgstr ""
+msgstr "Dotaz : našel jsem problém v modulu AutoTimer, můžete ho opravit ?\n "
+"Odpověď : zkuste nejprve poslední verzi modulu, jestli zde problém přetrvává. "
+"Projděte nápovědu a fórum. Pokud se chyba stále projevuje, přejděte na stránky : "
+"http://www.dream-multimedia-tv.de/boar a odešlete popsaný problém.\n"
+"Dotaz : modul přidává časovače pouze při ukončení konfigurace, ale ne automaticky.\n "
+"Odpověď : v přehledu stiskněte tl.Menu a vstupte do Nastavení a nastavte automaticky. "
 
 msgid ""
 "Question: My AutoTimer for 'News' does not record the 'Late News'./nAnswer: "
@@ -559,6 +564,14 @@ msgid ""
 "spans (part of) both events./nA: From the Overview press MENU and enter the "
 "'Setup'. In this screen disable 'Guess existing timer based on begin/end'."
 msgstr ""
+"Dotaz : AutoTimer nezesnamenává poslední zprávy ! \n "
+"Odpověď : Zkontrolujte typ vyhledávání zpřesnění hledání.\n "
+"Dotaz : zobrazený název záznamu obsahuje chybné diakritiku a s tím to nefunguje.\n "
+"Odpověď : zkontrolujte kódování pro AutoTimer. Standardně je nastavené pro něnecký jazyk "
+"'ISO8859-15'.\n"
+"Dotaz : nemůžu nahrát dva programy za sebou ! Zadá se pouze jeden časový rozsah.\n"
+"Odpověď : v přehledu stiskněte tl.Menu a vstupte do Nastavení a vypněte volbu časovače "
+"založenou na začátku a konci čas.úseku."
 
 msgid ""
 "Question: You keep talking about help being provided for each parameter. I'm "
@@ -567,39 +580,42 @@ msgid ""
 "work your image might not provide the actual default skin so contact the "
 "creator of your image."
 msgstr ""
+"Dotaz : není vidět nápověda u některých parametrů. \n "
+"Odpověď : zkuste ověřit zobrazení ve standardním skinu. "
+"Pokud se problém opravil, kontaktujte autora chybného skinu."
 
 msgid "Really close without saving settings?"
-msgstr "Opravdu zavřít bez uložení změn?"
+msgstr "Opravdu zavřít bez uložení změn ?"
 
 msgid "Record a maximum of x times"
 msgstr "Nahrát maximálně x krát"
 
 msgid "Record on"
-msgstr "Záznam na"
+msgstr "Nahrát na "
 
 msgid "Remove selected AutoTimer"
-msgstr "Odebrat vybraný AutoČasovač"
+msgstr "Odebrat označený aut.časovač"
 
 msgid "Require description to be unique"
-msgstr "Vyžadovat unikátní popis"
+msgstr "Požadovaný popis musí být jedinečný"
 
 msgid "Reset count"
-msgstr "Reset počitadla"
+msgstr "Reset počtu"
 
 msgid "Restrict \"after event\" to a certain timespan?"
-msgstr "Omezit \"po skončení\" na určitý časový úsek?"
+msgstr "Omezení \"po události\" pro konkrétní časový úsek ?"
 
 msgid "Restrict to events on certain dates"
 msgstr "Omezit události na určité datum"
 
 msgid "Saturday"
-msgstr "Sobota"
+msgstr "sobota"
 
 msgid "Save"
 msgstr "Uložit"
 
 msgid "Search strictness"
-msgstr "Přesnost hledání"
+msgstr "Hledat přesnou shodu"
 
 msgid "Search type"
 msgstr "Typ hledání"
@@ -610,86 +626,88 @@ msgid ""
 "or \"description match\" if you only want to search for a part of the event "
 "description"
 msgstr ""
+"Vyberte \"přesnou shodu\" pro \"hledat v titulku\" nebo  \"část titulku\" "
+"nebo také podle \"popisu\" "
 
 msgid "Select a timer to import"
-msgstr "Vyberte časovač pro import"
+msgstr "Vybrat časovač pro import"
 
 msgid "Select bouquet to record on"
-msgstr "Zvolte přehled pro nahrávání"
+msgstr "Výběr seznamu kanálů pro záznam "
 
 msgid "Select channel to record on"
-msgstr "Zvolte kanál pro nahrávání"
+msgstr "Výběr kanálu pro záznam"
 
 msgid "Select the location to save the recording to."
-msgstr "Nastavení umístění pro ukládání nahrávek."
+msgstr "Volba umístění pro záznam."
 
 msgid "Select type of Filter"
-msgstr "Vyberte typ filtru"
+msgstr "Typ filtru"
 
 msgid "Select whether or not you want to enforce case correctness."
 msgstr ""
-"Vyberte, zda chcete nebo nechcete použít rozlišování velkých a malých písmen."
+"Volba velkých nebo malých znaků pro \"hledání v titulku\" ."
 
 msgid "Set End Time"
-msgstr ""
+msgstr "Nastavit konec čas.úseku"
 
 msgid ""
 "Set an end time for the timer. If you do, the timespan of the event might be "
 "blocked for recordings."
 msgstr ""
+"Nastavení konce záznamu časovače. Pokud to provedete, bude to platit i pro další záznamy v tomto rozsahu."
 
 msgid "Set maximum duration"
-msgstr "Nastavit maximální délku trvání"
+msgstr "Nastavit maximální délku "
 
 msgid "Set this NO to disable this AutoTimer."
-msgstr "Nastavte na NE k deaktivaci Auto Časovače."
+msgstr "Ne -> deaktivovat AutoTimer..."
 
 msgid "Setup"
-msgstr "Nastavit"
+msgstr "Nastavení"
 
 msgid "Should this AutoTimer be restricted to a timespan?"
-msgstr "Měl by být tento AutoTimer omezen časovým úsekem?"
+msgstr "Má být tento AutoTimer omezený na určité období ?"
 
 msgid "Should this AutoTimer only match up to a certain event duration?"
-msgstr "Měl by AutoČasovač odpovídat trvání určité události?"
+msgstr "Má být tento AutoTimer nastavený pouze na určené období ?"
 
 msgid ""
 "Should timers created by this AutoTimer be recorded to a custom location?"
 msgstr ""
-"Měly by být časovače vytvořené AutoČasovačem zaznamenávány do vlastního "
-"umístění?"
+"Má být časovač přes AutoTimer zapsaný do uživatelského umístění ? "
 
 msgid "Show in extension menu"
-msgstr "Zobrazit pod Modrým tlačítkem"
+msgstr "Zobrazit v rozšířeném menu"
 
 #
 msgid "Show in plugin browser"
-msgstr "Zobrazit v Prohlížeči pluginů"
+msgstr "Zobrazit v seznamu modulů"
 
 msgid "Show notification on conflicts"
-msgstr "Zobrazovat oznámení při konfliktech"
+msgstr "Zobrazit hlášení o konfliktech"
 
 #
 msgid "Show notification on similars"
-msgstr "Zobrazovat oznámení při podobných"
+msgstr "Zobrazit hlášení o alternativních časovačích"
 
 msgid "Sort AutoTimer"
-msgstr "Třídit AutoČasovače"
+msgstr "Seřadit aut.časovače"
 
 msgid "Sort Time"
-msgstr "Dle času"
+msgstr "Seřadit podle času"
 
 msgid "Sunday"
-msgstr "Neděle"
+msgstr "neděle"
 
 msgid "Support \"Fast Scan\"?"
-msgstr "Podporovat Fast Scan ?"
+msgstr "Podporovat \"Fast Scan\" ?"
 
 msgid "Tags"
-msgstr "Tagy"
+msgstr "Značky"
 
 msgid "Tags the Timer/Recording will have."
-msgstr "Tagy, které bude mít časovač/záznam."
+msgstr "Používat značky časovače / záznamu"
 
 #
 msgid ""
@@ -697,11 +715,11 @@ msgid ""
 "List.\n"
 "Please press OK to continue."
 msgstr ""
-"Děkujeme Vám za použití průvodce. Nový AutoČasovač byl přidán do seznamu. "
-"Stiskněte OK pro pokračování."
+"Průvodce vám děkuje. Nový aut.časovač byl přidaný do seznamu.\n "
+"OK -> pokračovat..."
 
 msgid "The 'Overview'"
-msgstr ""
+msgstr "'Přehled'"
 
 msgid ""
 "The AutoTimer overview is the standard entry point to this plugin./n/nIf "
@@ -713,14 +731,20 @@ msgid ""
 "regular search interval of the plugin to search for events open the control "
 "menu and enter the plugin setup."
 msgstr ""
+"AutoTimer - přehled základních bodů..\n\n "
+"Pokud bude AutoTimer nakonfigurovaný, můžete vybrat ze seznamu položku a přes "
+"tlačítko OK ji upravit nebo přes žluté odebrat. \n "
+"Nové : časovač může být přidaný modrým  tlačítkem a otevřený přes tl.menu. \n\n "
+"Při odchodu z menu zeleným tlačítkem se bude hledat událost jedenkrát. "
+"Pravidelnou kontrolu nastavíte přes menu. "
 
 #
 msgid ""
 "The Timer will not be added to the List.\n"
 "Please press OK to close this Wizard."
 msgstr ""
-"Časovač nebude přidán do seznamu.\n"
-"Stiskněte OK pro ukončení tohoto průvodce."
+"Časovač nebude přidaný do seznamu."
+"OK -> ukončit průvodce..."
 
 #
 msgid ""
@@ -728,9 +752,8 @@ msgid ""
 "timespan is specified an event will only match this AutoTimer if it lies "
 "inside of this timespan."
 msgstr ""
-"Časový úsek Autotimeru je první 'pokročilý' parametr.Jestliže je časový úsek "
-"specifikován, pak událost vyhoví AutoČasovače pouze tehdy,leží-li v tomto "
-"úseku."
+"Atribut pro časový úsek je \"pokročilý\" atribut. "
+"Bude hledat shodu pouze uvnitř tohoto časového úseku."
 
 msgid ""
 "The control menu hides less frequently used options of the plugin, including "
