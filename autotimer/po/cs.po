@@ -972,50 +972,48 @@ msgid ""
 "When this is enabled AutoTimer will ONLY check for new events whilst in "
 "stanadby."
 msgstr ""
-"Jestliže je toto povoleno, AutoČasovač vyhledá JEN nové události během "
-"Stanby."
+"Pokud bude volba aktivní, AutoTimer vyhledá pouze nové události v režimu "
+"spánku."
 
 msgid ""
 "When this option is enabled the AutoTimer won't match events where another "
 "timer with the same description already exists in the timer list."
 msgstr ""
-"Jestliže je tato volba povolena, AutoTimer nebude porovnávat události, "
-"jestliže již existuje v seznamu časovače jiný časovač se stejným popisem."
+"Pokud bude volba aktivní, nebude AutoTimer kontrolovat shodu v případě, "
+"že další časovač se stejným popisem již existuje v seznamu. "
 
 msgid ""
 "With this option enabled the channel to record on can be changed to a "
 "alternative service it is restricted to."
 msgstr ""
-"Pomocí této volby může být kanál pro záznam změněn na alternativní program."
+"Je-li volba aktivní, kanál pro záznam může být změněný na alternativní."
 
 #
 msgid ""
 "With this option you can restrict the AutoTimer to a certain amount of "
 "scheduled recordings. Set this to 0 to disable this functionality."
 msgstr ""
-"Pomocí této volby můžete omezit AutoTimer určitý počet nahrávek. Nastavte 0 "
-"pro vypnutí této funkce. "
+"Touto volbou můžete  AutoTimer omezit na určitý počet záznamů. Nastavení na "0" funkci zablokuje. "
 
 msgid "Wizard"
 msgstr "Průvodce"
 
 msgid "Wizard or Classic Editor?"
-msgstr ""
+msgstr "Průvodce nebo klasický editor ?"
 
 #
 msgid "Yes"
-msgstr "Ano"
+msgstr "ano"
 
 #
 msgid "Yes, keep them."
-msgstr "Ano,zachovat ho."
+msgstr "Ano a ponechat"
 
 msgid ""
 "You can control for how many days in the future timers are added. Set this "
 "to 0 to disable this feature."
 msgstr ""
-"Můžete nastavit, po kolik dnů v budoucnu jsou časovače přidávány. Nastavení "
-"0 zakáže tuto vlastnost."
+"Můžete nastavit, na kolik dnů dopředu mohou být časovače přidány. Nastavení na "0" tuto funkci vyřadí."
 
 #
 msgid ""
@@ -1023,9 +1021,8 @@ msgid ""
 "While 'Name' is just a human-readable name displayed in the Overview, 'Match "
 "in title' is what is looked for in the EPG."
 msgstr ""
-"Zde můžete nastavit základní vlastnosti pro AutoČasovač.\n"
-" Zatímco 'Popis' představuje jméno zobrazované v Přehledu, 'Hledat v názvu' "
-"je výraz, který se vyhledává v EPG."
+"Zde můžete nastavit základní vlastnosti pro AutoTimer. Atribut "Name" \n"
+"je jen část popisu u příkazu \"Hledat v titulku\"  "
 
 #
 msgid ""
@@ -1033,23 +1030,24 @@ msgid ""
 "AutoTimer.\n"
 "As this is a mandatory Attribute you cannot continue without doing so."
 msgstr ""
-"Nezadali jste platný výraz 'Hledat v názvu' pro nový AutoČasovač. Bez zadání "
-"tohoto parametru nemůžete dál pokračovat."
+"Nemáte vyplněný atribut pro příkaz \"Hledat v titulku\".\n "
+"Je to povinný atribut, nelze bez něho pokračovat."
 
 #, python-format
 msgid ""
 "You entered \"%s\" as Text to match.\n"
 "Do you want to remove trailing whitespaces?"
 msgstr ""
-"Vložený \"%s\" jako Text ke shodě.\n"
-"Mohu odebrat mezery na konci?"
+"Zadaný text \"%s\" pro shodu. \n"
+"Chcete odebrat prázdné mezery ?"
 
 msgid ""
 "You now know almost everything there is to know about the AutoTimer-Plugin./"
 "n/nAs a final hint I can't stress how important it is to take a look at the "
 "help texts that are shown in the setup dialogs as they cover the most "
 "frequently asked questions. Surprisingly even after the hints were added ;-)."
-msgstr ""
+msgstr "Nyní víte dost o modulu AutoTimer. \n\n "
+"Nakonec je vhodné upozornit na pomocnou nápovědu u jednotlivých položek. "
 
 #
 msgid ""
