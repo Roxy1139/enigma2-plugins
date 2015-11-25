@@ -23,213 +23,213 @@ msgid "%s..."
 msgstr "%s..."
 
 msgid "1 minutes"
-msgstr "1 Minute"
+msgstr "1 minuta"
 
 msgid "3 minutes"
-msgstr "3 Minuten"
+msgstr "3 minut"
 
 msgid "30 seconds"
-msgstr "30 Sekunden"
+msgstr "30 sekund"
 
 msgid "Add current playing stream to favorite"
-msgstr "Laufender Sender zur Favoritenliste hinzufügen"
+msgstr "Přidat aktuální pořad do oblíbených"
 
 msgid "Add current selected genre to favorite"
-msgstr "Markiertes Genre zur Favoritenliste hinzufügen"
+msgstr "Přidat aktuální žánr do oblíbených"
 
 msgid "Add current selected station to favorite"
-msgstr "Markierte Station zur Favoritenliste hinzufügen"
+msgstr "Přidat aktuální stanici do oblíbených"
 
 msgid "Add sequence number to output file"
-msgstr "Dateien mit fortlaufender Nummerierung generieren"
+msgstr "Přidat do výstupního souboru pořadové číslo"
 
 msgid "All Countries"
-msgstr "Alle Länder"
+msgstr "Všechny země"
 
 msgid "All Genres"
-msgstr "Alle Genre"
+msgstr "všechny žánry"
 
 msgid "Blank"
-msgstr "Leer"
+msgstr "prázdné"
 
 msgid "Cancel"
-msgstr "Abbruch"
+msgstr "Storno"
 
 msgid "Close"
-msgstr "Schließen"
+msgstr "Zavřít"
 
 msgid "Config"
-msgstr "Konfiguration"
+msgstr "Nastavení ..."
 
 msgid "Countries"
-msgstr "Länder"
+msgstr "Země"
 
 msgid "Create a directory for each stream"
-msgstr "Verzeichnis für jeden Stream generieren"
+msgstr "Založit složku pro tento stream "
 
 msgid "Do you really want to stop the recording?"
-msgstr "Soll die Aufnahme wirklich beendet werden?"
+msgstr "Chcete zastavit nahrávání ?"
 
 msgid "Enter in minutes (0 means unlimited)"
-msgstr "Eingabe in Minuten (0 = unbegrenzt)"
+msgstr "Zadání v minutách (0 = neomezeně)"
 
 msgid "Enter new name for favorite item"
-msgstr "Neuen Namen für Favoriten eingeben"
+msgstr "Zadat nový název pro oblíbenou položku"
 
 msgid "Enter text to search for"
-msgstr "Suchtext eingeben"
+msgstr "Zadat text pro hledání"
 
 msgid "Favorite list"
-msgstr "Favoritenliste"
+msgstr "Seznam vybraných kanálů..."
 
 msgid "Favorites"
-msgstr "Favoriten"
+msgstr "Oblíbené"
 
 msgid "Filter:"
-msgstr "Filter:"
+msgstr "Filtr :"
 
 msgid "Fullscreen"
-msgstr "Vollbild"
+msgstr "Pozadí přes celou obrazovku"
 
 msgid "Fullscreen Layout"
-msgstr "Vollbild Layout"
+msgstr "Nastavení celé obrazovky"
 
 msgid "Fullscreen auto activation"
-msgstr "Automatische Vollbild-Aktivierung"
+msgstr "Aut.aktivovat pozadí na celou obrazovku za..."
 
 msgid "Genres"
-msgstr "Genre"
+msgstr "Žánr"
 
 #, python-format
 msgid "Getting %s"
-msgstr "Erhalte %s"
+msgstr "Staženo : %s"
 
 #, python-format
 msgid "Getting InternetRadio %s list..."
-msgstr "Erhalte InternetRadio %s Liste..."
+msgstr "Stahuji seznam InternetRadio : %s ..."
 
 #, python-format
 msgid ""
 "Getting streaming data from\n"
 "%s"
 msgstr ""
-"Erhalte Streaming-Data von\n"
+"Stahuji stream data z :\n"
 "%s"
 
 #, python-format
 msgid "Getting streaming data from %s"
-msgstr "Erhalte Streaming-Data von %s"
+msgstr "Stahuji stream data z :\n"
+" %s"
 
 msgid "Internet Radio"
-msgstr "Internet Radio"
+msgstr "Internetové rádio"
 
 #, python-format
 msgid "InternetRadio filter list (%s)"
-msgstr "InternetRadio Filter LIste (%s)"
+msgstr "InternetRadio - seznam filtru  (%s)"
 
 #, python-format
 msgid "InternetRadio station list for filter: %s"
-msgstr "Internetradio Stationsliste für Filter: %s"
+msgstr "Internetradio - seznam stanic pro filtr :  %s"
 
 #, python-format
 msgid "InternetRadio station list for search-criteria: %s"
-msgstr "InternetRadio Stationsliste für Suchkriterium: %s"
+msgstr "InternetRadio - seznam stanic pro kritéria hledání :  %s"
 
 msgid "Invalid Location"
-msgstr "Ungültiger Aufnahmepfad"
+msgstr "Neplatné místo"
 
 msgid "No streaming data found..."
-msgstr "Keine Streaming-Daten gefunden..."
+msgstr "Žádná data streamingu nejsou dostupná..."
 
 msgid "OK"
 msgstr "OK"
 
 msgid "OLED only"
-msgstr "Nur LCD"
+msgstr "na LCD (bez obrazovky)"
 
 msgid "Off"
-msgstr "Aus"
+msgstr "vypnutý"
 
 msgid "On"
-msgstr "An"
+msgstr "Do "
 
 msgid "Only running streamings can be recorded!"
 msgstr ""
-"Zur Zeit wird kein Radiosender abgespielt.\n"
-"Aufnahme wird nicht gestartet."
+"Nahrávat lze pouze běžící stanici !"
 
 msgid "Record"
-msgstr "Aufnahme"
+msgstr "Záznam"
 
 msgid "Recording length"
-msgstr "Aufnahme-Länge"
+msgstr "Délka záznamu"
 
 msgid "Recording location:"
-msgstr "Aufnahmepfad"
+msgstr "Umístění záznamu : "
 
 msgid "Recording stream station"
-msgstr "Aktuell laufende Aufnahme-Station"
+msgstr "Nahrát aktuálně spuštěnou stanici"
 
 msgid "Rip to single file, name is timestamped"
-msgstr "In eine einzelne Datei speichern"
+msgstr "Stáhnout do jednoho souboru, název bude časová značka"
 
 msgid "Screen and OLED"
-msgstr "Bildschirm und LCD"
+msgstr "na obrazovku a LCD"
 
 msgid "Screen only"
-msgstr "Nur Bildschirm"
+msgstr "na obrazovku (bez LCD)"
 
 msgid "Search"
-msgstr "Suche"
+msgstr "Hledat"
 
 #, python-format
 msgid "Searching InternetRadio for %s..."
-msgstr "Durchsuche InternetRadio nach %s..."
+msgstr "Hledat InternetRadio podle :  %s..."
 
 msgid "Show TV"
-msgstr "TV-Bild anzeigen"
+msgstr "Zobrazit dočasně TV"
 
 msgid "Show cover arts"
-msgstr "Covers anzeigen"
+msgstr "Zobrazit potisk"
 
 msgid "Show in extension menu:"
-msgstr "Im Erweiterungmenü anzeigen"
+msgstr "Zobrazit v rozšířeném menu : "
 
 msgid "Stations"
-msgstr "Stationen"
+msgstr "Stanice"
 
 msgid "Stop record"
-msgstr "Beende Aufnahme"
+msgstr "Zastavit nahrávání"
 
 msgid "Streaming Information"
-msgstr "Streaming Information"
+msgstr "Streaming - info"
 
 msgid "Text only"
-msgstr "Nur Text"
+msgstr "pouze text"
 
 msgid "Title: n/a"
-msgstr "Titel: n/a"
+msgstr "Titulek : n/a"
 
 msgid "Visualization"
-msgstr "Visualisierung"
+msgstr "Obraz pozadí"
 
 msgid "Visualization and Text"
-msgstr "Visualisierung und Text"
+msgstr "obraz a text"
 
 msgid "do not play a service on startup"
-msgstr "Keine Station beim Starten abspielen"
+msgstr "Nespouště stanici při startu"
 
 msgid "listen to internet-radio"
-msgstr "Internetradio hören"
+msgstr "-- internetová rádia ze světa"
 
 msgid "nothing playing..."
-msgstr "Es wird nichts abgespielt..."
+msgstr "nelze přehrát..."
 
 msgid "play current selected favorite on startup"
-msgstr "Aktuelle Markierung beim Starten abspielen"
+msgstr "Spustit aktuálně vybranou stanici při startu"
 
 msgid "remove current selected favorite"
-msgstr "Löschen"
+msgstr "Odstranit"
 
 msgid "rename current selected favorite"
-msgstr "Umbenennen"
+msgstr "Přejmenovat"
