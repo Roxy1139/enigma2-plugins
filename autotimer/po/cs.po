@@ -3,23 +3,23 @@ msgstr ""
 "Project-Id-Version: Enigma2 AutoTimer Plugin\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-27 21:28+0100\n"
-"PO-Revision-Date: 2012-05-16 10:42+0100\n"
-"Last-Translator: jerry <jerry00@quick.cz>\n"
-"Language-Team: jerry\n"
-"Language: \n"
+"PO-Revision-Date: 2015-11-24 12:49+0100\n"
+"Last-Translator: Roxy <vro@wo.cz>\n"
+"Language-Team: Roxy1139 <vro@wo.cz>\n"
+"Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: D:\\Dreambox\\Plugins\\enigma2-plugins\\autotimer"
-"\\src\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #, python-format
 msgid ""
 "%d conflict(s) encountered when trying to add new timers:\n"
 "%s"
 msgstr ""
-"%d konflikt(ů) nalezeno při přidání nového časovače:\n"
+%d konflikt při pokusu přidat nový časovač :
 "%s"
 
 #, python-format
@@ -27,6 +27,8 @@ msgid ""
 "%d conflict(s) solved with similar timer(s):\n"
 "%s"
 msgstr ""
+"%d konflikt byl vyřešený alternativním časovačem :\n"
+"%s"
 
 msgid "%d.%B %Y"
 msgstr "%d.%B %Y"
@@ -37,90 +39,89 @@ msgstr "%s: %s v %s"
 
 #
 msgid "Abort this Wizard."
-msgstr "Ukončit průvodce."
+msgstr "Přerušit průvodce"
 
 msgid "Activate VPS"
-msgstr ""
+msgstr "VPS aktivace"
 
 msgid "Add"
-msgstr "Přidat"
+msgstr "Nový časovač"
 
 msgid "Add new AutoTimer"
-msgstr "Přidat vybraný AutoČasovač"
+msgstr "Přidat nový aut.časovač"
 
 #
 msgid "Add similar timer on conflict"
-msgstr "Přidat podobný časovač při konfliktu"
+msgstr "Při konfliktu byl použitý alternativní časovač"
 
 msgid "Add timer as disabled on conflict"
-msgstr "Přidat časovač při konfliktu jako zakázaný"
+msgstr "Odstranit konflikt přidaného časovače"
 
 msgid "Add zap timer instead of record timer?"
-msgstr "Přidat časovač přepnutí místo časovače nahrávání?"
+msgstr "Zaměnit časovač místo zapsaného časovače ?"
 
 msgid "After event"
-msgstr "Po události"
+msgstr "Po skončení"
 
 msgid "All non-repeating timers"
-msgstr "Všechny neopakující se časovače"
+msgstr "Všechny neopakované časovače"
 
 msgid "Amount of recordings left"
-msgstr ""
+msgstr "Zbývající počet záznamů"
 
 msgid "Any service/recording"
-msgstr "Veškeré stanice/záznam"
+msgstr "V seznamu časovačů / v nahrávkách"
 
 msgid "Auto Timers"
-msgstr ""
+msgstr "Aut.časovače"
 
 msgid "AutoTimer"
-msgstr ""
+msgstr "Aut.časovač"
 
 msgid "AutoTimer Editor"
-msgstr "Editor Auto Časovače"
+msgstr "Editor aut.časovačů"
 
 msgid "AutoTimer FAQ"
-msgstr ""
+msgstr "Otázny na AutoTimer"
 
 msgid "AutoTimer Filters"
-msgstr "Filtr AutoČasovače"
+msgstr "Filtry aut.časovačů"
 
 msgid "AutoTimer Help"
-msgstr ""
+msgstr "Nápověda"
 
 msgid "AutoTimer Services"
-msgstr "AutoČasovač stanice"
+msgstr "Služby aut.časovačů"
 
 msgid "AutoTimer Settings"
-msgstr "AutoČasovač Nastavení"
+msgstr "Nastavení aut.časovačů"
 
 msgid "AutoTimer was added successfully"
-msgstr "AutoČasovač byl přidán"
+msgstr "Aut.časovač byl úspěšně přidaný"
 
 msgid "AutoTimer was changed successfully"
-msgstr "AutoČasovač byl změněn"
+msgstr "Aut.časovač byl úspěšně změněný"
 
 msgid "AutoTimer was removed"
-msgstr "AutoČasovač byl odstraněn "
+msgstr "Aut.časovač byl odstraněný"
 
 msgid "AutoTimers"
-msgstr ""
+msgstr "Aut.časovače"
 
 msgid "Begin of \"after event\" timespan"
-msgstr ""
+msgstr "Začátek časového intervalu"
 
 msgid "Begin of timespan"
 msgstr "Začátek časového úseku"
 
 msgid "Bouquets"
-msgstr "Přehledy"
+msgstr "sady kanálů"
 
 msgid ""
 "By enabling this events will not be matched if they don't occur on certain "
 "dates."
 msgstr ""
-"Povolením tohoto nebudou události odpovídat, jestliže se nevyskytují v "
-"určitých datových termínech."
+"Povolit události, pokud neopovídají a nevyskytují se v zadaných datech"
 
 #
 msgid ""
@@ -128,165 +129,164 @@ msgid ""
 "automated polling. There is no intelligence involved, so it might bother you "
 "about the same conflict over and over."
 msgstr ""
-"Zapnuto: dostanete při automatickém dotazování informace o podobných "
-"časovačích. Pracuje se bez logiky,tak může ten samý konflikt obtěžovat stále "
-"dokola"
+"Povolit hlášení z časovačů při konfliktech nalezených během aut. dohledávání. "
+"Může to ale při častém opakování působit rušivě... "
 
 msgid ""
 "By enabling this you will be notified about timer conflicts found during "
 "automated polling. There is no intelligence involved, so it might bother you "
 "about the same conflict over and over."
 msgstr ""
-"Při zapnutí budete při automatickém dotazování dostávat informáce o "
-"konfliktech časovače. Nepoužívá se zde žádná logika, takže Vás pak může ten "
-"samý konflikt obtěžovat stále dokola."
+"Tato volba bude při konfliktu hlásit chyby při aut. hledání. "
+"Tato funkce nemá žádnou inteligenci, opakuje dál stejné konflikty."
 
 msgid "Cancel"
-msgstr "Zrušit"
+msgstr "Zavřít"
 
 msgid "Change default recording offset?"
-msgstr "Změnit výchozí posun nahrávání?"
+msgstr "Změnit předvolený posun záznamu ?"
 
 msgid "Channel Selection"
-msgstr "Seznam stanic"
+msgstr "Seznam kanálů..."
 
 msgid "Channels"
-msgstr "Kanály"
+msgstr "kanály"
 
 msgid "Check for uniqueness in"
-msgstr ""
+msgstr "Kontrola jednoznačnosti v "
 
 msgid "Choose target folder"
-msgstr "Vyberte cílovou složku"
+msgstr "Zvolit cílovou složku"
 
 msgid "Classic"
-msgstr "Klasicky"
+msgstr "Klasika"
 
 msgid "Close and forget changes"
-msgstr "Zavřít beze změn"
+msgstr "Zavřít kanály a zapomenout"
 
 msgid "Close and save changes"
-msgstr "Zavřít a uložit změny"
+msgstr "Zavřít a uložit kanály"
 
 msgid "Configure AutoTimer behavior"
-msgstr "Nastavit chování AutoČasovače"
+msgstr "Konfigurace chování aut.časovačů"
 
 msgid "Congratulations"
-msgstr ""
+msgstr "Gratulace..."
 
 msgid "Control recording completely by service"
-msgstr ""
+msgstr "Ovládání záznamu kompletně přes vysílač"
 
 #
 msgid "Create a new AutoTimer."
-msgstr "Vytvořit nový AutoČasovač."
+msgstr "Založit nový časovač"
 
 msgid "Create a new timer using the classic editor"
-msgstr "Vytvořit nový časovač pomocí klasického editoru"
+msgstr "Sestavit nový aut.časovač přes klasický editor"
 
 msgid "Create a new timer using the wizard"
-msgstr "Vytvořit nový časovač pomocí průvodce"
+msgstr "Sestavit nový aut.časovač přes průvodce"
 
 #, python-format
 msgid "Custom (%s)"
-msgstr "Vlastní (%s)"
+msgstr "Uživatelský (%s)"
 
 msgid "Custom location"
-msgstr "Vlastní umístění"
+msgstr "Uživatelské umístění"
 
 msgid "Custom offset"
-msgstr "Vlastní posun"
+msgstr "Uživatelská kompenzace"
 
 msgid ""
 "Defines where to search for duplicates (only title, short description or "
 "even extended description)"
-msgstr ""
+msgstr "Definice hledání duplikací (pouze název, zkrácený popis nebo rozšířený popis)"
 
 msgid "Delete"
-msgstr "Smazat"
+msgstr "Odstranit"
 
 msgid "Description"
 msgstr "Popis"
 
 #, python-format
 msgid "Do you really want to delete %s?"
-msgstr "Opravdu chcete smazat %s?"
+msgstr "Zastavit a odstranit ze seznamu časovačů :\n"
+ " %s ?"
 
 msgid "EPG encoding"
-msgstr "Kódování EPG"
+msgstr "Kódování seznamu programů"
 
 msgid "Edit AutoTimer"
-msgstr "Upravit Auto Časovač"
+msgstr "Upravit aut.časovač"
 
 msgid "Edit AutoTimer filters"
-msgstr "Upravit filtr AutoČasovače"
+msgstr "Upravit filtry aut.časovačů"
 
 msgid "Edit AutoTimer services"
-msgstr "Upravit AutoČasovač stanice"
+msgstr "Upravit kanály aut.časovačů"
 
 #. TRANSLATORS: description of AutoTimer in PluginBrowser
 msgid "Edit Timers and scan for new Events"
-msgstr "Upravit časovače a vyhledat nové události"
+msgstr "-- časovače nahrávání a vyhledání nových událostí"
 
 msgid "Edit new timer defaults"
-msgstr "Upravit předvolby nových časovačů"
+msgstr "Upravit předvolby pro nové časovače"
 
 msgid "Edit selected AutoTimer"
-msgstr "Upravit AutoČasovač"
+msgstr "Upravit vybraný aut.časovač"
 
 msgid "Editing"
-msgstr "Editace"
+msgstr "Zpracovat..."
 
 msgid "Editor for new AutoTimers"
-msgstr "Editot nových AutoČasovačů"
+msgstr "Editor pro nový aut.časovač"
 
 msgid "Enable Filtering"
-msgstr "Zapnout filtrování"
+msgstr "Povolit filtr"
 
 msgid "Enable Service Restriction"
-msgstr "Zapnout omezení stanice"
+msgstr "Filtrování kanálů"
 
 msgid ""
 "Enable this to be able to access the AutoTimer Overview from within the "
 "extension menu."
-msgstr "Povolení umožní přidat přehled AutoČasovače  do menu Modrého tlačítka."
+msgstr "Povolit přístup k přehledu aut.časovačů z rozšířeného menu."
 
 #
 msgid ""
 "Enable this to be able to access the AutoTimer Overview from within the "
 "plugin browser."
-msgstr "Povolení umožní přidat přehled AutoČasovače do Prohlížeče pluginů."
+msgstr "Zpřístupnit AutoTimer v seznamu modulů"
 
 msgid "Enabled"
-msgstr "Povoleno"
+msgstr "Povolit"
 
 msgid ""
 "Encoding the channel uses for it's EPG data. You only need to change this if "
 "you're searching for special characters like the german umlauts."
 msgstr ""
-"Kódování, které kanál používá pro EPG data. Potřebujete nastavit zpravidla "
-"jen tehdy, hledáte-li speciální znaky, jako jsou např. přehlásky."
+"Je použito kódování kanálů pro seznam programů. "
+"Je to třeba pouze pro zvláštní znaky některých jazyků."
 
 msgid "End of \"after event\" timespan"
-msgstr ""
+msgstr "Konec časového úseku "po události" "
 
 msgid "End of timespan"
 msgstr "Konec časového úseku"
 
 msgid "Exact match"
-msgstr "Přesná shoda"
+msgstr "přesná shoda"
 
 msgid "Exclude"
-msgstr "Provést"
+msgstr "Vyloučit"
 
 msgid "Execute \"after event\" during timespan"
-msgstr ""
+msgstr "Spustit "po události" v časovém úseku"
 
 msgid "FAQ"
-msgstr ""
+msgstr "Dotazy"
 
 msgid "Filter"
-msgstr "Filtr"
+msgstr "Filtrovat..."
 
 #
 msgid ""
@@ -295,17 +295,16 @@ msgid ""
 "it's Description.\n"
 "Press BLUE to add a new restriction and YELLOW to remove the selected one."
 msgstr ""
-"Filtry jsou další silné nástroje na zjišťování odpovídajících událostí."
-"AutoČasovač lze omezit na určité dny v týdnu nebo na události, kterémají "
-"určitý text v Popisu.\n"
-"MODRÉ tlačítko přidá nové omezení,ŽLUTÉ odstraní zvolené."
+"Filtr je dalším silným nástrojem pro vyhledávání událostí."
+"AutoTimer může být omezený na určité pracovní dny nebo vyhledá text "
+"uvnitř popisu.\n"
+"Modrým tlačítkem filtr přidáte, žlutým zase odeberete."
 
 msgid ""
 "First day to match events. No event that begins before this date will be "
 "matched."
 msgstr ""
-"První den odpovídající události. Událost začínající před tímto datem "
-"nevyhoví."
+"První den odpovídající události. Událost před tímto dnem bude ignorována."
 
 #, python-format
 msgid ""
@@ -315,32 +314,37 @@ msgid ""
 "%d conflicts encountered,\n"
 "%d similars added."
 msgstr ""
+"%d odpovídajících událostí celkem\n"
+"%d přidaných časovačů\n" 
+"%d upraveno,\n"
+"%d nalezených konfliktů,\n"
+"%d přidaných alternativních časovačů"
 
 #
 msgid "Frequently asked questions"
-msgstr "Často kladené otázky"
+msgstr "Často kladené dotazy"
 
 msgid "Frequently asked questions about the AutoTimer"
-msgstr ""
+msgstr "Často kladené dotazy na AutoTimer"
 
 msgid "Friday"
-msgstr "Pátek"
+msgstr "pátek"
 
 msgid "Generic setup"
-msgstr ""
+msgstr "Obecné naszavení"
 
 msgid "Guess existing timer based on begin/end"
-msgstr "Určit existující časovač podle začátku a konce"
+msgstr "Odhad času podle začátku a konce"
 
 msgid "Help"
-msgstr ""
+msgstr "Nápověda"
 
 #
 msgid ""
 "If a timer conflict occurs, AutoTimer will search outside the timespan for a "
 "similar event and add it."
 msgstr ""
-"Pokud nastane konflikt časovače, AutoČasovač vyhledá mimo interval podobnou "
+"Pokud se vyskytne konflikt časovačů, bude automatika hledat vně čas.pásma stejnou "
 "událost a přidá ji."
 
 #, python-format
@@ -348,36 +352,36 @@ msgid ""
 "If this is enabled an existing timer will also be considered recording an "
 "event if it records at least 80%% of the it."
 msgstr ""
-"Při zapnutí této funkce se bude existující časovač považovat za nahrávající, "
-"jestliže nahraje aspoň 80%% programu."
+"Pokud je povoleno, existující časovač bude považovat za zaznamenanou událost, "
+"pokud je hotovo alespoň '80% % záznamu."
 
 msgid ""
 "If this is selected, the name of the respective AutoTimer will be added as a "
 "tag to timers created by this plugin."
-msgstr ""
+msgstr "Tato volba umožní přidat značky do časovačů do záznamu "
 
 msgid ""
 "If this is selected, the tag \"AutoTimer\" will be given to timers created "
 "by this plugin."
-msgstr ""
+msgstr "Tato volba umožní přidat značky časovače, do nových"
 
 msgid "Import AutoTimer"
-msgstr "Import AutoČasovače"
+msgstr "Import aut.časovače"
 
 msgid "Import existing Timer"
 msgstr "Import existujícího časovače"
 
 msgid "Import from EPG"
-msgstr "Import z EPG"
+msgstr "Import ze seznamu programů"
 
 msgid "Include"
-msgstr "Zahrnout"
+msgstr "včetně"
 
 msgid "Include \"AutoTimer\" in tags"
-msgstr ""
+msgstr "Včetně \"AutoTimer\" v označení"
 
 msgid "Include AutoTimer name in tags"
-msgstr ""
+msgstr "Včetně AutoTimer v označení"
 
 #
 msgid ""
@@ -387,50 +391,47 @@ msgid ""
 "Service (inside a Bouquet).\n"
 "Press BLUE to add a new restriction and YELLOW to remove the selected one."
 msgstr ""
-"AutoTimer je možné omezit na určité programy, přehledy, nebo některé "
-"zakázat.\n"
-"Událost bude odpovídat AutoČasovači jen tehdy,jde-li o konkrétní program a "
-"není-li zakázán (v rámci přehledu).\n"
-"MODRÉ tlačítko přidá nové omezení, ŽLUTÉ tlačítko odstraní zvolené."
+"Je možné omezit AutoTimer na určité kanály, sady kanálů nebo některé zakázat.\n"
+"Události budou pouze porovnávané, pokud se jedná o vybrané a nezakázané kanály (sady).\n"
+"Přes modré tlačítko přidáte omezení a přes žluté odeberete."
 
 msgid ""
 "Label Timers with season, episode and title, according to the SeriesPlugin "
 "settings."
-msgstr ""
+msgstr "Označení časovačů podle epizody a titulku série Pluginu"
 
 msgid "Label series"
-msgstr ""
+msgstr "Označení série"
 
 msgid ""
 "Last day to match events. Events have to begin before this date to be "
 "matched."
 msgstr ""
-"Poslední den odpovídající události. Událost musí začínat před tímto datem, "
-"jinak nevyhoví."
+"Poslední den pro shodu událostí. Za tímto dnem je vše ignorováno. "
 
 msgid "Location"
 msgstr "Umístění"
 
 msgid "Lower bound of timespan."
-msgstr "Dolní mez časového úseku."
+msgstr "Spodní hranice časového rozsahu"
 
 msgid ""
 "Lower bound of timespan. Nothing before this time will be matched. Offsets "
 "are not taken into account!"
 msgstr ""
-"Dolní mez časového úseku. Nic před tímto časem nebude odpovídat. Posuny "
-"nejsou brány v úvahu!"
+"Spodní hranice časového rozsahu. Nula před tímto časem bude srovnána. "
+"Časová rezerva je ignorována !"
 
 #, python-format
 msgid "Match Timespan: %02d:%02d - %02d:%02d"
-msgstr "Hledat v období: %02d:%02d - %02d:%02d"
+msgstr "Shodný čas.rozsah : %02d:%02d - %02d:%02d"
 
 msgid "Match title"
-msgstr "Finde in Titel"
+msgstr "Hledat v názvu"
 
 #, python-format
 msgid "Match title: %s"
-msgstr "Hledat titul: %s"
+msgstr "Hledat v názvu : %s"
 
 msgid "Maximum duration (in m)"
 msgstr "Maximální délka (v min)"
@@ -438,41 +439,41 @@ msgstr "Maximální délka (v min)"
 msgid ""
 "Maximum event duration to match. If an event is longer than this amount of "
 "time (without offset) it won't be matched."
-msgstr ""
+msgstr "Maximální délka události se shodou. Jestliže je událost delší (bez přídavků), nebude uznána shoda."
 
 msgid "Modify existing timers"
-msgstr "Upravit existující časovače"
+msgstr "Upravit existující časovač"
 
 msgid "Monday"
-msgstr "Pondělí"
+msgstr "pondělí"
 
 msgid "Monthly"
-msgstr "Měsíčně"
+msgstr "měsíčně"
 
 msgid "Never"
 msgstr "Nikdy"
 
 msgid "New"
-msgstr "Nový"
+msgstr "nové programy"
 
 msgid "No"
-msgstr "Ne"
+msgstr "ne"
 
 #
 msgid "No, remove them."
-msgstr "Ne, smazat."
+msgstr "Ne, odstranit ho."
 
 msgid "None"
-msgstr "Žádná"
+msgstr "-nic-"
 
 msgid "Not after"
-msgstr "Ne po"
+msgstr "Ne po..."
 
 msgid "Not before"
-msgstr "Ne před"
+msgstr "Ne před..."
 
 msgid "Number of scheduled recordings left."
-msgstr "Počet zbývajících naplánovaných nahrávek."
+msgstr "Vlevo počet naplánovaných záznamů"
 
 msgid "OK"
 msgstr "OK"
@@ -481,60 +482,60 @@ msgid "Offset after recording (in m)"
 msgstr "Posun po záznamu (v min)"
 
 msgid "Offset before recording (in m)"
-msgstr "Posun před záznamem (v min)"
+msgstr "Přídavný čas po záznamu (min.)"
 
 msgid "On any service"
-msgstr "Na každé stanici"
+msgstr "Na některém kanálu"
 
 msgid "On same service"
-msgstr "Na stejné stanici"
+msgstr "Na stejném kanálu"
 
 msgid "Only AutoTimers created during this session"
-msgstr "Pouze AutoČasovače založené v této akci"
+msgstr "V této sekci lze pouze sestavit aut.časovač"
 
 msgid "Only add timer for next x days"
-msgstr "Časovač přidat pouze na dalších x dní"
+msgstr "Pouze přidat časovač na dalších x dnů"
 
 msgid "Only match during timespan"
-msgstr "Jen odpovídající časovému úseku"
+msgstr "Pouze shoda v časovém úseku"
 
 #, python-format
 msgid "Only on Service: %s"
-msgstr "Jen na stanici: %s"
+msgstr "Pouze kanál : %s"
 
 #, python-format
 msgid "Only on Weekday: %s"
-msgstr ""
+msgstr "Pouze ve všední dny: %s"
 
 #
 msgid "Only poll while in standby"
-msgstr "Zjišťovat jen ve Standby"
+msgstr "Zjišťovat pouze v režimu spánku"
 
 msgid "Open Context Menu"
-msgstr "Otevřít pod nabídku"
+msgstr "Otevřít kontextové menu"
 
 msgid "Override found with alternative service"
-msgstr "Přepsat nalezené alternativním programem"
+msgstr "Odeslat na alternativní kanál"
 
 msgid "Please provide a Text to match"
-msgstr "Zadejte hledaný text"
+msgstr "Vložte text pro srovnání"
 
 #
 msgid "Poll Interval (in mins)"
-msgstr "Interval zjišťování (v min)"
+msgstr "Interval kontroly (v min)"
 
 msgid "Poll automatically"
-msgstr "Zjišťovat automaticky"
+msgstr "Aut.kontrola"
 
 msgid ""
 "Power state to change to after recordings. Select \"standard\" to not change "
 "the default behavior of enigma2 or values changed by yourself."
 msgstr ""
-"Změní stav napájení po ukončení záznamu. Zvolte \"standard \", když nechcete "
-"měnit výchozí chování Enigma2 nebo si nastavte hodnotu sami."
+"Stav zdroje při změně záznamu. Vyberte nezměněný \"standard \", předvolený "
+" režim Enigma2 nebo změňte hodnoty."
 
 msgid "Preview AutoTimer"
-msgstr "Přehled AutoČasovače"
+msgstr "Náhled aut.časovače"
 
 msgid ""
 "Question: I found a problem with the AutoTimer, can you fix it?/nAnswer: "
