@@ -16,396 +16,398 @@ msgstr ""
 
 #: ConfigTabs.py:63 EpgCenterList.py:966
 msgid "disabled"
-msgstr ""
+msgstr "vypnuto"
 
 #: ConfigTabs.py:98
 msgid "single line style"
-msgstr ""
+msgstr "jednořádkový"
 
 #: ConfigTabs.py:99
 msgid "with short description"
-msgstr ""
+msgstr "se zkráceným popisem"
 
 #: ConfigTabs.py:109
 msgid "list and event info: simple"
-msgstr ""
+msgstr "Seznam a info události : jednoduchý"
 
 #: ConfigTabs.py:110
 msgid "list and event info: gradient"
-msgstr ""
+msgstr "Seznam a info události : barevný spád"
 
 #: ConfigTabs.py:111
 msgid "list and event info: four parts"
-msgstr ""
+msgstr "Seznam a info události : čtyři části"
 
 #: ConfigTabs.py:112
 msgid "list and event info: percent (text)"
-msgstr ""
+msgstr "Seznam a info události : procenta (text)"
 
 #: ConfigTabs.py:113
 msgid "list: off, event info: simple"
-msgstr ""
+msgstr "Seznam : vyp., info události : jednoduchý"
 
 #: ConfigTabs.py:114
 msgid "list: off, event info: gradient"
-msgstr ""
+msgstr "Seznam : vyp., info události :  barevný spád"
 
 #: ConfigTabs.py:115
 msgid "list: off, event info: four parts"
-msgstr ""
+msgstr "Seznam : vyp., info události : čtyři části"
 
 #: ConfigTabs.py:116
 msgid "list: off, event info: percent (text)"
-msgstr ""
+msgstr "Seznam : vyp., info události : procenta (text)"
 
 #: ConfigTabs.py:187
 msgid "Prime time:"
-msgstr ""
+msgstr "Hlavní vysílací čas : "
 
 #: ConfigTabs.py:188
 msgid "Remember last tab:"
-msgstr ""
+msgstr "Zapamatovat poslední záložku : "
 
 #: ConfigTabs.py:189
 msgid "Select running service on start:"
-msgstr ""
+msgstr "Vybrat aktuální kanál při spuštění : "
 
 #: ConfigTabs.py:190
 msgid "Show text input help for epg search:"
-msgstr ""
+msgstr "Zobrazit vstupní nápovědu pro hledání EPG : "
 
 #: ConfigTabs.py:191
 msgid "Use skin:"
-msgstr ""
+msgstr "Použít skin : "
 
 #: ConfigTabs.py:192
 msgid "Limit search results to bouquet services:"
-msgstr ""
+msgstr "Omezit hledání na sadu kanálů : "
 
 #: ConfigTabs.py:193
 msgid "Exit on TV <-> Radio switch:"
-msgstr ""
+msgstr "Uzamknout výměnu mezi TV <--> Radio :"
 
 #: ConfigTabs.py:194
 msgid "Adjust font size:"
-msgstr ""
+msgstr "Nastavit velikost písma : "
 
 #: ConfigTabs.py:195
 msgid "Embed volume slider:"
-msgstr ""
+msgstr "Vložit posuvník hlasitosti : "
 
 #: ConfigTabs.py:208
 msgid "Show list numbers:"
-msgstr ""
+msgstr "Zobrazit čísla vysílačů : "
 
 #: ConfigTabs.py:209
 msgid "Show picons:"
-msgstr ""
+msgstr "Zobrazit picony : "
 
 #: ConfigTabs.py:211
 msgid "Use picons (50x30) from:"
-msgstr ""
+msgstr "Použít picony (50x30) z : "
 
 #: ConfigTabs.py:212
 msgid "Show service name:"
-msgstr ""
+msgstr "Zobrazit název vysílače : "
 
 #: ConfigTabs.py:214
 msgid "Adjust service name column width:"
-msgstr ""
+msgstr "Nastavení šířky sloupce pro název služby"
 
 #: ConfigTabs.py:215
 msgid "Show duration:"
-msgstr ""
+msgstr "Zobrazit dobu běhu : "
 
 #: ConfigTabs.py:216
 msgid "Show begin/remain times:"
-msgstr ""
+msgstr "Zobrazit čas spuštění a zbývající : "
 
 #: ConfigTabs.py:218
 msgid "Show multi colored begin/remain times:"
-msgstr ""
+msgstr "Zobrazit čas spuštění a zbývající barevně : "
 
 #: ConfigTabs.py:219
 msgid "Increase list item height:"
-msgstr ""
+msgstr "Zvětšit výšku řádků seznamu : "
 
 #: ConfigTabs.py:220
 msgid "Space between columns:"
-msgstr ""
+msgstr "Mezera mezi sloupci : "
 
 #: ConfigTabs.py:221
 msgid "List style:"
-msgstr ""
+msgstr "Styl seznamu : "
 
 #: ConfigTabs.py:222
 msgid "Progress bar style:"
-msgstr ""
+msgstr "Typ pásku průběhu : "
 
 #: ConfigTabs.py:223
 msgid "Number of upcoming events to show:"
-msgstr ""
+msgstr "Počet připravovaných událostí pro zobrazení : "
 
 #: ConfigTabs.py:251
 msgid "Show event information:"
-msgstr ""
+msgstr "Zobrazit info události : "
 
 #: ConfigTabs.py:253
 msgid "Show video picture:"
-msgstr ""
+msgstr "Zobrazit obrázky videa :"
 
 #: ConfigTabs.py:254
 msgid "Show blinking picon for running timers:"
-msgstr ""
+msgstr "Zobrazit blikající ikonu při nahrávání : "
 
 #: ConfigTabs.py:255
 msgid "Show short description:"
-msgstr ""
+msgstr "Zobrazit  krátký popis : "
 
 #: ConfigTabs.py:273
 msgid "Return to main tab with exit:"
-msgstr ""
+msgstr "Přepnout na hlavní záložku při ukončením : "
 
 #: ConfigTabs.py:274
 msgid "Replace InfoBar single and multi EPG:"
-msgstr ""
+msgstr "Nahradit jednoduchý info-panel a  Multi-EPG : "
 
 #: ConfigTabs.py:275
 msgid "Replace ChannelSelection key up to start with tab:"
-msgstr ""
+msgstr "Nahradit tlačítko výběru kanálů (nahoru) - při startu záložky  : "
 
 #: ConfigTabs.py:276
 msgid "Replace ChannelSelection key down to start with tab:"
-msgstr ""
+msgstr "Nahradit tlačítko výběru kanálů (nahoru) - při startu záložky  : "
 
 #: ConfigTabs.py:277
 msgid "Replace EventView key to start with tab:"
-msgstr ""
+msgstr "Nahradit tlačítko EventView - při startu záložky  : "
 
 #: EpgCenterList.py:944
 msgid "waiting"
-msgstr ""
+msgstr "...čekám..."
 
 #: EpgCenterList.py:947
 msgid "about to start"
-msgstr ""
+msgstr "nyní spustit"
 
 #: EpgCenterList.py:951
 msgid "zapped"
-msgstr ""
+msgstr "přepnutý"
 
 #: EpgCenterList.py:953
 msgid "recording..."
-msgstr ""
+msgstr "nahrávám..."
 
 #: EpgCenterList.py:956 EpgCenterList.py:962
 msgid "done!"
-msgstr ""
+msgstr "...hotovo !"
 
 #: EpgCenterList.py:959
 msgid "<unknown>"
-msgstr ""
+msgstr "<neznámé>"
 
 #: HelperFunctions.py:47
 msgid "Friday"
-msgstr ""
+msgstr "pátek"
 
 #: HelperFunctions.py:47
 msgid "Monday"
-msgstr ""
+msgstr "pondělí"
 
 #: HelperFunctions.py:47
 msgid "Saturday"
-msgstr ""
+msgstr "sobota"
 
 #: HelperFunctions.py:47
 msgid "Sunday"
-msgstr ""
+msgstr "neděle"
 
 #: HelperFunctions.py:47
 msgid "Thursday"
-msgstr ""
+msgstr "čtvrtek"
 
 #: HelperFunctions.py:47
 msgid "Tuesday"
-msgstr ""
+msgstr "úterý"
 
 #: HelperFunctions.py:47
 msgid "Wednesday"
-msgstr ""
+msgstr "středa"
 
 #: HelperFunctions.py:188
 msgid "Today"
-msgstr ""
+msgstr "dnes"
 
 #: HelperFunctions.py:191
 msgid "Tomorrow"
-msgstr ""
+msgstr "zítra"
 
 #: MerlinEPGCenter.py:43
 msgid "Now"
-msgstr ""
+msgstr "aktuální čas"
 
 #: MerlinEPGCenter.py:43
 msgid "Prime Time"
-msgstr ""
+msgstr "hl.vysílací čas"
 
 #: MerlinEPGCenter.py:43
 msgid "Search"
-msgstr ""
+msgstr "hledat"
 
 #: MerlinEPGCenter.py:43
 msgid "Single"
-msgstr ""
+msgstr "aktuální kanál"
 
 #: MerlinEPGCenter.py:43
 msgid "Upcoming"
-msgstr ""
+msgstr "další čas"
 
 #: MerlinEPGCenter.py:43 MerlinEPGCenter.py:325 MerlinEPGCenter.py:1910
 msgid "Timer"
-msgstr ""
+msgstr "časovač"
 
 #: MerlinEPGCenter.py:44
 msgid "Event Info"
-msgstr ""
+msgstr "Info události"
 
 #: MerlinEPGCenter.py:44
 msgid "General"
-msgstr ""
+msgstr "Obecné"
 
 #: MerlinEPGCenter.py:44
 msgid "Keys"
-msgstr ""
+msgstr "Tlačítka"
 
 #: MerlinEPGCenter.py:44
 msgid "Lists"
-msgstr ""
+msgstr "Seznamy"
 
 #: MerlinEPGCenter.py:222
 msgid "Search for:"
-msgstr ""
+msgstr "Hledat : "
 
 #: MerlinEPGCenter.py:550
 msgid "Similar"
-msgstr ""
+msgstr "Podobné"
 
 #: MerlinEPGCenter.py:821
 msgid "Record or zap timer"
-msgstr ""
+msgstr "Zapsat časovač pro nahrávání"
 
 #: MerlinEPGCenter.py:822
 msgid "AutoTimer timer"
-msgstr ""
+msgstr "AutoTimer - časovač"
 
 #: MerlinEPGCenter.py:823
 msgid "Please select a timer type to add:"
-msgstr ""
+msgstr "Vyberte typ časovače pro přidání : "
 
 #: MerlinEPGCenter.py:964
 msgid "Stop current event but not coming events"
-msgstr ""
+msgstr "Zastavit běžící události, ale neblokovat přicházející "
 
 #: MerlinEPGCenter.py:965
 msgid "Stop current event and disable coming events"
-msgstr ""
+msgstr "Zastavit běžící události a vyřadit přicházející "
 
 #: MerlinEPGCenter.py:966
 msgid "Don't stop current event but disable coming events"
-msgstr ""
+msgstr "Nezastavovat aktuálně spuštěnou událost, ale zastavit další přicházející"
 
 #: MerlinEPGCenter.py:968
 msgid "Repeating event currently recording... What do you want to do?"
 msgstr ""
+"Opakuje se událost aktuálně nahraná... \n"
+"Co s tím udělat ?"
 
 #: MerlinEPGCenter.py:1061
 msgid "Match title:"
-msgstr ""
+msgstr "hledat v titulku : "
 
 #: MerlinEPGCenter.py:1067
 msgid "Services:"
-msgstr ""
+msgstr "Vysílač :"
 
 #: MerlinEPGCenter.py:1073
 msgid "Bouquets:"
-msgstr ""
+msgstr "Sada kanálů : "
 
 #: MerlinEPGCenter.py:1079
 msgid "Included days:"
-msgstr ""
+msgstr "Započtené dny : "
 
 #: MerlinEPGCenter.py:1085
 msgid "Excluded days:"
-msgstr ""
+msgstr "Vyloučené dny : "
 
 #: MerlinEPGCenter.py:1086
 msgid "Record a maximum of x times:"
-msgstr ""
+msgstr "Max. čas záznamu : "
 
 #: MerlinEPGCenter.py:1087
 msgid "Amount of recordings left:"
-msgstr ""
+msgstr "Zbývající počet záznamů : "
 
 #: MerlinEPGCenter.py:1088
 msgid "Search type:"
-msgstr ""
+msgstr "Způsob hledání : "
 
 #: MerlinEPGCenter.py:1089
 msgid "Location:"
-msgstr ""
+msgstr "Umístění : "
 
 #: MerlinEPGCenter.py:1291
 msgid "Outdated on"
-msgstr ""
+msgstr "Uplynulý na "
 
 #: MerlinEPGCenter.py:1293
 msgid "Outdated off"
-msgstr ""
+msgstr "Uplynulý od "
 
 #: MerlinEPGCenter.py:1298
 msgid "IMDb"
-msgstr ""
+msgstr "IMDb"
 
 #: MerlinEPGCenter.py:1304
 msgid "Add"
-msgstr ""
+msgstr "Přidat"
 
 #: MerlinEPGCenter.py:1306
 msgid "Remove"
-msgstr ""
+msgstr "Odebrat"
 
 #: MerlinEPGCenter.py:1307
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: MerlinEPGCenter.py:1308
 msgid "New Search"
-msgstr ""
+msgstr "Nové hledání"
 
 #: MerlinEPGCenter.py:1318
 msgid "Remove timer"
-msgstr ""
+msgstr "Odebrat časovač"
 
 #: MerlinEPGCenter.py:1321 MerlinEPGCenter.py:1329
 msgid "Add timer"
-msgstr ""
+msgstr "Přidat časovač"
 
 #: MerlinEPGCenter.py:1662
 msgid "Edit Off"
-msgstr ""
+msgstr "Uzamknout "
 
 #: MerlinEPGCenter.py:1666
 msgid "Edit On"
-msgstr ""
+msgstr "Odemknout"
 
 #: MerlinEPGCenter.py:1687
 msgid "return"
-msgstr ""
+msgstr "zpět"
 
 #: MerlinEPGCenter.py:1899
 msgid "Set search term"
-msgstr ""
+msgstr "Text pro hledání "
 
 #: plugin.py:183
 msgid "More than just an EPG..."
-msgstr ""
+msgstr "-- EPG prg. průvodce pro data kanálů"
