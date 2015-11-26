@@ -15,19 +15,19 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Add Tag"
-msgstr "Tag hinzufügen"
+msgstr "Přidat značku"
 
 msgid "Add new Tag"
-msgstr "Neuen Tag hinzufügen"
+msgstr "Přidat novou značku"
 
 msgid "Assigned Tags"
-msgstr "Zugeordnete Tags"
+msgstr "Vybrané značky"
 
 msgid "Can't write movietags, because no meta-file found!"
-msgstr "Keine Metadaten vorhanden, Filmtags können nicht gespeichert werden!"
+msgstr "Značku do videa nelze zadat, protože chybí meta-soubor !"
 
 msgid "Clear all Tags"
-msgstr "Alle Tags löschen"
+msgstr "Odebrat všechny značky"
 
 msgid ""
 "Clear all Tags?\n"
@@ -35,40 +35,40 @@ msgid ""
 "This will delete ALL tags in ALL recodings!\n"
 "Are you sure?"
 msgstr ""
-"Alle Tags löschen?\n"
+"Odebrat všechny značky ? \n"
 "\n"
-"Damit werden ALLE Tags in ALLEN Aufnahmen gelöscht!\n"
-"Sind Sie sicher?"
+"Odstraní se všechny značky ve všech záznamech !\n"
+"Chcete pokračovat ?"
 
 msgid "Enter the new Tag"
-msgstr "Geben Sie den neuen Tag an"
+msgstr "Zadejte novou značku"
 
 msgid "Movie Tagger"
-msgstr "Movie Tagger"
+msgstr "Značka videa"
 
 msgid "Movie Tagger..."
-msgstr "Movie Tagger..."
+msgstr "Přesunout značku..."
 
 msgid "Predefined Tag"
-msgstr "Vorgegebener Tag"
+msgstr "Předvolit značku"
 
 msgid "Remove Tag"
-msgstr "Tag entfernen"
+msgstr "Tag byla odstraněna"
 
 msgid "Specified Tags"
-msgstr "Vorhandene Tags"
+msgstr "Existující značky"
 
 msgid "Toggle List"
-msgstr "Liste wechseln"
+msgstr "Změnit seznam"
 
 msgid "Used Tag"
-msgstr "Verwendeter Tag"
+msgstr "Použít značku"
 
 msgid "User-specific Tag"
-msgstr "Benutzereigener Tag"
+msgstr "Uživatelská značka"
 
 msgid "Ver."
-msgstr "Ver."
+msgstr "ver."
 
 msgid "Whitepace will be replaced by \"_\""
-msgstr "Leerstellen werden durch \"_\" ersetzt"
+msgstr "Prázdné místo bude nahrazeno znakem :  \"_\" "
