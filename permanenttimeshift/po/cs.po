@@ -15,125 +15,125 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Save and stop"
-msgstr "Save and stop"
+msgstr "uložit a zastavit"
 
 msgid "Save and record"
-msgstr "Save and record"
+msgstr "uložit a nahrávat"
 
 msgid "Don't save"
-msgstr "Nicht speichern"
+msgstr "neukládat"
 
 msgid "Saving Timeshift files"
-msgstr "Speichere Timeshift Dateien"
+msgstr "Uložení souboru Timeshiftu"
 
 msgid "Merging Timeshift files"
-msgstr "Füge Timeshift Dateien zusammen"
+msgstr "Sloučit soubory Timeshiftu"
 
 msgid "Saving timeshift as movie now. This might take a while!"
-msgstr "Speichere nun Timeshift als Film. Das kann eine Weile dauern!"
+msgstr "Uložení souboru Timeshiftu jako video. Bude to chvíli trvat..."
 
 msgid "Records successfully merged!"
-msgstr "Aufnahmen erfolgreich zusammengefügt!"
+msgstr "Záznamy byly úspěšně sloučené !"
 
 msgid "Record started! Stopping timeshift now ..."
-msgstr "Aufnahme gestartet! Stoppe timeshift aufnahme ..."
+msgstr "Záznam je spuštěný ! Timeshift bude nyní zastavený ..."
 
 msgid "Record"
-msgstr "Aufnahme"
+msgstr "Záznam"
 
 msgid "Timeshift"
-msgstr "Timeshift"
+msgstr "Perm.Timeshift - "
 
 msgid ""
 "Could not activate Permanent-Timeshift!\n"
 "Timeshift-Path does not exist"
 msgstr ""
-"Permanent-Timeshift konnte nicht aktiviert werden!\n"
-"Aufnahmeverzeichnis existiert nicht!"
+"Permanent-Timeshift nelze aktivovat !\n"
+"Není nastavena složka pro ukládání.!"
 
 msgid ""
 "OH NO!\n"
 "The timeshift that was marked to save at end of event, was lost because you zapped away!"
 msgstr ""
-"OH NEIN!\n"
-"Die Timeshiftaufnahme wurde noch nicht gespeichert weil du zu früh weggezapped hast!"
+"Ale ne!..\n"
+"Timeshift se měl uložit na konci relace, ale nepodařilo se to, protože jste přepnul jinam !"
 
 msgid "Timeshift saved to your harddisk!"
-msgstr "Timeshiftaufnahme auf Festplatte gespeichert!"
+msgstr "Soubor Timeshiftu byl uložený na haddisk !"
 
 msgid "Timeshift copied to your harddisk!"
-msgstr "Timeshiftaufnahme auf Festplatte kopiert!"
+msgstr "Soubor Timeshiftu byl zkopírovaný na harddisk !"
 
 msgid "Timeshift save failed!"
-msgstr "Fehler beim speichern der Timeshiftaufnahme!"
+msgstr "Soubor Timeshiftu se nepodařilo uložit !"
 
 msgid "No Timeshift found to save as recording!"
-msgstr "Keine Timeshift Datei gefunden zum speichern!"
+msgstr "Soubor Timeshiftu pro uložení nebyl nalezený !"
 
 msgid "Permanent Timeshift Settings"
-msgstr "Permanent Timeshift Einstellungen"
+msgstr "Nastavení Permanent Timeshiftu"
 
 msgid ""
 "The Timeshift record was not saved yet!\n"
 "What do you want to do now with the timeshift file?"
 msgstr ""
-"Die Timeshiftaufnahme wurde noch nicht gespeichert!\n"
-"Was möchtest du nun mit der Timeshift aufnahme tun?"
+"Soubor Timeshiftu není uložený !\n"
+"Jak nyní pokračovat ?"
 
 msgid "Which event do you want to save permanently?"
-msgstr "Welche Sendung möchtest du permanent speichern?"
+msgstr "Který program chcete ukládat permanentně ?"
 
 msgid "Save Timeshift as Movie and stop recording"
-msgstr "Timeshiftaufnahme als Film speichern und Aufnahme beenden"
+msgstr "Uložit Timeshift jako video a ukončit nahrávání"
 
 msgid "Save Timeshift as Movie and continue recording"
-msgstr "Timeshiftaufnahme als Film speichern und weiter aufnehmen"
+msgstr "Uložit Timeshift jako video a pokračovat v nahrávání"
 
 msgid "Don't save Timeshift as Movie"
-msgstr "Timeshiftaufnahme nicht als Film speichern"
+msgstr "Neukládat Timeshift jako video"
 
 msgid "Current Event:"
-msgstr "Aktuelle Sendung:"
+msgstr "Aktuální relace :"
 
 msgid "Getting Event Info failed!"
-msgstr "Fehler bei lesen der Event-Infos!"
+msgstr "Selhalo stahování informací o programu !"
 
 msgid ""
 "Maximum Timeshift length per Event reached!\n"
 "Restarting Timeshift now ..."
 msgstr ""
-"Maximale länge für eine Timeshiftaufnahme erreicht!\n"
-"Timeshiftaufnahme wird neu gestartet ..."
+"Dosáhli jste max.délku Timeshiftu !\n"
+"Restartujte Timeshift ..."
 
 msgid "Timeshift will get saved at end of event!"
-msgstr "Timeshiftaufnahme wird am Ende dieses Films gespeichert!"
+msgstr "Soubor Timeshiftu se po skončení relace uloží jako video"
 
 msgid "save recording (stop after current event)"
-msgstr "Aufnahme speichern (Aktuelle Sendung)"
+msgstr "po dokončení prg.uložit záznam "
 
 msgid "save recording (Select event)"
-msgstr "Aufnahme speichern (Sendung auswählen)"
+msgstr "vybrat program pro uložení záznamu "
 
 msgid "Permanent Timeshift Enable"
-msgstr "Permanent Timeshift aktivieren"
+msgstr "Zapnout Permanent Timeshift"
 
 msgid "Permanent Timeshift Max Events"
-msgstr "Permanent Timeshift Max Sendungen"
+msgstr "Max.počet programů pro Permanent Timeshift"
 
 msgid "Permanent Timeshift Max Length"
-msgstr "Permanent Timeshift Max Länge"
+msgstr "Max.délka pro Permanent Timeshift"
 
 msgid "Permanent Timeshift Start Delay"
-msgstr "Permanent Timeshift Start Verzögerung"
+msgstr "Spustit Permanent Timeshift se zpožděním"
 
 msgid "Timeshift-Save Action on zap"
-msgstr "Timeshift-Save Aktion beim zap"
+msgstr "Soubor Timeshiftu se po zapnutí uloží"
 
 msgid "Show PTS Infobar while timeshifting?"
-msgstr "PTS Infobar anzeigen während des timeshiftens?"
+msgstr "Zobrazit PTS info-panel při Timeshiftu ?"
 
 msgid "Stop timeshift while recording?"
-msgstr "Timeshift beenden wenn Aufnahme läuft?"
+msgstr "Zastavit Timeshift při nahrávání ?"
 
 msgid "Creating Hardlink to Timeshift file failed!"
-msgstr "Fehler beim erstellen des Hardlinks zur Timeshift Datei!"
+msgstr "Selhalo vytvoření linku na soubor Timeshiftu !"
