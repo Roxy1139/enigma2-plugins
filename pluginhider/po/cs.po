@@ -16,7 +16,7 @@ msgstr ""
 
 #: ../src/plugin.py:79
 msgid "Hide Plugins"
-msgstr "Plugins ausblenden"
+msgstr "Skrýt moduly v seznamech"
 
 #: ../src/PluginHiderSetup.py:52
 msgid "OK"
@@ -24,62 +24,62 @@ msgstr "OK"
 
 #: ../src/PluginHiderSetup.py:53
 msgid "Cancel"
-msgstr "Abbruch"
+msgstr "Storno"
 
 #: ../src/PluginHiderSetup.py:55
 msgid "Run"
-msgstr "Starten"
+msgstr "Spustit"
 
 #: ../src/PluginHiderSetup.py:56
 msgid "Plugin/s"
-msgstr "Plugin/s"
+msgstr "Moduly"
 
 #: ../src/PluginHiderSetup.py:57
 msgid "Extension/s"
-msgstr "Erweiterng."
+msgstr "Rozšířené"
 
 #: ../src/PluginHiderSetup.py:58
 msgid "Eventinfo"
-msgstr "Event Info"
+msgstr "Info "
 
 #: ../src/PluginHiderSetup.py:67
 msgid "toggle selection"
-msgstr "Einstellung umkehren"
+msgstr "Přepnout výběr"
 
 #: ../src/PluginHiderSetup.py:68
 msgid "end editing"
-msgstr "Bearbeitung beenden"
+msgstr "Konec"
 
 #: ../src/PluginHiderSetup.py:69
 msgid "save"
-msgstr "speichern"
+msgstr "Uložit"
 
 #: ../src/PluginHiderSetup.py:70
 msgid "run selected plugin"
-msgstr "Ausgewähltes Plugin starten"
+msgstr "Spustit modul"
 
 #: ../src/PluginHiderSetup.py:71
 msgid "select next tab"
-msgstr "nächsten Tab wählen"
+msgstr "Vybrat další záložku"
 
 #: ../src/PluginHiderSetup.py:72
 msgid "select previous tab"
-msgstr "vorherigen Tab wählen"
+msgstr "Vybrat předchozí záložku"
 
 #: ../src/PluginHiderSetup.py:95
 msgid "Could not start Plugin:"
-msgstr "Kann Plugin nicht starten:"
+msgstr "Nelze spustit modul : "
 
 #: ../src/PluginHiderSetup.py:95
 msgid "Unable to access InfoBar."
-msgstr "Kann nicht auf InfoBar zugreifen."
+msgstr "Nelze vstoupit do info-panelu"
 
 #: ../src/PluginHiderSetup.py:122
 msgid "PluginHider Setup"
-msgstr "PluginHider Setup"
+msgstr "Nastavit PluginHider..."
 
 #~ msgid "Next"
-#~ msgstr "Vor"
+#~ msgstr "Další"
 
 #~ msgid "Previous"
-#~ msgstr "Zurück"
+#~ msgstr "Předchozí"
