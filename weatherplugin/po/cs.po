@@ -16,110 +16,112 @@ msgstr ""
 
 #: ../src/setup.py:73
 msgid "Add"
-msgstr ""
+msgstr "Přidat"
 
 #: ../src/setup.py:72
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
 
 #: ../src/setup.py:177
 msgid "Cancel"
-msgstr ""
+msgstr "Storno"
 
 #: ../src/setup.py:70
 msgid "City"
-msgstr ""
+msgstr "město"
 
 #: ../src/setup.py:189
 msgid "City or Postal Code"
-msgstr ""
+msgstr "Směrovací číslo nebo město"
 
 #: ../src/plugin.py:208
 #, python-format
 msgid "Current: %s"
-msgstr ""
+msgstr "Aktuální : %s"
 
 #: ../src/setup.py:75 ../src/setup.py:179
 msgid "Delete"
-msgstr ""
+msgstr "Odstranit"
 
 #: ../src/setup.py:74
 msgid "Edit"
-msgstr ""
+msgstr "Upravit"
 
 #: ../src/plugin.py:135
 msgid "Getting weather information..."
-msgstr ""
+msgstr "Stahuji informace o počasí..."
 
 #: ../src/setup.py:71 ../src/setup.py:190
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 #: ../src/plugin.py:139
 msgid ""
 "No locations defined...\n"
 "Press 'Menu' to do that."
 msgstr ""
+"Město není definováno ! \n "
+"Přes 'Menu' zadejte data..."
 
 #: ../src/setup.py:178
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/setup.py:114 ../src/setup.py:213
 msgid "Really delete this WeatherPlugin Entry?"
-msgstr ""
+msgstr "Chcete odebrat záznamy z WeatherPlugin  ?"
 
 #: ../src/plugin.py:64
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "-- zobrazení předpovědi počasí"
 
 #: ../src/plugin.py:64 ../src/plugin.py:95
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Weather Plugin"
 
 #: ../src/setup.py:164
 msgid "WeatherPlugin: Edit Entry"
-msgstr ""
+msgstr "Upravit zadání pro modul počasí"
 
 #: ../src/setup.py:65
 msgid "WeatherPlugin: List of Entries"
-msgstr ""
+msgstr "Seznam zadání pro modul počasí"
 
 msgid "Location code"
-msgstr ""
+msgstr "Kód místa"
 
 msgid "System"
-msgstr ""
+msgstr "Systém"
 
 msgid "Search Code"
-msgstr ""
+msgstr "Vyhledat kód"
 
 msgid "metric system"
-msgstr ""
+msgstr "Metrický systém"
 
 msgid "imperial system"
-msgstr ""
+msgstr "Anglická metrická soustava"
 
 msgid "Observation time: %s"
-msgstr ""
+msgstr "čas měření : %s"
 
 msgid "Observation point: %s"
-msgstr ""
+msgstr "měřící bod : %s"
 
 msgid "Feels like %s"
-msgstr ""
+msgstr "pocitová teplota :  %s"
 
 msgid "Humidity: %s %%"
-msgstr ""
+msgstr "vlhkost : %s %%"
 
 msgid "You need to enter a valid city name before you can search for the location code."
-msgstr ""
+msgstr "Než začnete hledat kód, potřebujete zadat platný název města ..."
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Zadejte platný název města"
 
 msgid "Please enter a valid location code for the city."
-msgstr ""
+msgstr "Zadejte platný kód pro město"
 
 msgid "MSN location search result"
-msgstr ""
+msgstr "Vyhledat MSN kód města"
