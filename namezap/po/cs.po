@@ -18,15 +18,15 @@ msgstr ""
 #: ../src/NamezapSetup.py:74
 #: ../src/plugin.py:107
 msgid "NameZAP Setup"
-msgstr "NameZAP einrichten"
+msgstr "NameZAP - nastavení"
 
 #: ../src/NamezapSetup.py:39
 msgid "Zapper Style"
-msgstr "Zapper-Stil"
+msgstr "Zapper - styl"
 
 #: ../src/NamezapSetup.py:39
 msgid "Controls the visual appearance of the number zap dialog."
-msgstr "Bestimmt das Aussehen der Einblendung bei Sendernr. ZAP. "
+msgstr "Nastavení NameZap dialogu - zobrazení čísla kanálu "
 
 #: ../src/NamezapSetup.py:56
 msgid "OK"
@@ -34,20 +34,20 @@ msgstr "OK"
 
 #: ../src/NamezapSetup.py:57
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr "Storno"
 
 #: ../src/plugin.py:17
 msgid "Only Number"
-msgstr "Nur Sendernummer"
+msgstr "Pouze číslo kanálu"
 
 #: ../src/plugin.py:18
 msgid "Service Name"
-msgstr "Sendername"
+msgstr "Název kanálu"
 
 #: ../src/plugin.py:19
 msgid "Number and Name"
-msgstr "Sender-Nr. und -Name"
+msgstr "Číslo kanálu a název"
 
 #: ../src/plugin.py:91
 msgid "Unknown Service"
-msgstr "Sender unbekannt"
+msgstr "Neznámý kanál"
