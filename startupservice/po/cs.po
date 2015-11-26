@@ -16,24 +16,24 @@ msgstr ""
 
 #: ../src/plugin.py:82
 msgid "set as startup service"
-msgstr ""
+msgstr "Nastavit jako startovací kanál ..."
 
 #: ../src/plugin.py:83
 msgid "reset startup service"
-msgstr ""
+msgstr "Reset nastavení startovacího kanálu"
 
 #: ../src/plugin.py:102
 msgid "If you see this message, please switch to the service you want to mark as startservice and try again."
-msgstr ""
+msgstr "Pokud se zobrazí toto hlášení, přepněte na kanál, který chcete jako startovací a akci zopakujte..."
 
 msgid "set as startup service after booting..."
-msgstr ""
+msgstr "Nastavit jako startovací kanál - po nabootování..."
 
 msgid "set as startup service after leaving standby mode..."
-msgstr ""
+msgstr "Nastavit jako startovací kanál - při spuštění z režimu spánku..."
 
 msgid "reset startup service for booting..."
-msgstr ""
+msgstr "Reset startovacího kanálu - po nabootování..."
 
 msgid "reset startup service for leaving standby mode..."
-msgstr ""
+msgstr "Reset startovacího kanálu - při spuštění z režimu spánku..."
