@@ -71,7 +71,7 @@ msgid ""
 "Error loading playlist into server %(server)s:\n"
 "%(error)s"
 msgstr ""
- "\n "Chyba při stahování seznamu souborů ze serveru  %(server)s:
+ "Chyba při stahování seznamu souborů ze serveru  %(server)s: \n"
 "  %(error)s "
 
 #: ../src/VlcMediaList.py:127
@@ -89,7 +89,7 @@ msgid ""
 "Error with VLC server:\n"
 "%s"
 msgstr ""
- "\n "Chyba na VLC serveru :
+ "Chyba na VLC serveru : \n"
 "  %s "
 
 #: ../src/VlcMediaList.py:62
