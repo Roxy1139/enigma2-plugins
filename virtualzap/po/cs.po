@@ -15,48 +15,50 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Storno"
 
 msgid "Could not open Picture in Picture"
-msgstr ""
+msgstr "Nelze otevřít PIP"
 
 msgid ""
 "GUI needs a restart to apply the new settings.\n"
 "Do you want to Restart the GUI now?"
 msgstr ""
+"Je třeba restartovat Enigma2 ! \n "
+"Restartovat nyní ?"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Remember last service"
-msgstr ""
+msgstr "Uložit poslední kanál"
 
 msgid "Restart GUI now?"
-msgstr ""
+msgstr "Restartovat Enigma2 nyní ?"
 
 msgid "Show PiP in Infobar"
-msgstr ""
+msgstr "Zobrazit PiP v info-panelu"
 
 msgid "Start standard PiP after x secs (0 = disabled)"
-msgstr ""
+msgstr "Spustit standardní PiP po x sec.  (0 = vyp.)"
 
 msgid "Usage"
-msgstr ""
+msgstr "Spustit přes..."
 
 msgid "Use PiP"
-msgstr ""
+msgstr "Otevřít malé okno PiP"
 
 msgid "Virtual (PiP) Zap"
-msgstr ""
+msgstr "Zapnout "Virtual (PiP)""
 
 msgid "Virtual Zap Setup"
-msgstr ""
+msgstr "-- zobrazit PiP okno v info-panelu"
 
 msgid "as plugin in extended bar"
-msgstr ""
+msgstr "jako modul v rozšířeném panelu"
 
 msgid "with exit button"
-msgstr ""
+msgstr "tlačítko  "Exit""
 
 msgid "with long OK press"
-msgstr ""
+msgstr "dlouhé tlačítko  "OK""
