@@ -16,86 +16,86 @@ msgstr ""
 
 #: ../src/plugin.py:570
 msgid "Close plugin"
-msgstr ""
+msgstr "Zavřít modul"
 
 #: ../src/plugin.py:431
 msgid "Delete"
-msgstr ""
+msgstr "Odstranit"
 
 #: ../src/plugin.py:563
 msgid "Delete all entries"
-msgstr ""
+msgstr "Odstranit všechny položky"
 
 #: ../src/plugin.py:562
 msgid "Delete entry"
-msgstr ""
+msgstr "Odstranit záznam"
 
 #: ../src/plugin.py:434
 msgid "Durations"
-msgstr ""
+msgstr "Seřadit (délka)"
 
 #: ../src/plugin.py:561
 msgid "Play entry"
-msgstr ""
+msgstr "Přehrát záznam"
 
 #: ../src/plugin.py:571
 msgid "Please choose a function..."
-msgstr ""
+msgstr "Vyberte funkci..."
 
 #: ../src/plugin.py:569
 msgid "Show combined duration window"
-msgstr ""
+msgstr "Zobrazit kombinované okno s délkou"
 
 #: ../src/plugin.py:568
 msgid "Show duration window"
-msgstr ""
+msgstr "Zobrazit okno délky"
 
 #: ../src/plugin.py:598
 msgid "Shows the watched services with some statistic"
-msgstr ""
+msgstr "-- zobrazit statistiku sledovaných kanálů "
 
 #: ../src/plugin.py:452
 msgid "Sort (date+)"
-msgstr ""
+msgstr "Seřadit (datum+)"
 
 #: ../src/plugin.py:456 ../src/plugin.py:539
 msgid "Sort (date-)"
-msgstr ""
+msgstr "Seřadit (datum-)"
 
 #: ../src/plugin.py:229 ../src/plugin.py:327
 msgid "Sort (duration+)"
-msgstr ""
+msgstr "Seřadit (délka+)"
 
 #: ../src/plugin.py:230 ../src/plugin.py:328
 msgid "Sort (duration-)"
-msgstr ""
+msgstr "Seřadit (délka-)"
 
 #: ../src/plugin.py:227 ../src/plugin.py:325 ../src/plugin.py:451
 msgid "Sort (name+)"
-msgstr ""
+msgstr "Seřadit (název+)"
 
 #: ../src/plugin.py:228 ../src/plugin.py:326 ../src/plugin.py:454
 #: ../src/plugin.py:524
 msgid "Sort (name-)"
-msgstr ""
+msgstr "Seřadit (název-)"
 
 #: ../src/plugin.py:566
 msgid "Sort by date (ascending)"
-msgstr ""
+msgstr "Seřadit  podle datumu (vzestupně)"
 
 #: ../src/plugin.py:567
 msgid "Sort by date (descending)"
-msgstr ""
+msgstr "Seřadit  podle datumu (sestupně)"
 
 #: ../src/plugin.py:564
 msgid "Sort by name (ascending)"
-msgstr ""
+msgstr "Seřadit podle názvu (vzestupně)"
 
 #: ../src/plugin.py:565
 msgid "Sort by name (descending)"
-msgstr ""
+msgstr "Seřadit podle názvu (sestupně)"
 
 #: ../src/plugin.py:220 ../src/plugin.py:317 ../src/plugin.py:422
 #: ../src/plugin.py:598
 msgid "Zap Statistic"
-msgstr ""
+msgstr "Zap Statistik"
