@@ -16,53 +16,53 @@ msgstr ""
 
 #. TRANSLATORS: leaving this empty is encouraged to not cause any confusion (this string was taken directly from the standard PluginBrowser)
 msgid "Download Plugins"
-msgstr "Plugins herunter laden"
+msgstr "Stáhnout modul"
 
 msgid "End Sort"
-msgstr "Sortieren beenden"
+msgstr "Vypnout přesun"
 
 msgid "Help"
-msgstr "Hilfe"
+msgstr "Nápověda"
 
 #. TRANSLATORS: leaving this empty is encouraged to not cause any confusion (this string was taken directly from the standard PluginBrowser)
 msgid "Manage extensions"
-msgstr "Erweiterungen verwalten"
+msgstr "Dostupné moduly"
 
 #. TRANSLATORS: leaving this empty is encouraged to not cause any confusion (this string was taken directly from the standard PluginBrowser)
 msgid "Remove Plugins"
-msgstr "Plugins entfernen"
+msgstr "Odstranit modul"
 
 msgid "Sort"
-msgstr "Sortieren"
+msgstr "Vybrat -> OK-> přesunout..."
 
 msgid "Sort EventInfo Extensions"
-msgstr "Sortiere Event Info Erweiterungen"
+msgstr "Seřadit rozšířené informace"
 
 msgid "Sort Extensions"
-msgstr "Sortiere Erweiterungen"
+msgstr "Seřadit rozšířené info"
 
 msgid "Sort MovieList Extensions"
-msgstr "Sortiere Movielist Erweiterungen"
+msgstr "Seřadit seznam videa"
 
 msgid "Unable to load PluginHider"
-msgstr "PluginHider konnte nicht geladen werden!"
+msgstr "PluginHider nelze načíst !"
 
 #. TRANSLATORS: there is no need to translate this string, as it was reused from e2 core
 msgid "disable move mode"
-msgstr "Verschiebemodus aus"
+msgstr "Vypnout mód přesunu"
 
 #. TRANSLATORS: there is no need to translate this string, as it was reused from e2 core
 msgid "enable move mode"
-msgstr "Verschiebemodus ein"
+msgstr "Přesunout všechny položky"
 
 msgid "hide selected plugin"
-msgstr "Selektiertes Plugin ausblenden"
+msgstr "Skrýt vybraný modul"
 
 msgid "move event extensions"
-msgstr "Event Info Erweiterungen verschieben"
+msgstr "Přesunout nové položky pro kanály"
 
 msgid "move extensions"
-msgstr "Erweiterungen verschieben "
+msgstr "Přesunout nové položky  "
 
 msgid "move movie extensions"
-msgstr "Movielist Erweiterungen verschieben"
+msgstr "Přesunout nové položky videa"
